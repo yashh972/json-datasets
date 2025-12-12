@@ -1,0 +1,1842 @@
+{
+    "topic": "Quantitative Aptitude",
+    "levels": [
+        {
+            "level_id": 1,
+            "difficulty": "Easy",
+            "description": "Foundational concepts: Number Systems, Basic Arithmetic, Simplification, and Direct Formula Application.",
+            "questions": [
+                {
+                    "id": "Q_L1_01",
+                    "question": "What is the unit digit in the product (784 × 618 × 917 × 463)?",
+                    "options": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "answer": "2",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_02",
+                    "question": "Which of the following numbers is exactly divisible by 9?",
+                    "options": [
+                        "182736",
+                        "45678",
+                        "24681",
+                        "90125"
+                    ],
+                    "answer": "182736",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_03",
+                    "question": "Find the H.C.F. of 108, 288 and 360.",
+                    "options": [
+                        "18",
+                        "36",
+                        "72",
+                        "9"
+                    ],
+                    "answer": "36",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_04",
+                    "question": "If a number is increased by 20% and then decreased by 20%, what is the net change?",
+                    "options": [
+                        "No change",
+                        "4% increase",
+                        "4% decrease",
+                        "1% decrease"
+                    ],
+                    "answer": "4% decrease",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_05",
+                    "question": "Simplify: 12 + 12 × 12 ÷ 12 - 12",
+                    "options": [
+                        "0",
+                        "12",
+                        "1",
+                        "144"
+                    ],
+                    "answer": "12",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_06",
+                    "question": "The average of the first five multiples of 3 is:",
+                    "options": [
+                        "3",
+                        "9",
+                        "12",
+                        "15"
+                    ],
+                    "answer": "9",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_07",
+                    "question": "Convert 72 km/hr into meters per second (m/s).",
+                    "options": [
+                        "20 m/s",
+                        "25 m/s",
+                        "15 m/s",
+                        "10 m/s"
+                    ],
+                    "answer": "20 m/s",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_08",
+                    "question": "A person crosses a 600 m long street in 5 minutes. What is his speed in km/hr?",
+                    "options": [
+                        "3.6",
+                        "7.2",
+                        "8.4",
+                        "10"
+                    ],
+                    "answer": "7.2",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_09",
+                    "question": "If A:B = 5:7 and B:C = 6:11, then A:B:C is:",
+                    "options": [
+                        "55:77:66",
+                        "30:42:77",
+                        "35:49:42",
+                        "None of these"
+                    ],
+                    "answer": "30:42:77",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_10",
+                    "question": "If 15% of A = 20% of B, then A:B is:",
+                    "options": [
+                        "3:4",
+                        "4:3",
+                        "17:16",
+                        "16:17"
+                    ],
+                    "answer": "4:3",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_11",
+                    "question": "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is:",
+                    "options": [
+                        "15",
+                        "16",
+                        "18",
+                        "25"
+                    ],
+                    "answer": "16",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_12",
+                    "question": "A fruit seller had some apples. He sells 40% apples and still has 420 apples. Originally, he had:",
+                    "options": [
+                        "588 apples",
+                        "600 apples",
+                        "672 apples",
+                        "700 apples"
+                    ],
+                    "answer": "700 apples",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_13",
+                    "question": "Find the simple interest on Rs. 68,000 at 16 (2/3)% per annum for 9 months.",
+                    "options": [
+                        "Rs. 8500",
+                        "Rs. 9000",
+                        "Rs. 7500",
+                        "Rs. 8000"
+                    ],
+                    "answer": "Rs. 8500",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_14",
+                    "question": "A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for Rs. 3200. With the help of C, they completed the work in 3 days. How much is to be paid to C?",
+                    "options": [
+                        "Rs. 375",
+                        "Rs. 400",
+                        "Rs. 600",
+                        "Rs. 800"
+                    ],
+                    "answer": "Rs. 400",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_15",
+                    "question": "Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is:",
+                    "options": [
+                        "1:3",
+                        "3:2",
+                        "3:4",
+                        "None of these"
+                    ],
+                    "answer": "3:2",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_16",
+                    "question": "Find the value of x in the following figure.",
+                    "options": [
+                        "50",
+                        "60",
+                        "70",
+                        "80"
+                    ],
+                    "answer": "70",
+                    "image_url": "assets/images/quant/Q_L1_16.jpg"
+                },
+                {
+                    "id": "Q_L1_17",
+                    "question": "Three numbers are in the ratio of 3 : 4 : 5 and their L.C.M. is 2400. Their H.C.F. is:",
+                    "options": [
+                        "40",
+                        "80",
+                        "120",
+                        "200"
+                    ],
+                    "answer": "40",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_18",
+                    "question": "The sum of ages of 5 children born at the intervals of 3 years each is 50 years. What is the age of the youngest child?",
+                    "options": [
+                        "4 years",
+                        "8 years",
+                        "10 years",
+                        "None of these"
+                    ],
+                    "answer": "4 years",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_19",
+                    "question": "A man buys a cycle for Rs. 1400 and sells it at a loss of 15%. What is the selling price of the cycle?",
+                    "options": [
+                        "Rs. 1090",
+                        "Rs. 1160",
+                        "Rs. 1190",
+                        "Rs. 1202"
+                    ],
+                    "answer": "Rs. 1190",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_20",
+                    "question": "If log(x) / log(4) = log(64) / log(16), then x is:",
+                    "options": [
+                        "4",
+                        "8",
+                        "12",
+                        "16"
+                    ],
+                    "answer": "8",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_21",
+                    "question": "What is the probability of getting a sum of 9 from two throws of a dice?",
+                    "options": [
+                        "1/6",
+                        "1/8",
+                        "1/9",
+                        "1/12"
+                    ],
+                    "answer": "1/9",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_22",
+                    "question": "In a 100 m race, A can beat B by 25 m and B can beat C by 4 m. In the same race, A can beat C by:",
+                    "options": [
+                        "21 m",
+                        "26 m",
+                        "28 m",
+                        "29 m"
+                    ],
+                    "answer": "28 m",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_23",
+                    "question": "The angle of elevation of a ladder leaning against a wall is 60° and the foot of the ladder is 4.6 m away from the wall. The length of the ladder is:",
+                    "options": [
+                        "2.3 m",
+                        "4.6 m",
+                        "7.8 m",
+                        "9.2 m"
+                    ],
+                    "answer": "9.2 m",
+                    "image_url": "assets/images/quant/Q_L1_23.png"
+                },
+                {
+                    "id": "Q_L1_24",
+                    "question": "How many times are the hands of a clock at right angle in a day?",
+                    "options": [
+                        "22",
+                        "24",
+                        "44",
+                        "48"
+                    ],
+                    "answer": "44",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_25",
+                    "question": "It was Sunday on Jan 1, 2006. What was the day of the week on Jan 1, 2010?",
+                    "options": [
+                        "Sunday",
+                        "Saturday",
+                        "Friday",
+                        "Wednesday"
+                    ],
+                    "answer": "Friday",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_26",
+                    "question": "A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:",
+                    "options": [
+                        "Rs. 650",
+                        "Rs. 690",
+                        "Rs. 698",
+                        "Rs. 700"
+                    ],
+                    "answer": "Rs. 698",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_27",
+                    "question": "The area of a rectangle is 460 square meters. If the length is 15% more than the breadth, what is the breadth of the rectangle?",
+                    "options": [
+                        "15 m",
+                        "26 m",
+                        "34.5 m",
+                        "20 m"
+                    ],
+                    "answer": "20 m",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_28",
+                    "question": "A boat can travel with a speed of 13 km/hr in still water. If the speed of the stream is 4 km/hr, find the time taken by the boat to go 68 km downstream.",
+                    "options": [
+                        "2 hours",
+                        "3 hours",
+                        "4 hours",
+                        "5 hours"
+                    ],
+                    "answer": "4 hours",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_29",
+                    "question": "In how many different ways can the letters of the word 'JUDGE' be arranged so that the vowels always come together?",
+                    "options": [
+                        "48",
+                        "120",
+                        "24",
+                        "160"
+                    ],
+                    "answer": "48",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L1_30",
+                    "question": "The product of two numbers is 2028 and their H.C.F. is 13. The number of such pairs is:",
+                    "options": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "answer": "2",
+                    "image_url": null
+                }
+            ]
+        },
+        {
+            "level_id": 2,
+            "difficulty": "Medium",
+            "description": "Word Problems and Logic",
+            "questions": [
+                [
+                    {
+                        "id": "Q_L2_01",
+                        "question": "A fruit seller buys lemons at 2 for a rupee and sells then at 5 for three rupees. What is his gain percent?",
+                        "options": [
+                            "10%",
+                            "15%",
+                            "20%",
+                            "25%"
+                        ],
+                        "answer": "20%",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_02",
+                        "question": "A person incurs a 5% loss by selling a watch for Rs. 1140. At what price should the watch be sold to earn a 5% profit?",
+                        "options": [
+                            "Rs. 1200",
+                            "Rs. 1230",
+                            "Rs. 1260",
+                            "Rs. 1290"
+                        ],
+                        "answer": "Rs. 1260",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_03",
+                        "question": "A can do a work in 15 days and B in 20 days. If they work on it together for 4 days, then the fraction of the work that is left is:",
+                        "options": [
+                            "1/4",
+                            "1/10",
+                            "7/15",
+                            "8/15"
+                        ],
+                        "answer": "8/15",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_04",
+                        "question": "A is twice as good a workman as B and together they finish a piece of work in 14 days. The number of days taken by A alone to finish the work is:",
+                        "options": [
+                            "11 days",
+                            "21 days",
+                            "28 days",
+                            "42 days"
+                        ],
+                        "answer": "21 days",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_05",
+                        "question": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+                        "options": [
+                            "45 km/hr",
+                            "50 km/hr",
+                            "54 km/hr",
+                            "55 km/hr"
+                        ],
+                        "answer": "50 km/hr",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_06",
+                        "question": "Two trains 140 m and 160 m long run at the speed of 60 km/hr and 40 km/hr respectively in opposite directions on parallel tracks. The time which they take to cross each other, is:",
+                        "options": [
+                            "9.09 sec",
+                            "9.6 sec",
+                            "10.8 sec",
+                            "12 sec"
+                        ],
+                        "answer": "10.8 sec",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_07",
+                        "question": "A sum of Rs. 12,500 amounts to Rs. 15,500 in 4 years at the rate of simple interest. What is the rate of interest?",
+                        "options": [
+                            "3%",
+                            "4%",
+                            "5%",
+                            "6%"
+                        ],
+                        "answer": "6%",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_08",
+                        "question": "The difference between simple and compound interests compounded annually on a certain sum of money for 2 years at 4% per annum is Re. 1. The sum (in Rs.) is:",
+                        "options": [
+                            "625",
+                            "630",
+                            "640",
+                            "650"
+                        ],
+                        "answer": "625",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_09",
+                        "question": "The average weight of 8 person's increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What might be the weight of the new person?",
+                        "options": [
+                            "76 kg",
+                            "76.5 kg",
+                            "85 kg",
+                            "Data Inadequate"
+                        ],
+                        "answer": "85 kg",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_10",
+                        "question": "The captain of a cricket team of 11 members is 26 years old and the wicket keeper is 3 years older. If the ages of these two are excluded, the average age of the remaining players is one year less than the average age of the whole team. What is the average age of the team?",
+                        "options": [
+                            "23 years",
+                            "24 years",
+                            "25 years",
+                            "None of these"
+                        ],
+                        "answer": "23 years",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_11",
+                        "question": "In a mixture of 60 litres, the ratio of milk and water is 2 : 1. If this ratio is to be 1 : 2, then the quantity of water to be further added is:",
+                        "options": [
+                            "20 litres",
+                            "30 litres",
+                            "40 litres",
+                            "60 litres"
+                        ],
+                        "answer": "60 litres",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_12",
+                        "question": "A bag contains 50 P, 25 P and 10 P coins in the ratio 5: 9: 4, amounting to Rs. 206. Find the number of coins of each type respectively.",
+                        "options": [
+                            "360, 160, 200",
+                            "160, 360, 200",
+                            "200, 360, 160",
+                            "200, 160, 300"
+                        ],
+                        "answer": "200, 360, 160",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_13",
+                        "question": "Six years ago, the ratio of the ages of Kunal and Sagar was 6 : 5. Four years hence, the ratio of their ages will be 11 : 10. What is Sagar's age at present?",
+                        "options": [
+                            "16 years",
+                            "18 years",
+                            "20 years",
+                            "Cannot be determined"
+                        ],
+                        "answer": "16 years",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_14",
+                        "question": "A man is 24 years older than his son. In two years, his age will be twice the age of his son. The present age of his son is:",
+                        "options": [
+                            "14 years",
+                            "18 years",
+                            "20 years",
+                            "22 years"
+                        ],
+                        "answer": "22 years",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_15",
+                        "question": "Three pipes A, B and C can fill a tank from empty to full in 30 minutes, 20 minutes, and 10 minutes respectively. When the tank is empty, all the three pipes are opened. A, B and C discharge chemical solutions P,Q and R respectively. What is the proportion of the solution R in the liquid in the tank after 3 minutes?",
+                        "options": [
+                            "5/11",
+                            "6/11",
+                            "7/11",
+                            "8/11"
+                        ],
+                        "answer": "6/11",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_16",
+                        "question": "The diagonal of a rectangle is sqrt(41) cm and its area is 20 sq. cm. The perimeter of the rectangle must be:",
+                        "options": [
+                            "9 cm",
+                            "18 cm",
+                            "20 cm",
+                            "41 cm"
+                        ],
+                        "answer": "18 cm",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_17",
+                        "question": "A hall is 15 m long and 12 m broad. If the sum of the areas of the floor and the ceiling is equal to the sum of the areas of four walls, the volume of the hall is:",
+                        "options": [
+                            "720",
+                            "900",
+                            "1200",
+                            "1800"
+                        ],
+                        "answer": "1200",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_18",
+                        "question": "Excluding stoppages, the speed of a bus is 54 kmph and including stoppages, it is 45 kmph. For how many minutes does the bus stop per hour?",
+                        "options": [
+                            "9",
+                            "10",
+                            "12",
+                            "20"
+                        ],
+                        "answer": "10",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_19",
+                        "question": "Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case.",
+                        "options": [
+                            "4",
+                            "7",
+                            "9",
+                            "13"
+                        ],
+                        "answer": "4",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_20",
+                        "question": "The least number which when divided by 5, 6, 7 and 8 leaves a remainder 3, but when divided by 9 leaves no remainder, is:",
+                        "options": [
+                            "1677",
+                            "1683",
+                            "2523",
+                            "3363"
+                        ],
+                        "answer": "1683",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_21",
+                        "question": "A motorboat, whose speed in 15 km/hr in still water goes 30 km downstream and comes back in a total of 4 hours 30 minutes. The speed of the stream (in km/hr) is:",
+                        "options": [
+                            "4",
+                            "5",
+                            "6",
+                            "10"
+                        ],
+                        "answer": "5",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_22",
+                        "question": "The number of observations in a group is 40. The average of the first 10 members is 4.5 and the average of the remaining 30 members is 3.5. If the result of a test is the average of the whole group, what is the average of the whole group?",
+                        "options": [
+                            "3.75",
+                            "3.8",
+                            "4.0",
+                            "3.5"
+                        ],
+                        "answer": "3.75",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_23",
+                        "question": "In a shower, 5 cm of rain falls. The volume of water that falls on 1.5 hectares of ground is:",
+                        "options": [
+                            "75 cu. m",
+                            "750 cu. m",
+                            "7500 cu. m",
+                            "75000 cu. m"
+                        ],
+                        "answer": "750 cu. m",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_24",
+                        "question": "A clock is started at noon. By 10 minutes past 5, the hour hand has turned through:",
+                        "options": [
+                            "145°",
+                            "150°",
+                            "155°",
+                            "160°"
+                        ],
+                        "answer": "155°",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_25",
+                        "question": "If a card is drawn from a pack of 52 cards, what is the probability that it is a face card (Jack, Queen, King)?",
+                        "options": [
+                            "3/13",
+                            "1/13",
+                            "4/13",
+                            "3/52"
+                        ],
+                        "answer": "3/13",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_26",
+                        "question": "Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?",
+                        "options": [
+                            "1/2",
+                            "2/5",
+                            "8/15",
+                            "9/20"
+                        ],
+                        "answer": "9/20",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_27",
+                        "question": "Find the odd man out: 3, 5, 11, 14, 17, 21",
+                        "options": [
+                            "21",
+                            "17",
+                            "14",
+                            "3"
+                        ],
+                        "answer": "14",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_28",
+                        "question": "What is the smallest number by which 3600 be divided to make it a perfect cube?",
+                        "options": [
+                            "9",
+                            "50",
+                            "300",
+                            "450"
+                        ],
+                        "answer": "450",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_29",
+                        "question": "Evaluate: (2.39)^2 - (1.61)^2 / (2.39 - 1.61)",
+                        "options": [
+                            "2",
+                            "4",
+                            "6",
+                            "8"
+                        ],
+                        "answer": "4",
+                        "image_url": null
+                    },
+                    {
+                        "id": "Q_L2_30",
+                        "question": "If 20% of a = b, then b% of 20 is the same as:",
+                        "options": [
+                            "4% of a",
+                            "5% of a",
+                            "20% of a",
+                            "None of these"
+                        ],
+                        "answer": "4% of a",
+                        "image_url": null
+                    }
+                ]
+            ]
+        },
+        {
+            "level_id": 3,
+            "difficulty": "Intermediate",
+            "description": "Mixed Concepts",
+            "questions": [
+                {
+                    "id": "Q_L3_01",
+                    "question": "The ratio of the incomes of A and B is 5 : 4 and the ratio of their expenditures is 3 : 2. If at the end of the year, each saves Rs. 1600, then the income of A is:",
+                    "options": [
+                        "Rs. 3400",
+                        "Rs. 3600",
+                        "Rs. 4000",
+                        "Rs. 4400"
+                    ],
+                    "answer": "Rs. 4000",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_02",
+                    "question": "A dishonest dealer professes to sell his goods at cost price but uses a weight of 960 gms for a kg weight. Find his gain percent.",
+                    "options": [
+                        "4%",
+                        "4 1/6%",
+                        "5%",
+                        "5 1/2%"
+                    ],
+                    "answer": "4 1/6%",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_03",
+                    "question": "A and B can do a piece of work in 30 days, while B and C can do the same work in 24 days and C and A in 20 days. They all work together for 10 days when B and C leave. How many days more will A take to finish the work?",
+                    "options": [
+                        "18 days",
+                        "24 days",
+                        "30 days",
+                        "36 days"
+                    ],
+                    "answer": "18 days",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_04",
+                    "question": "Two trains are running in opposite directions with the same speed. If the length of each train is 120 metres and they cross each other in 12 seconds, then the speed of each train (in km/hr) is:",
+                    "options": [
+                        "10",
+                        "18",
+                        "36",
+                        "72"
+                    ],
+                    "answer": "36",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_05",
+                    "question": "A ladder leans against a wall making an angle of 60° with the ground. If the foot of the ladder is 10 m away from the wall, find the length of the ladder.",
+                    "options": [
+                        "15 m",
+                        "20 m",
+                        "25 m",
+                        "30 m"
+                    ],
+                    "answer": "20 m",
+                    "image_url": "assets/images/quant/Q_L3_05.png"
+                },
+                {
+                    "id": "Q_L3_06",
+                    "question": "Calculate the compound interest on Rs. 20,000 for 3 years at 10% per annum, when the interest is compounded annually.",
+                    "options": [
+                        "Rs. 6000",
+                        "Rs. 6620",
+                        "Rs. 6655",
+                        "Rs. 6600"
+                    ],
+                    "answer": "Rs. 6620",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_07",
+                    "question": "The difference between the simple interest and compound interest on a certain sum of money for 2 years at 4% per annum is Rs. 1. The sum is:",
+                    "options": [
+                        "Rs. 625",
+                        "Rs. 630",
+                        "Rs. 640",
+                        "Rs. 650"
+                    ],
+                    "answer": "Rs. 625",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_08",
+                    "question": "In a 500m race, the ratio of the speeds of two contestants A and B is 3 : 4. A has a start of 140 m. Then, A wins by:",
+                    "options": [
+                        "60 m",
+                        "40 m",
+                        "20 m",
+                        "10 m"
+                    ],
+                    "answer": "20 m",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_09",
+                    "question": "A boat takes 90 minutes less to travel 36 miles downstream than to travel the same distance upstream. If the speed of the still water is 10 mph, the speed of the stream is:",
+                    "options": [
+                        "2 mph",
+                        "2.5 mph",
+                        "3 mph",
+                        "4 mph"
+                    ],
+                    "answer": "2 mph",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_10",
+                    "question": "The average of runs of a cricket player of 10 innings was 32. How many runs must he make in his next innings so as to increase his average of runs by 4?",
+                    "options": [
+                        "70",
+                        "76",
+                        "72",
+                        "40"
+                    ],
+                    "answer": "76",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_11",
+                    "question": "Gold is 19 times as heavy as water and copper is 9 times as heavy as water. In what ratio should these be mixed to get an alloy 15 times as heavy as water?",
+                    "options": [
+                        "1 : 1",
+                        "2 : 3",
+                        "1 : 2",
+                        "3 : 2"
+                    ],
+                    "answer": "3 : 2",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_12",
+                    "question": "A, B and C enter into a partnership investing Rs. 35,000, Rs. 45,000 and Rs. 55,000 respectively. The respective shares of A, B and C in an annual profit of Rs. 40,500 are:",
+                    "options": [
+                        "Rs. 10500, Rs. 13500, Rs. 16500",
+                        "Rs. 11500, Rs. 13000, Rs. 16000",
+                        "Rs. 11000, Rs. 14000, Rs. 15500",
+                        "None of these"
+                    ],
+                    "answer": "Rs. 10500, Rs. 13500, Rs. 16500",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_13",
+                    "question": "If the cost of fencing a circular field at Rs. 30 per metre is Rs. 6600, what is the area of the field?",
+                    "options": [
+                        "2464 sq. m",
+                        "3850 sq. m",
+                        "5544 sq. m",
+                        "9856 sq. m"
+                    ],
+                    "answer": "3850 sq. m",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_14",
+                    "question": "The curved surface area of a cylindrical pillar is 264 sq. m and its volume is 924 cu. m. Find the ratio of its diameter to its height.",
+                    "options": [
+                        "3 : 7",
+                        "7 : 3",
+                        "6 : 7",
+                        "7 : 6"
+                    ],
+                    "answer": "7 : 3",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_15",
+                    "question": "A rectangular park 60 m long and 40 m wide has two concrete crossroads running in the middle of the park and rest of the park has been used as a lawn. If the area of the lawn is 2109 sq. m, then what is the width of the road?",
+                    "options": [
+                        "2.91 m",
+                        "3 m",
+                        "5.82 m",
+                        "None of these"
+                    ],
+                    "answer": "3 m",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_16",
+                    "question": "In a bag, there are coins of 25 p, 10 p and 5 p in the ratio of 1 : 2 : 3. If there is Rs. 30 in all, how many 5 p coins are there?",
+                    "options": [
+                        "50",
+                        "100",
+                        "150",
+                        "200"
+                    ],
+                    "answer": "150",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_17",
+                    "question": "What is the probability that a leap year selected at random will contain 53 Sundays?",
+                    "options": [
+                        "1/7",
+                        "2/7",
+                        "3/7",
+                        "5/7"
+                    ],
+                    "answer": "2/7",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_18",
+                    "question": "In how many ways can the letters of the word 'LEADER' be arranged?",
+                    "options": [
+                        "72",
+                        "144",
+                        "360",
+                        "720"
+                    ],
+                    "answer": "360",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_19",
+                    "question": "From a group of 7 men and 6 women, 5 persons are to be selected to form a committee so that at least 3 men are there on the committee. In how many ways can it be done?",
+                    "options": [
+                        "564",
+                        "645",
+                        "735",
+                        "756"
+                    ],
+                    "answer": "756",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_20",
+                    "question": "A bag contains 6 black and 8 white balls. One ball is drawn at random. What is the probability that the ball drawn is white?",
+                    "options": [
+                        "3/4",
+                        "4/7",
+                        "1/8",
+                        "3/7"
+                    ],
+                    "answer": "4/7",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_21",
+                    "question": "Six bells commence tolling together and toll at intervals of 2, 4, 6, 8, 10 and 12 seconds respectively. In 30 minutes, how many times do they toll together?",
+                    "options": [
+                        "4",
+                        "10",
+                        "15",
+                        "16"
+                    ],
+                    "answer": "16",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_22",
+                    "question": "Find the remainder when 2^31 is divided by 5.",
+                    "options": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "answer": "3",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_23",
+                    "question": "If log 27 = 1.431, then the value of log 9 is:",
+                    "options": [
+                        "0.934",
+                        "0.945",
+                        "0.954",
+                        "0.958"
+                    ],
+                    "answer": "0.954",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_24",
+                    "question": "The angle between the minute hand and the hour hand of a clock when the time is 8.30, is:",
+                    "options": [
+                        "80°",
+                        "75°",
+                        "60°",
+                        "105°"
+                    ],
+                    "answer": "75°",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_25",
+                    "question": "On 8th Dec, 2007 Saturday falls. What day of the week was it on 8th Dec, 2006?",
+                    "options": [
+                        "Sunday",
+                        "Thursday",
+                        "Tuesday",
+                        "Friday"
+                    ],
+                    "answer": "Friday",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_26",
+                    "question": "In a class of 60 students, 40 opt for NCC, 30 opt for NSS and 20 opt for both NCC and NSS. How many students opt for neither?",
+                    "options": [
+                        "10",
+                        "15",
+                        "20",
+                        "25"
+                    ],
+                    "answer": "10",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_27",
+                    "question": "A solid metallic cone of height 10 cm and radius of base 20 cm is melted to make spherical balls each of 4 cm diameter. How many such balls can be made?",
+                    "options": [
+                        "25",
+                        "75",
+                        "125",
+                        "150"
+                    ],
+                    "answer": "125",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_28",
+                    "question": "Two dice are thrown simultaneously. What is the probability of getting two numbers whose product is even?",
+                    "options": [
+                        "1/2",
+                        "3/4",
+                        "3/8",
+                        "5/16"
+                    ],
+                    "answer": "3/4",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_29",
+                    "question": "A reduction of 20% in the price of wheat enables a person to purchase 3.5 kg more wheat for Rs. 770. What is the original price per kg?",
+                    "options": [
+                        "Rs. 55",
+                        "Rs. 45",
+                        "Rs. 65",
+                        "Rs. 30"
+                    ],
+                    "answer": "Rs. 55",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L3_30",
+                    "question": "Pipe A can fill a tank in 4 hours, and Pipe B can fill it in 6 hours. If they are opened on alternate hours and if Pipe A is opened first, in how many hours will the tank be full?",
+                    "options": [
+                        "4 hrs 30 min",
+                        "4 hrs 40 min",
+                        "5 hrs",
+                        "3 hrs 20 min"
+                    ],
+                    "answer": "4 hrs 40 min",
+                    "image_url": null
+                }
+            ]
+        },
+        {
+            "level_id": 4,
+            "difficulty": "Difficult",
+            "description": "Data Sufficiency and Complex Application",
+            "questions": [
+                {
+                    "id": "Q_L4_01",
+                    "question": "A container contains 40 litres of milk. From this container 4 litres of milk was taken out and replaced by water. This process was repeated further two times. How much milk is now contained by the container?",
+                    "options": [
+                        "26.34 litres",
+                        "27.36 litres",
+                        "28 litres",
+                        "29.16 litres"
+                    ],
+                    "answer": "29.16 litres",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_02",
+                    "question": "A and B walk around a circular track. A and B walk at a speed of 2 rounds per hour and 3 rounds per hour respectively. If they start at 8 a.m. from the same point in opposite directions, how many times shall they cross each other before 9.30 a.m.?",
+                    "options": [
+                        "5",
+                        "7",
+                        "8",
+                        "6"
+                    ],
+                    "answer": "7",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_03",
+                    "question": "Data Sufficiency: What is the value of x? \nStatement I: x^2 = 36 \nStatement II: x - 6 = 0",
+                    "options": [
+                        "I alone is sufficient",
+                        "II alone is sufficient",
+                        "Both I and II are sufficient",
+                        "Neither is sufficient"
+                    ],
+                    "answer": "II alone is sufficient",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_04",
+                    "question": "Data Sufficiency: What is the speed of the train? \nI. The train crosses a signal pole in 18 seconds. \nII. The train crosses a platform of equal length in 36 seconds.",
+                    "options": [
+                        "I alone is sufficient",
+                        "II alone is sufficient",
+                        "Both I and II are sufficient",
+                        "Data inadequate"
+                    ],
+                    "answer": "Data inadequate",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_05",
+                    "question": "What is the ratio of marks obtained by student A to student B, if B scored 350 and A scored 250?",
+                    "options": [
+                        "5:7",
+                        "7:5",
+                        "2:3",
+                        "3:4"
+                    ],
+                    "answer": "5:7",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_06",
+                    "question": "Two pipes A and B can fill a tank in 15 min and 20 min respectively. Both the pipes are opened together but after 4 min, pipe A is turned off. What is the total time required to fill the tank?",
+                    "options": [
+                        "10 min 20 sec",
+                        "11 min 45 sec",
+                        "12 min 30 sec",
+                        "14 min 40 sec"
+                    ],
+                    "answer": "14 min 40 sec",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_07",
+                    "question": "A man can row 40 km upstream and 55 km downstream in 13 hours. Also, he can row 30 km upstream and 44 km downstream in 10 hours. Find the speed of the man in still water and the speed of the current.",
+                    "options": [
+                        "8 kmph, 3 kmph",
+                        "10 kmph, 4 kmph",
+                        "6 kmph, 2 kmph",
+                        "5 kmph, 1 kmph"
+                    ],
+                    "answer": "8 kmph, 3 kmph",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_08",
+                    "question": "In how many ways can 21 books on English and 19 books on Hindi be placed in a row on a shelf so that two books on Hindi may not be together?",
+                    "options": [
+                        "3990",
+                        "1540",
+                        "1995",
+                        "3672"
+                    ],
+                    "answer": "1540",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_09",
+                    "question": "There are two vessels A and B. Vessel A contains 40 liters of pure milk and vessel B contains 22 liters of pure water. From vessel A, 8 liters of milk is taken out and poured into vessel B. Then, 6 liters of mixture (milk and water) is taken out from vessel B and poured into vessel A. What is the ratio of milk and water in vessel A?",
+                    "options": [
+                        "14:9",
+                        "21:11",
+                        "35:12",
+                        "29:13"
+                    ],
+                    "answer": "21:11",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_10",
+                    "question": "Points A and B are 90 km apart from each other on a highway. A car starts from A and another from B at the same time. If they go in the same direction they meet in 9 hours and if they go in opposite directions they meet in 9/7 hours. Find their speeds.",
+                    "options": [
+                        "40 km/h, 30 km/h",
+                        "50 km/h, 40 km/h",
+                        "60 km/h, 50 km/h",
+                        "80 km/h, 70 km/h"
+                    ],
+                    "answer": "40 km/h, 30 km/h",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_11",
+                    "question": "The difference between the compound interest and simple interest on a certain sum for 3 years at 10% per annum is Rs. 93. The sum is:",
+                    "options": [
+                        "Rs. 2000",
+                        "Rs. 3000",
+                        "Rs. 4000",
+                        "Rs. 3500"
+                    ],
+                    "answer": "Rs. 3000",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_12",
+                    "question": "A bag contains 4 red, 5 yellow and 6 green balls. 3 balls are drawn at random. What is the probability that the balls drawn contain no yellow ball?",
+                    "options": [
+                        "24/91",
+                        "33/91",
+                        "12/65",
+                        "1/5"
+                    ],
+                    "answer": "24/91",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_13",
+                    "question": "Find the remainder when 7^84 is divided by 342.",
+                    "options": [
+                        "0",
+                        "1",
+                        "49",
+                        "341"
+                    ],
+                    "answer": "1",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_14",
+                    "question": "The areas of three adjacent faces of a cuboid are x, y and z. If the volume is V, prove that V^2 = xyz. If x=12, y=20, z=15, find V.",
+                    "options": [
+                        "60",
+                        "80",
+                        "100",
+                        "120"
+                    ],
+                    "answer": "60",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_15",
+                    "question": "An article is sold at a profit of 20%. If it had been sold at a profit of 25%, it would have fetched Rs. 35 more. The cost price of the article is:",
+                    "options": [
+                        "Rs. 650",
+                        "Rs. 700",
+                        "Rs. 750",
+                        "Rs. 800"
+                    ],
+                    "answer": "Rs. 700",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_16",
+                    "question": "Data Sufficiency: Is z positive? \nI. x + y = z \nII. x < 0 and y < 0",
+                    "options": [
+                        "I alone is sufficient",
+                        "II alone is sufficient",
+                        "Both I and II are sufficient",
+                        "Neither is sufficient"
+                    ],
+                    "answer": "Both I and II are sufficient",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_17",
+                    "question": "Three taps A, B and C can fill a tank in 12, 15 and 20 hours respectively. If A is open all the time and B and C are open for one hour each alternately, the tank will be full in:",
+                    "options": [
+                        "6 hrs",
+                        "6 2/3 hrs",
+                        "7 hrs",
+                        "7 1/2 hrs"
+                    ],
+                    "answer": "7 hrs",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_18",
+                    "question": "A goat is tied to one corner of a square plot of side 12m by a rope 7m long. Find the area it can graze.",
+                    "options": [
+                        "38.5 sq.m",
+                        "154 sq.m",
+                        "19.25 sq.m",
+                        "77 sq.m"
+                    ],
+                    "answer": "38.5 sq.m",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_19",
+                    "question": "If x + 1/x = 3, then the value of x^5 + 1/x^5 is:",
+                    "options": [
+                        "123",
+                        "126",
+                        "118",
+                        "120"
+                    ],
+                    "answer": "123",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_20",
+                    "question": "Two stations A and B are 110 km apart on a straight line. One train starts from A at 7 a.m. and travels towards B at 20 kmph. Another train starts from B at 8 a.m. and travels towards A at a speed of 25 kmph. At what time will they meet?",
+                    "options": [
+                        "9 a.m.",
+                        "10 a.m.",
+                        "10.30 a.m.",
+                        "11 a.m."
+                    ],
+                    "answer": "10 a.m.",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_21",
+                    "question": "A man buys Rs. 20 shares paying 9% dividend. The man wants to have an interest of 12% on his money. The market value of each share is:",
+                    "options": [
+                        "Rs. 12",
+                        "Rs. 15",
+                        "Rs. 18",
+                        "Rs. 21"
+                    ],
+                    "answer": "Rs. 15",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_22",
+                    "question": "A hemispherical bowl of internal radius 9 cm contains a liquid. This liquid is to be filled into cylindrical shaped small bottles of diameter 3 cm and height 4 cm. How many bottles will be needed to empty the bowl?",
+                    "options": [
+                        "27",
+                        "35",
+                        "54",
+                        "63"
+                    ],
+                    "answer": "54",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_23",
+                    "question": "The average age of a husband and his wife was 23 years at the time of their marriage. After five years they have a one-year old child. The average age of the family now is:",
+                    "options": [
+                        "19 years",
+                        "23 years",
+                        "28.5 years",
+                        "29.3 years"
+                    ],
+                    "answer": "19 years",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_24",
+                    "question": "In how many different ways can the letters of the word 'DETAIL' be arranged such that the vowels must occupy only the odd positions?",
+                    "options": [
+                        "36",
+                        "48",
+                        "64",
+                        "120"
+                    ],
+                    "answer": "36",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_25",
+                    "question": "A contractor undertook to do a certain piece of work in 9 days. He employed certain number of men but 6 of them were absent from the very first day and the rest could finish the work in 15 days. The number of men originally employed were:",
+                    "options": [
+                        "12",
+                        "15",
+                        "18",
+                        "24"
+                    ],
+                    "answer": "15",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_26",
+                    "question": "Data Sufficiency: Who is the tallest among A, B, C, D and E? \nI. A is taller than B, but shorter than C. \nII. B is not the shortest. \nIII. E is taller than A.",
+                    "options": [
+                        "Only I and II",
+                        "Only II and III",
+                        "All I, II and III",
+                        "Data Inadequate"
+                    ],
+                    "answer": "Data Inadequate",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_27",
+                    "question": "Determine the value of x if log(x+1) + log(x-1) = log 3.",
+                    "options": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "answer": "2",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_28",
+                    "question": "There are 5 red pairs of socks and 5 blue pairs of socks in a drawer. If you pull socks out without looking, how many must you pull out to guarantee a matching pair?",
+                    "options": [
+                        "3",
+                        "11",
+                        "2",
+                        "6"
+                    ],
+                    "answer": "3",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_29",
+                    "question": "Two places are 60 km apart. A and B start walking towards each other at the same time and meet each other after 6 hours. If A travelled with 2/3 of his usual speed and B travelled with double of his usual speed, they would have met after 5 hours. The speed of A is:",
+                    "options": [
+                        "4 km/h",
+                        "6 km/h",
+                        "10 km/h",
+                        "12 km/h"
+                    ],
+                    "answer": "6 km/h",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L4_30",
+                    "question": "The total surface area of a solid hemisphere is 462 cm^2. Find its volume.",
+                    "options": [
+                        "718.67",
+                        "539",
+                        "612.33",
+                        "724.5"
+                    ],
+                    "answer": "718.67",
+                    "image_url": null
+                }
+            ]
+        },
+        {
+            "level_id": 5,
+            "difficulty": "Very Difficult",
+            "description": "Expert Analysis, Combinatorics, and Hard Puzzles",
+            "questions": [
+                {
+                    "id": "Q_L5_01",
+                    "question": "Find the area of the shaded region if the side of the square is 14 cm and the circles are touching each other.",
+                    "options": [
+                        "42 sq. cm",
+                        "56 sq. cm",
+                        "49 sq. cm",
+                        "64 sq. cm"
+                    ],
+                    "answer": "42 sq. cm",
+                    "image_url": "assets/images/quant/Q_L5_01.png"
+                },
+                {
+                    "id": "Q_L5_02",
+                    "question": "From a pack of 52 cards, 3 cards are drawn. What is the probability that the cards are '2 kings and 1 ace' OR '2 aces and 1 king'?",
+                    "options": [
+                        "14/5525",
+                        "2/5525",
+                        "12/5525",
+                        "6/1525"
+                    ],
+                    "answer": "14/5525",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_03",
+                    "question": "A box contains 2 tennis, 3 cricket and 4 squash balls. Three balls are drawn in succession with replacement. What is the probability that the first is a tennis ball, the second is a cricket ball and the third is a squash ball?",
+                    "options": [
+                        "8/243",
+                        "4/243",
+                        "8/729",
+                        "4/729"
+                    ],
+                    "answer": "8/729",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_04",
+                    "question": "In how many ways can 5 boys and 4 girls be seated in a row so that they are alternate?",
+                    "options": [
+                        "2880",
+                        "2000",
+                        "5040",
+                        "120"
+                    ],
+                    "answer": "2880",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_05",
+                    "question": "A tank is filled by three pipes with uniform flow. The first two pipes operating simultaneously fill the tank in the same time during which the tank is filled by the third pipe alone. The second pipe fills the tank 5 hours faster than the first pipe and 4 hours slower than the third pipe. The time required by the first pipe is:",
+                    "options": [
+                        "6 hours",
+                        "10 hours",
+                        "15 hours",
+                        "30 hours"
+                    ],
+                    "answer": "15 hours",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_06",
+                    "question": "A hare pursued by a greyhound is 50 of her own leaps ahead of him. While the hare takes 4 leaps, the greyhound takes 3 leaps. In one leap, the hare goes 1.75 metres and the greyhound goes 2.75 metres. In how many leaps will the greyhound overtake the hare?",
+                    "options": [
+                        "140",
+                        "210",
+                        "280",
+                        "520"
+                    ],
+                    "answer": "210",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_07",
+                    "question": "Find the number of zeros at the end of 100!",
+                    "options": [
+                        "24",
+                        "20",
+                        "11",
+                        "25"
+                    ],
+                    "answer": "24",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_08",
+                    "question": "Determine the remainder when (17^200) is divided by 18.",
+                    "options": [
+                        "1",
+                        "2",
+                        "17",
+                        "16"
+                    ],
+                    "answer": "1",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_09",
+                    "question": "A cylinder, a hemisphere and a cone stand on the same base and have the same heights. The ratio of their curved surface area is:",
+                    "options": [
+                        "1 : 1 : 1",
+                        "2 : 2 : 1",
+                        "4 : 4 : \u221a5",
+                        "2 : 2 : \u221a2"
+                    ],
+                    "answer": "2 : 2 : \u221a2",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_10",
+                    "question": "A milkman mixes water with milk and sells the mixture at the cost price of pure milk. The volume of water (in litres) to be mixed with each litre of milk to get a 25% profit is:",
+                    "options": [
+                        "0.25",
+                        "0.20",
+                        "0.50",
+                        "0.40"
+                    ],
+                    "answer": "0.25",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_11",
+                    "question": "Two alloys A and B contain gold and copper in the ratios of 2:3 and 3:7 by mass, respectively. Equal masses of alloys A and B are melted to make a new alloy C. The ratio of gold to copper in alloy C is:",
+                    "options": [
+                        "5:10",
+                        "7:13",
+                        "6:11",
+                        "9:21"
+                    ],
+                    "answer": "7:13",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_12",
+                    "question": "The speed of a boat in still water is 15 km/hr and the rate of current is 3 km/hr. The distance travelled downstream in 12 minutes is:",
+                    "options": [
+                        "1.2 km",
+                        "1.8 km",
+                        "2.4 km",
+                        "3.6 km"
+                    ],
+                    "answer": "3.6 km",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_13",
+                    "question": "How many integers between 1 and 1000 are divisible by 3 or 5 or 7?",
+                    "options": [
+                        "530",
+                        "543",
+                        "672",
+                        "498"
+                    ],
+                    "answer": "543",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_14",
+                    "question": "Three runners A, B and C run a race, with runner A finishing 12 meters ahead of runner B and 18 meters ahead of runner C, while runner B finishes 8 meters ahead of runner C. Each runner travels the entire distance at a constant speed. What was the length of the race?",
+                    "options": [
+                        "36 m",
+                        "48 m",
+                        "60 m",
+                        "72 m"
+                    ],
+                    "answer": "48 m",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_15",
+                    "question": "Two circles of radii 5 cm and 3 cm touch each other externally. The distance between their centers is:",
+                    "options": [
+                        "2 cm",
+                        "8 cm",
+                        "15 cm",
+                        "4 cm"
+                    ],
+                    "answer": "8 cm",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_16",
+                    "question": "If log 2 = 0.30103, the number of digits in 2^64 is:",
+                    "options": [
+                        "18",
+                        "19",
+                        "20",
+                        "21"
+                    ],
+                    "answer": "20",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_17",
+                    "question": "Data Sufficiency: What is the area of the triangle ABC? \nI. Perimeter of the triangle is 12 cm. \nII. The triangle is equilateral.",
+                    "options": [
+                        "I alone",
+                        "II alone",
+                        "Both I and II",
+                        "Neither"
+                    ],
+                    "answer": "Both I and II",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_18",
+                    "question": "Find the sum of the series: 1/(1*2) + 1/(2*3) + 1/(3*4) + ... + 1/(99*100).",
+                    "options": [
+                        "1/100",
+                        "99/100",
+                        "1",
+                        "101/100"
+                    ],
+                    "answer": "99/100",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_19",
+                    "question": "A mixture of 40 litres of milk and water contains 10% water. How much water should be added to this so that water may be 20% in the new mixture?",
+                    "options": [
+                        "4 litres",
+                        "5 litres",
+                        "6.5 litres",
+                        "7 litres"
+                    ],
+                    "answer": "5 litres",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_20",
+                    "question": "There are 6 tasks and 6 persons. Task 1 cannot be assigned to either person 1 or 2. Task 2 must be assigned to either person 3 or 4. Every person is to be assigned one task. In how many ways can the assignment be done?",
+                    "options": [
+                        "144",
+                        "180",
+                        "192",
+                        "360"
+                    ],
+                    "answer": "144",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_21",
+                    "question": "Calculate the area of a rhombus if its vertices are (3, 0), (4, 5), (-1, 4) and (-2, -1).",
+                    "options": [
+                        "24",
+                        "18",
+                        "32",
+                        "20"
+                    ],
+                    "answer": "24",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_22",
+                    "question": "Two trains start at the same time from Aligarh and Delhi and proceed towards each other at 16 km/hr and 21 km/hr respectively. When they meet, it is found that one train has travelled 60 km more than the other. The distance between the two stations is:",
+                    "options": [
+                        "440 km",
+                        "444 km",
+                        "450 km",
+                        "500 km"
+                    ],
+                    "answer": "444 km",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_23",
+                    "question": "A sphere of radius r is cut by a plane at a distance of h from its center, thereby breaking this sphere into two different pieces. The cumulative surface area of these two pieces is 25% more than that of the sphere. Find h.",
+                    "options": [
+                        "0",
+                        "r/2",
+                        "r/3",
+                        "r/\u221a2"
+                    ],
+                    "answer": "0",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_24",
+                    "question": "If x = 7 - 4\u221a3, then \u221ax + 1/\u221ax is equal to:",
+                    "options": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "answer": "4",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_25",
+                    "question": "If a coin is tossed 3 times, what is the probability that at least one head occurs?",
+                    "options": [
+                        "1/8",
+                        "3/8",
+                        "7/8",
+                        "1/2"
+                    ],
+                    "answer": "7/8",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_26",
+                    "question": "A car travels the first one-third of a certain distance with a speed of 10 km/hr, the next one-third distance with a speed of 20 km/hr and the last one-third distance with a speed of 60 km/hr. The average speed of the car for the whole journey is:",
+                    "options": [
+                        "18 km/hr",
+                        "24 km/hr",
+                        "30 km/hr",
+                        "36 km/hr"
+                    ],
+                    "answer": "18 km/hr",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_27",
+                    "question": "What is the unit digit of the expression: (1!)^1 + (2!)^2 + (3!)^3 + ... + (100!)^100?",
+                    "options": [
+                        "0",
+                        "2",
+                        "7",
+                        "9"
+                    ],
+                    "answer": "7",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_28",
+                    "question": "A person distributes his pens among four friends A, B, C, D in the ratio 1/3 : 1/4 : 1/5 : 1/6. What is the minimum number of pens that the person should have?",
+                    "options": [
+                        "57",
+                        "65",
+                        "75",
+                        "45"
+                    ],
+                    "answer": "57",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_29",
+                    "question": "Data Sufficiency: How is M related to N? \nI. B is the daughter of M and sister of Q. \nII. N is the son of K, who is B's grandfather.",
+                    "options": [
+                        "I alone",
+                        "II alone",
+                        "Both I and II",
+                        "Data Inadequate"
+                    ],
+                    "answer": "Data Inadequate",
+                    "image_url": null
+                },
+                {
+                    "id": "Q_L5_30",
+                    "question": "There are 10 points in a plane, out of which 4 are collinear. Find the number of triangles formed by joining them.",
+                    "options": [
+                        "120",
+                        "116",
+                        "140",
+                        "110"
+                    ],
+                    "answer": "116",
+                    "image_url": null
+                }
+            ]
+        }
+    ]
+}

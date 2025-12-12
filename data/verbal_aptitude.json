@@ -1,0 +1,1840 @@
+{
+    "topic": "Verbal Ability",
+    "levels": [
+        {
+            "level_id": 1,
+            "difficulty": "Easy",
+            "description": "Vocabulary Basics, Synonyms, Antonyms, and Spellings",
+            "questions": [
+                {
+                    "id": "V_L1_01",
+                    "question": "Select the synonym of the word: CORPULENT",
+                    "options": [
+                        "Lean",
+                        "Gaunt",
+                        "Emaciated",
+                        "Obese"
+                    ],
+                    "answer": "Obese",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_02",
+                    "question": "Select the synonym of the word: BRIEF",
+                    "options": [
+                        "Limited",
+                        "Small",
+                        "Little",
+                        "Short"
+                    ],
+                    "answer": "Short",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_03",
+                    "question": "Select the synonym of the word: EMBEZZLE",
+                    "options": [
+                        "Misappropriate",
+                        "Balance",
+                        "Remunerate",
+                        "Clear"
+                    ],
+                    "answer": "Misappropriate",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_04",
+                    "question": "Select the antonym of the word: ENORMOUS",
+                    "options": [
+                        "Soft",
+                        "Average",
+                        "Tiny",
+                        "Weak"
+                    ],
+                    "answer": "Tiny",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_05",
+                    "question": "Select the antonym of the word: ARTIFICIAL",
+                    "options": [
+                        "Red",
+                        "Natural",
+                        "Truthful",
+                        "Solid"
+                    ],
+                    "answer": "Natural",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_06",
+                    "question": "Select the antonym of the word: EXPAND",
+                    "options": [
+                        "Convert",
+                        "Condense",
+                        "Congest",
+                        "Conclude"
+                    ],
+                    "answer": "Condense",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_07",
+                    "question": "Find the correctly spelt word.",
+                    "options": [
+                        "Adverseity",
+                        "Advercety",
+                        "Adversity",
+                        "Advercity"
+                    ],
+                    "answer": "Adversity",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_08",
+                    "question": "Find the correctly spelt word.",
+                    "options": [
+                        "Accomodation",
+                        "Accomadation",
+                        "Accommodation",
+                        "Accommodetion"
+                    ],
+                    "answer": "Accommodation",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_09",
+                    "question": "Find the correctly spelt word.",
+                    "options": [
+                        "Ommission",
+                        "Omision",
+                        "Omission",
+                        "Ommision"
+                    ],
+                    "answer": "Omission",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_10",
+                    "question": "Fill in the blank: Copper is ____ useful metal.",
+                    "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "none of these"
+                    ],
+                    "answer": "a",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_11",
+                    "question": "Fill in the blank: He is ____ honour to his profession.",
+                    "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "none of these"
+                    ],
+                    "answer": "an",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_12",
+                    "question": "One word substitution: A life history of a person written by himself.",
+                    "options": [
+                        "Biography",
+                        "Autobiography",
+                        "Bibliography",
+                        "Memoir"
+                    ],
+                    "answer": "Autobiography",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_13",
+                    "question": "One word substitution: A person who believes in the existence of God.",
+                    "options": [
+                        "Theist",
+                        "Atheist",
+                        "Agnostic",
+                        "Pagan"
+                    ],
+                    "answer": "Theist",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_14",
+                    "question": "Spot the error: 'The cattle / is grazing / in the field.'",
+                    "options": [
+                        "The cattle",
+                        "is grazing",
+                        "in the field",
+                        "No error"
+                    ],
+                    "answer": "is grazing",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_15",
+                    "question": "Spot the error: 'One of the boys / are / absent today.'",
+                    "options": [
+                        "One of the boys",
+                        "are",
+                        "absent today",
+                        "No error"
+                    ],
+                    "answer": "are",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_16",
+                    "question": "Complete the idiom: To smell a ____.",
+                    "options": [
+                        "Rat",
+                        "Cat",
+                        "Fish",
+                        "Rose"
+                    ],
+                    "answer": "Rat",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_17",
+                    "question": "Complete the idiom: A blessing in ____.",
+                    "options": [
+                        "Sky",
+                        "Disguise",
+                        "Surprise",
+                        "Dark"
+                    ],
+                    "answer": "Disguise",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_18",
+                    "question": "Select the synonym of: AUGUST",
+                    "options": [
+                        "Common",
+                        "Ridiculous",
+                        "Dignified",
+                        "Petty"
+                    ],
+                    "answer": "Dignified",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_19",
+                    "question": "Select the synonym of: ALERT",
+                    "options": [
+                        "Energetic",
+                        "Observant",
+                        "Intelligent",
+                        "Watchful"
+                    ],
+                    "answer": "Watchful",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_20",
+                    "question": "Select the antonym of: COMMISSIONED",
+                    "options": [
+                        "Started",
+                        "Closed",
+                        "Finished",
+                        "Terminated"
+                    ],
+                    "answer": "Terminated",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_21",
+                    "question": "Select the antonym of: EXODUS",
+                    "options": [
+                        "Influx",
+                        "Home-coming",
+                        "Return",
+                        "Restoration"
+                    ],
+                    "answer": "Influx",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_22",
+                    "question": "Find the correctly spelt word.",
+                    "options": [
+                        "Garentee",
+                        "Guaranty",
+                        "Guarantee",
+                        "Guaruntee"
+                    ],
+                    "answer": "Guarantee",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_23",
+                    "question": "Fill in the blank: The train ____ before we reached the station.",
+                    "options": [
+                        "left",
+                        "has left",
+                        "had left",
+                        "was leaving"
+                    ],
+                    "answer": "had left",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_24",
+                    "question": "Fill in the blank: He is afraid ____ spiders.",
+                    "options": [
+                        "from",
+                        "in",
+                        "about",
+                        "of"
+                    ],
+                    "answer": "of",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_25",
+                    "question": "One word substitution: That which cannot be corrected.",
+                    "options": [
+                        "Unintelligible",
+                        "Indelible",
+                        "Illegible",
+                        "Incorrigible"
+                    ],
+                    "answer": "Incorrigible",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_26",
+                    "question": "One word substitution: The study of birds.",
+                    "options": [
+                        "Orology",
+                        "Optology",
+                        "Ophthalmology",
+                        "Ornithology"
+                    ],
+                    "answer": "Ornithology",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_27",
+                    "question": "Change the voice: 'He teaches us grammar.'",
+                    "options": [
+                        "Grammar was taught to us by him.",
+                        "We are taught grammar by him.",
+                        "Grammar will be taught to us by him.",
+                        "We were teached grammar by him."
+                    ],
+                    "answer": "We are taught grammar by him.",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_28",
+                    "question": "Spot the error: 'He is / senior than / me.'",
+                    "options": [
+                        "He is",
+                        "senior than",
+                        "me",
+                        "No error"
+                    ],
+                    "answer": "senior than",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_29",
+                    "question": "Which of these is a noun?",
+                    "options": [
+                        "Affect",
+                        "Effect",
+                        "Affected",
+                        "Affecting"
+                    ],
+                    "answer": "Effect",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L1_30",
+                    "question": "Fill in the blank: I have known him ____ a long time.",
+                    "options": [
+                        "since",
+                        "for",
+                        "from",
+                        "at"
+                    ],
+                    "answer": "for",
+                    "image_url": null
+                }
+            ]
+        },
+        {
+            "level_id": 2,
+            "difficulty": "Medium",
+            "description": "Prepositions, Spotting Errors, and Intermediate Vocabulary",
+            "questions": [
+                {
+                    "id": "V_L2_01",
+                    "question": "Fill in the blank: He died ____ cancer.",
+                    "options": [
+                        "with",
+                        "by",
+                        "of",
+                        "from"
+                    ],
+                    "answer": "of",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_02",
+                    "question": "Fill in the blank: He prefers tea ____ coffee.",
+                    "options": [
+                        "than",
+                        "over",
+                        "to",
+                        "from"
+                    ],
+                    "answer": "to",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_03",
+                    "question": "Spot the error: 'The jury / was divided / in their opinion.'",
+                    "options": [
+                        "The jury",
+                        "was divided",
+                        "in their opinion",
+                        "No error"
+                    ],
+                    "answer": "was divided",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_04",
+                    "question": "Spot the error: 'Each of the / students / have done / their homework.'",
+                    "options": [
+                        "Each of the",
+                        "students",
+                        "have done",
+                        "their homework"
+                    ],
+                    "answer": "have done",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_05",
+                    "question": "Improve the sentence: He is addicted *to smoke*.",
+                    "options": [
+                        "to smoking",
+                        "with smoking",
+                        "of smoking",
+                        "No improvement"
+                    ],
+                    "answer": "to smoking",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_06",
+                    "question": "Fill in the blank: The meeting was ____ due to bad weather.",
+                    "options": [
+                        "called in",
+                        "called off",
+                        "called out",
+                        "called for"
+                    ],
+                    "answer": "called off",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_07",
+                    "question": "Select the correct meaning of the idiom: 'To burn the midnight oil'.",
+                    "options": [
+                        "To waste resources",
+                        "To work late into the night",
+                        "To create trouble",
+                        "To be extravagant"
+                    ],
+                    "answer": "To work late into the night",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_08",
+                    "question": "Select the correct meaning of the idiom: 'To hit the nail on the head'.",
+                    "options": [
+                        "To do exactly the right thing",
+                        "To destroy something",
+                        "To get into a fight",
+                        "To build something"
+                    ],
+                    "answer": "To do exactly the right thing",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_09",
+                    "question": "Fill in the blank: Scarcely had I reached the station ____ the train left.",
+                    "options": [
+                        "than",
+                        "then",
+                        "when",
+                        "while"
+                    ],
+                    "answer": "when",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_10",
+                    "question": "Fill in the blank: No sooner did he see the police ____ he ran away.",
+                    "options": [
+                        "than",
+                        "then",
+                        "when",
+                        "that"
+                    ],
+                    "answer": "than",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_11",
+                    "question": "One word substitution: A remedy for all diseases.",
+                    "options": [
+                        "Antiseptic",
+                        "Antibiotic",
+                        "Narcotic",
+                        "Panacea"
+                    ],
+                    "answer": "Panacea",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_12",
+                    "question": "One word substitution: One who looks at the bright side of things.",
+                    "options": [
+                        "Pessimist",
+                        "Optimist",
+                        "Atheist",
+                        "Theist"
+                    ],
+                    "answer": "Optimist",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_13",
+                    "question": "Change the voice: 'Who did this?'",
+                    "options": [
+                        "Who was this done by?",
+                        "By whom was this done?",
+                        "By whom is this done?",
+                        "Who has done this?"
+                    ],
+                    "answer": "By whom was this done?",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_14",
+                    "question": "Fill in the blank: I am looking forward ____ you.",
+                    "options": [
+                        "to see",
+                        "to seeing",
+                        "for seeing",
+                        "seeing"
+                    ],
+                    "answer": "to seeing",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_15",
+                    "question": "Select the synonym of: DEFER",
+                    "options": [
+                        "Indifferent",
+                        "Defy",
+                        "Differ",
+                        "Postpone"
+                    ],
+                    "answer": "Postpone",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_16",
+                    "question": "Select the synonym of: LETHARGY",
+                    "options": [
+                        "Laxity",
+                        "Impassivity",
+                        "Serenity",
+                        "Listlessness"
+                    ],
+                    "answer": "Listlessness",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_17",
+                    "question": "Select the antonym of: TRANSPARENT",
+                    "options": [
+                        "Clear",
+                        "Ambiguity",
+                        "Opaque",
+                        "Crystal"
+                    ],
+                    "answer": "Opaque",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_18",
+                    "question": "Select the antonym of: VANITY",
+                    "options": [
+                        "Pride",
+                        "Humility",
+                        "Conceit",
+                        "Ostentatious"
+                    ],
+                    "answer": "Humility",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_19",
+                    "question": "Find the correctly spelt word.",
+                    "options": [
+                        "Embarrasment",
+                        "Embarrassment",
+                        "Embarasment",
+                        "Embarassment"
+                    ],
+                    "answer": "Embarrassment",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_20",
+                    "question": "Fill in the blank: The man ____ is standing there is my brother.",
+                    "options": [
+                        "which",
+                        "whom",
+                        "who",
+                        "whose"
+                    ],
+                    "answer": "who",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_21",
+                    "question": "Fill in the blank: Neither of the two candidates ____ suitable.",
+                    "options": [
+                        "is",
+                        "are",
+                        "were",
+                        "have been"
+                    ],
+                    "answer": "is",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_22",
+                    "question": "Improve the sentence: 'It is high time he *starts* earning.'",
+                    "options": [
+                        "started",
+                        "would start",
+                        "has started",
+                        "No improvement"
+                    ],
+                    "answer": "started",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_23",
+                    "question": "Fill in the blank: Divide this apple ____ Robert and David.",
+                    "options": [
+                        "between",
+                        "among",
+                        "amidst",
+                        "with"
+                    ],
+                    "answer": "between",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_24",
+                    "question": "Fill in the blank: Divide the sweets ____ the three boys.",
+                    "options": [
+                        "between",
+                        "among",
+                        "with",
+                        "to"
+                    ],
+                    "answer": "among",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_25",
+                    "question": "Complete the proverb: 'A stitch in time saves ____'.",
+                    "options": [
+                        "five",
+                        "nine",
+                        "ten",
+                        "time"
+                    ],
+                    "answer": "nine",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_26",
+                    "question": "Change the speech: He said to me, 'I am ready.'",
+                    "options": [
+                        "He told me that he is ready.",
+                        "He told me that he was ready.",
+                        "He told to me that he was ready.",
+                        "He said that he is ready."
+                    ],
+                    "answer": "He told me that he was ready.",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_27",
+                    "question": "Spot the error: 'Unless you do not work hard, / you will not / succeed.'",
+                    "options": [
+                        "Unless you do not work hard",
+                        "you will not",
+                        "succeed",
+                        "No error"
+                    ],
+                    "answer": "Unless you do not work hard",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_28",
+                    "question": "Fill in the blank: While I was walking along the street, I ____ an old friend.",
+                    "options": [
+                        "ran away",
+                        "ran out",
+                        "ran into",
+                        "ran over"
+                    ],
+                    "answer": "ran into",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_29",
+                    "question": "One word substitution: A government by the people.",
+                    "options": [
+                        "Autocracy",
+                        "Democracy",
+                        "Bureaucracy",
+                        "Aristocracy"
+                    ],
+                    "answer": "Democracy",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L2_30",
+                    "question": "Select the correct spelling.",
+                    "options": [
+                        "Colonel",
+                        "Colonal",
+                        "Colnel",
+                        "Kolnel"
+                    ],
+                    "answer": "Colonel",
+                    "image_url": null
+                }
+            ]
+        },
+        {
+            "level_id": 3,
+            "difficulty": "Intermediate",
+            "description": "Idioms, Phrases, and Voice Change",
+            "questions": [
+                {
+                    "id": "V_L3_01",
+                    "question": "Rearrange the parts to form a meaningful sentence: \n(P) we went \n(Q) to the cinema \n(R) last night \n(S) and enjoyed the movie",
+                    "options": [
+                        "P-Q-R-S",
+                        "R-P-Q-S",
+                        "P-S-Q-R",
+                        "Q-P-R-S"
+                    ],
+                    "answer": "P-Q-R-S",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_02",
+                    "question": "Rearrange the parts: \n(P) has been \n(Q) the old man \n(R) since morning \n(S) sleeping",
+                    "options": [
+                        "Q-P-S-R",
+                        "Q-S-P-R",
+                        "P-Q-S-R",
+                        "S-R-Q-P"
+                    ],
+                    "answer": "Q-P-S-R",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_03",
+                    "question": "Select the correct meaning of the idiom: 'To sit on the fence'.",
+                    "options": [
+                        "To relax completely",
+                        "To be in a dangerous situation",
+                        "To refuse to take sides",
+                        "To guard something"
+                    ],
+                    "answer": "To refuse to take sides",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_04",
+                    "question": "Select the correct meaning of the idiom: 'A bolt from the blue'.",
+                    "options": [
+                        "A thunderstorm",
+                        "An unexpected shock",
+                        "A pleasant surprise",
+                        "A blue flash of light"
+                    ],
+                    "answer": "An unexpected shock",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_05",
+                    "question": "Change the voice: 'The teacher punishable him.'",
+                    "options": [
+                        "He was punished by the teacher.",
+                        "He is punished by the teacher.",
+                        "He has been punished by the teacher.",
+                        "He was being punished by the teacher."
+                    ],
+                    "answer": "He was punished by the teacher.",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_06",
+                    "question": "Change the voice: 'People speak English all over the world.'",
+                    "options": [
+                        "English is spoken all over the world.",
+                        "English was spoken all over the world.",
+                        "English has been spoken all over the world.",
+                        "People are spoken by English."
+                    ],
+                    "answer": "English is spoken all over the world.",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_07",
+                    "question": "Change the speech: He said, 'I have finished my work.'",
+                    "options": [
+                        "He said that he has finished his work.",
+                        "He said that he had finished his work.",
+                        "He said that he finished his work.",
+                        "He says that he had finished his work."
+                    ],
+                    "answer": "He said that he had finished his work.",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_08",
+                    "question": "Change the speech: The teacher said to the boy, 'Don't talk nonsense.'",
+                    "options": [
+                        "The teacher told the boy not to talk nonsense.",
+                        "The teacher asked the boy to not talk nonsense.",
+                        "The teacher said to the boy do not talk nonsense.",
+                        "The teacher forbade the boy to talk nonsense."
+                    ],
+                    "answer": "The teacher forbade the boy to talk nonsense.",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_09",
+                    "question": "Fill in the blank with the correct conditional: If I ____ a bird, I would fly.",
+                    "options": [
+                        "was",
+                        "am",
+                        "were",
+                        "had been"
+                    ],
+                    "answer": "were",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_10",
+                    "question": "Fill in the blank: If he ____ hard, he would have passed.",
+                    "options": [
+                        "worked",
+                        "had worked",
+                        "has worked",
+                        "works"
+                    ],
+                    "answer": "had worked",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_11",
+                    "question": "Select the synonym of: MITIGATE",
+                    "options": [
+                        "Increase",
+                        "Aggravate",
+                        "Alleviate",
+                        "Complicate"
+                    ],
+                    "answer": "Alleviate",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_12",
+                    "question": "Select the synonym of: EPHEMERAL",
+                    "options": [
+                        "Lasting",
+                        "Short-lived",
+                        "Permanent",
+                        "Eternal"
+                    ],
+                    "answer": "Short-lived",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_13",
+                    "question": "Select the antonym of: CANDID",
+                    "options": [
+                        "Frank",
+                        "Open",
+                        "Guarded",
+                        "Honest"
+                    ],
+                    "answer": "Guarded",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_14",
+                    "question": "Select the antonym of: RELUCTANT",
+                    "options": [
+                        "Hesitant",
+                        "Unwilling",
+                        "Eager",
+                        "Resistant"
+                    ],
+                    "answer": "Eager",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_15",
+                    "question": "Analogy: Doctor : Stethoscope :: Sculptor : ?",
+                    "options": [
+                        "Anvil",
+                        "Chisel",
+                        "Scalpel",
+                        "Chopper"
+                    ],
+                    "answer": "Chisel",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_16",
+                    "question": "Analogy: Grain : Stock :: Stick : ?",
+                    "options": [
+                        "Heap",
+                        "Bundle",
+                        "Collection",
+                        "String"
+                    ],
+                    "answer": "Bundle",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_17",
+                    "question": "One word substitution: A person who hates women.",
+                    "options": [
+                        "Misogynist",
+                        "Philogynist",
+                        "Misanthrope",
+                        "Philanthropist"
+                    ],
+                    "answer": "Misogynist",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_18",
+                    "question": "One word substitution: Things which contain elements of the same nature.",
+                    "options": [
+                        "Heterogeneous",
+                        "Homogeneous",
+                        "Simultaneous",
+                        "Instantaneous"
+                    ],
+                    "answer": "Homogeneous",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_19",
+                    "question": "Spot the error: 'He is / one of the best players / who has played / for the country.'",
+                    "options": [
+                        "He is",
+                        "one of the best players",
+                        "who has played",
+                        "for the country"
+                    ],
+                    "answer": "who has played",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_20",
+                    "question": "Spot the error: 'No sooner / did the bell ring / then the boys / ran out.'",
+                    "options": [
+                        "No sooner",
+                        "did the bell ring",
+                        "then the boys",
+                        "ran out"
+                    ],
+                    "answer": "then the boys",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_21",
+                    "question": "Fill in the blank: The police ____ looking into the matter.",
+                    "options": [
+                        "is",
+                        "are",
+                        "was",
+                        "has been"
+                    ],
+                    "answer": "are",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_22",
+                    "question": "Select the correct meaning of the idiom: 'To read between the lines'.",
+                    "options": [
+                        "To read slowly",
+                        "To understand the hidden meaning",
+                        "To read carefully",
+                        "To learn quickly"
+                    ],
+                    "answer": "To understand the hidden meaning",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_23",
+                    "question": "Rearrange the parts: \n(P) carelessness \n(Q) him \n(R) disaster \n(S) his \n(T) brought",
+                    "options": [
+                        "S-P-T-Q-R",
+                        "P-S-T-Q-R",
+                        "S-P-T-R-Q",
+                        "Q-T-S-P-R"
+                    ],
+                    "answer": "S-P-T-Q-R",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_24",
+                    "question": "Sentence Improvement: 'I *am working* here since 2010.'",
+                    "options": [
+                        "have been working",
+                        "was working",
+                        "had worked",
+                        "No improvement"
+                    ],
+                    "answer": "have been working",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_25",
+                    "question": "Sentence Improvement: 'He *don't know* the answer.'",
+                    "options": [
+                        "doesn't know",
+                        "didn't knew",
+                        "not know",
+                        "No improvement"
+                    ],
+                    "answer": "doesn't know",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_26",
+                    "question": "Fill in the blank: Much water has flown ____ the bridge.",
+                    "options": [
+                        "under",
+                        "below",
+                        "beneath",
+                        "in"
+                    ],
+                    "answer": "under",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_27",
+                    "question": "Choose the word with the correct spelling.",
+                    "options": [
+                        "Superintendent",
+                        "Superintendant",
+                        "Superentendent",
+                        "Superintendentt"
+                    ],
+                    "answer": "Superintendent",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_28",
+                    "question": "Change the voice: 'Let him do the work.'",
+                    "options": [
+                        "Let the work be done by him.",
+                        "Let the work do by him.",
+                        "The work should be done by him.",
+                        "Let he do the work."
+                    ],
+                    "answer": "Let the work be done by him.",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_29",
+                    "question": "Select the synonym of: CANDOUR",
+                    "options": [
+                        "Frankness",
+                        "Sweetness",
+                        "Brightness",
+                        "Arrogance"
+                    ],
+                    "answer": "Frankness",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L3_30",
+                    "question": "Select the antonym of: BENEVOLENT",
+                    "options": [
+                        "Helpful",
+                        "Malevolent",
+                        "Kind",
+                        "Generous"
+                    ],
+                    "answer": "Malevolent",
+                    "image_url": null
+                }
+            ]
+        },
+        {
+            "level_id": 4,
+            "difficulty": "Difficult",
+            "description": "Para-jumbles and Critical Logic",
+            "questions": [
+                {
+                    "id": "V_L4_01",
+                    "question": "Sentence Rearrangement: \nS1: The machines are usually controlled by a keyboard. \nS6: Thus, errors are minimized. \nP: The operator types the instructions. \nQ: These instructions are stored in the memory. \nR: The computer then executes the instructions. \nS: They are displayed on the screen.",
+                    "options": [
+                        "PQRS",
+                        "PSQR",
+                        "QPSR",
+                        "SPQR"
+                    ],
+                    "answer": "PSQR",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_02",
+                    "question": "Sentence Rearrangement: \nS1: Ants are the most interesting of all insects. \nS6: They also have a highly developed social life. \nP: They are found in almost all parts of the world. \nQ: Some of them build anthills. \nR: These are often several feet high. \nS: They are very hardworking.",
+                    "options": [
+                        "PQRS",
+                        "PSQR",
+                        "SQPR",
+                        "SRPQ"
+                    ],
+                    "answer": "PSQR",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_03",
+                    "question": "Statement: 'If you want to get good marks in mathematics, practice hard.' \nAssumption I: Mathematics is a difficult subject. \nAssumption II: Practice helps in getting good marks.",
+                    "options": [
+                        "Only Assumption I is implicit",
+                        "Only Assumption II is implicit",
+                        "Both I and II are implicit",
+                        "Neither I nor II is implicit"
+                    ],
+                    "answer": "Only Assumption II is implicit",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_04",
+                    "question": "Statement: 'The government has decided to ban the sale of tobacco in the state.' \nArgument I: Yes, it causes cancer and is harmful to health. \nArgument II: No, it will lead to unemployment for those working in the tobacco industry.",
+                    "options": [
+                        "Only Argument I is strong",
+                        "Only Argument II is strong",
+                        "Both I and II are strong",
+                        "Neither I nor II is strong"
+                    ],
+                    "answer": "Both I and II are strong",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_05",
+                    "question": "Select the word which best fits the blank: 'The lawyer's ________ arguments convinced the jury of the defendant's innocence.'",
+                    "options": [
+                        "Tenuous",
+                        "Cogent",
+                        "Fallacious",
+                        "Ambiguous"
+                    ],
+                    "answer": "Cogent",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_06",
+                    "question": "Select the word which best fits the blank: 'He is a ________ speaker; he tends to talk a lot but says very little.'",
+                    "options": [
+                        "Laconic",
+                        "Taciturn",
+                        "Loquacious",
+                        "Reticent"
+                    ],
+                    "answer": "Loquacious",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_07",
+                    "question": "Spot the error: 'Not only he / but also his friends / was present / at the party.'",
+                    "options": [
+                        "Not only he",
+                        "but also his friends",
+                        "was present",
+                        "at the party"
+                    ],
+                    "answer": "was present",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_08",
+                    "question": "Spot the error: 'He is / the most / unique / person I know.'",
+                    "options": [
+                        "He is",
+                        "the most",
+                        "unique",
+                        "person I know"
+                    ],
+                    "answer": "the most",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_09",
+                    "question": "Change the voice: 'The news surprised us.'",
+                    "options": [
+                        "We were surprised at the news.",
+                        "We were surprised by the news.",
+                        "We are surprised with the news.",
+                        "We had been surprised at the news."
+                    ],
+                    "answer": "We were surprised at the news.",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_10",
+                    "question": "Select the synonym of: ESOTERIC",
+                    "options": [
+                        "Common",
+                        "Obscure",
+                        "Simple",
+                        "Obvious"
+                    ],
+                    "answer": "Obscure",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_11",
+                    "question": "Select the synonym of: PRAGMATIC",
+                    "options": [
+                        "Theoretical",
+                        "Realistic",
+                        "Idealistic",
+                        "Imaginative"
+                    ],
+                    "answer": "Realistic",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_12",
+                    "question": "Select the antonym of: ZENITH",
+                    "options": [
+                        "Peak",
+                        "Acme",
+                        "Nadir",
+                        "Apex"
+                    ],
+                    "answer": "Nadir",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_13",
+                    "question": "Select the antonym of: MITIGATE",
+                    "options": [
+                        "Abate",
+                        "Allay",
+                        "Aggravate",
+                        "Soothe"
+                    ],
+                    "answer": "Aggravate",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_14",
+                    "question": "Analogy: Indigent : Wealthy :: Gauche : ?",
+                    "options": [
+                        "Graceful",
+                        "Rich",
+                        "Clumsy",
+                        "Awkward"
+                    ],
+                    "answer": "Graceful",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_15",
+                    "question": "Analogy: Lion : Pride :: Wolf : ?",
+                    "options": [
+                        "Herd",
+                        "Pack",
+                        "School",
+                        "Flock"
+                    ],
+                    "answer": "Pack",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_16",
+                    "question": "Sentence Improvement: 'Hardly had I entered the room *than* the phone rang.'",
+                    "options": [
+                        "when",
+                        "then",
+                        "that",
+                        "No improvement"
+                    ],
+                    "answer": "when",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_17",
+                    "question": "Sentence Improvement: 'If I *was* you, I would not do this.'",
+                    "options": [
+                        "am",
+                        "were",
+                        "had been",
+                        "No improvement"
+                    ],
+                    "answer": "were",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_18",
+                    "question": "One word substitution: A person who renounces the world and practices self-discipline in order to attain salvation.",
+                    "options": [
+                        "Sceptic",
+                        "Ascetic",
+                        "Devotee",
+                        "Antiquarian"
+                    ],
+                    "answer": "Ascetic",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_19",
+                    "question": "One word substitution: A speech delivered without previous preparation.",
+                    "options": [
+                        "Soliloquy",
+                        "Extempore",
+                        "Rhetoric",
+                        "Expression"
+                    ],
+                    "answer": "Extempore",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_20",
+                    "question": "Fill in the blank: Despite his hard work, he could not ____ the exam.",
+                    "options": [
+                        "get away",
+                        "get through",
+                        "get on",
+                        "get off"
+                    ],
+                    "answer": "get through",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_21",
+                    "question": "Fill in the blank: The company has ____ a new policy for employees.",
+                    "options": [
+                        "laid down",
+                        "laid out",
+                        "laid up",
+                        "laid off"
+                    ],
+                    "answer": "laid down",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_22",
+                    "question": "Statement: 'Use of cell phones while driving is dangerous.' \nAssumption I: Cell phones distract the driver. \nAssumption II: Accidents are caused by distraction.",
+                    "options": [
+                        "Only I is implicit",
+                        "Only II is implicit",
+                        "Both I and II are implicit",
+                        "Neither is implicit"
+                    ],
+                    "answer": "Both I and II are implicit",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_23",
+                    "question": "Identify the figure of speech: 'The camel is the ship of the desert.'",
+                    "options": [
+                        "Simile",
+                        "Metaphor",
+                        "Personification",
+                        "Hyperbole"
+                    ],
+                    "answer": "Metaphor",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_24",
+                    "question": "Select the correct spelling.",
+                    "options": [
+                        "Millenium",
+                        "Millennium",
+                        "Milennium",
+                        "Milenium"
+                    ],
+                    "answer": "Millennium",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_25",
+                    "question": "Select the correct spelling.",
+                    "options": [
+                        "Lieutenant",
+                        "Leutenant",
+                        "Leftenant",
+                        "Lieutenent"
+                    ],
+                    "answer": "Lieutenant",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_26",
+                    "question": "Select the phrase that best replaces the underlined words: 'He *cannot pay his debts*.'",
+                    "options": [
+                        "Insolvent",
+                        "Indebted",
+                        "Extravagant",
+                        "Miser"
+                    ],
+                    "answer": "Insolvent",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_27",
+                    "question": "Select the phrase that best replaces the underlined words: 'She has *a flair for* music.'",
+                    "options": [
+                        "Talent",
+                        "Dislike",
+                        "Training",
+                        "Instrument"
+                    ],
+                    "answer": "Talent",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_28",
+                    "question": "Rearrange: \n(P) to the \n(Q) principal \n(R) complain \n(S) students \n(T) decided",
+                    "options": [
+                        "S-T-R-P-Q",
+                        "S-R-P-Q-T",
+                        "S-T-P-R-Q",
+                        "Q-T-R-P-S"
+                    ],
+                    "answer": "S-T-R-P-Q",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_29",
+                    "question": "Spot the error: 'The police / has arrested / the thief / yesterday.'",
+                    "options": [
+                        "The police",
+                        "has arrested",
+                        "the thief",
+                        "yesterday"
+                    ],
+                    "answer": "has arrested",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L4_30",
+                    "question": "Fill in the blank: He is one of those men who ____ always late.",
+                    "options": [
+                        "is",
+                        "are",
+                        "was",
+                        "has"
+                    ],
+                    "answer": "are",
+                    "image_url": null
+                }
+            ]
+        },
+        {
+            "level_id": 5,
+            "difficulty": "Very Difficult",
+            "description": "Reading Comprehension and Complex Inferences",
+            "questions": [
+                {
+                    "id": "V_L5_01",
+                    "question": "Read the passage and answer: 'The school has always been the most important means of transferring the wealth of tradition from one generation to the next. This applies today in an even higher degree than in former times, for through modern development of the economic life, the family as bearer of tradition and education has become weakened.' \n\nWhat is the main idea?",
+                    "options": [
+                        "Schools must replace families entirely.",
+                        "Economic development has strengthened families.",
+                        "Schools have an increased responsibility in transmitting tradition.",
+                        "Tradition is no longer important."
+                    ],
+                    "answer": "Schools have an increased responsibility in transmitting tradition.",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_02",
+                    "question": "Reading Comprehension: 'There is a shift in our economy from a manufacturing to a service orientation. The increase in service-sector will require the managers to reflect new emphasis on the human element.' \n\nWhich of the following can be inferred?",
+                    "options": [
+                        "Manufacturing industries will close down.",
+                        "Service sector requires more physical labor.",
+                        "Interpersonal skills will become more important for managers.",
+                        "The economy is declining."
+                    ],
+                    "answer": "Interpersonal skills will become more important for managers.",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_03",
+                    "question": "Statement: 'A large number of people in the city are diagnosed with malaria.' \n\nCourse of Action I: The city municipal authorities should take immediate steps to carry out fumigation. \nCourse of Action II: The people in the area should be advised to use mosquito repellents.",
+                    "options": [
+                        "Only I follows",
+                        "Only II follows",
+                        "Both I and II follow",
+                        "Neither follows"
+                    ],
+                    "answer": "Both I and II follow",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_04",
+                    "question": "Statement: 'Severe drought has been reported in many parts of the country.' \n\nCourse of Action I: The government should immediately make arrangements for providing financial assistance to those affected. \nCourse of Action II: Food, water, and fodder should be immediately sent to these areas to save people and cattle.",
+                    "options": [
+                        "Only I follows",
+                        "Only II follows",
+                        "Both I and II follow",
+                        "Neither follows"
+                    ],
+                    "answer": "Both I and II follow",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_05",
+                    "question": "Cause & Effect: \nStatement A: The prices of petrol and diesel have increased significantly. \nStatement B: The transport companies have increased their fares.",
+                    "options": [
+                        "Statement A is the cause and B is the effect",
+                        "Statement B is the cause and A is the effect",
+                        "Both are independent causes",
+                        "Both are effects of independent causes"
+                    ],
+                    "answer": "Statement A is the cause and B is the effect",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_06",
+                    "question": "Cause & Effect: \nStatement A: There was a huge rush of people to the temple last Sunday. \nStatement B: The police authority had tightened the security around the temple last Sunday.",
+                    "options": [
+                        "Statement A is the cause and B is the effect",
+                        "Statement B is the cause and A is the effect",
+                        "Both are independent causes",
+                        "Both are effects of a common cause"
+                    ],
+                    "answer": "Statement A is the cause and B is the effect",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_07",
+                    "question": "Double Filler: 'The young boy was _________ by the _________ of the new city.'",
+                    "options": [
+                        "fascinated, vibrancy",
+                        "bored, activity",
+                        "scared, peace",
+                        "angered, buildings"
+                    ],
+                    "answer": "fascinated, vibrancy",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_08",
+                    "question": "Double Filler: 'Ideally, the _________ of the new policy should be based on _________ analysis of the current situation.'",
+                    "options": [
+                        "formulation, thorough",
+                        "rejection, biased",
+                        "acceptance, cursory",
+                        "creation, random"
+                    ],
+                    "answer": "formulation, thorough",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_09",
+                    "question": "Select the synonym of: OBSEQUIOUS",
+                    "options": [
+                        "Defiant",
+                        "Servile",
+                        "Honest",
+                        "Confident"
+                    ],
+                    "answer": "Servile",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_10",
+                    "question": "Select the synonym of: PERNICIOUS",
+                    "options": [
+                        "Beneficial",
+                        "Harmful",
+                        "Innocuous",
+                        "Salubrious"
+                    ],
+                    "answer": "Harmful",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_11",
+                    "question": "Select the antonym of: LACONIC",
+                    "options": [
+                        "Brief",
+                        "Verbose",
+                        "Silent",
+                        "Terse"
+                    ],
+                    "answer": "Verbose",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_12",
+                    "question": "Select the antonym of: EPHEMERAL",
+                    "options": [
+                        "Transient",
+                        "Eternal",
+                        "Fleeting",
+                        "Momentary"
+                    ],
+                    "answer": "Eternal",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_13",
+                    "question": "Spot the error: 'I prefer / to read / than to / play games.'",
+                    "options": [
+                        "I prefer",
+                        "to read",
+                        "than to",
+                        "play games"
+                    ],
+                    "answer": "than to",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_14",
+                    "question": "Spot the error: 'If I was / the Prime Minister / I would / ban corruption.'",
+                    "options": [
+                        "If I was",
+                        "the Prime Minister",
+                        "I would",
+                        "ban corruption"
+                    ],
+                    "answer": "If I was",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_15",
+                    "question": "Para-jumble: \nS1: Venice is a strange city. \nS6: This is because Venice has no streets. \nP: There are about 400 old stone bridges joining the islands. \nQ: It is not one island, but a hundred and seventeen islands. \nR: These small islands are near one another. \nS: They are joined by bridges.",
+                    "options": [
+                        "QPRS",
+                        "QRPS",
+                        "PQRS",
+                        "SRPQ"
+                    ],
+                    "answer": "QRPS",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_16",
+                    "question": "Fill in the blank: 'His _________ nature often landed him in trouble with the authorities.'",
+                    "options": [
+                        "Submissive",
+                        "Belligerent",
+                        "Docile",
+                        "Placid"
+                    ],
+                    "answer": "Belligerent",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_17",
+                    "question": "One word substitution: A person who is indifferent to pleasure or pain.",
+                    "options": [
+                        "Stoic",
+                        "Epicurean",
+                        "Cynic",
+                        "Hedonist"
+                    ],
+                    "answer": "Stoic",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_18",
+                    "question": "One word substitution: A remedy for all ills or difficulties.",
+                    "options": [
+                        "Panacea",
+                        "Elixir",
+                        "Narcotic",
+                        "Ambrosia"
+                    ],
+                    "answer": "Panacea",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_19",
+                    "question": "Choose the correct spelling.",
+                    "options": [
+                        "Connoisseur",
+                        "Conoisseur",
+                        "Conoiseur",
+                        "Connoiseur"
+                    ],
+                    "answer": "Connoisseur",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_20",
+                    "question": "Choose the correct spelling.",
+                    "options": [
+                        "Sovereignty",
+                        "Soveriegnty",
+                        "Sovereignity",
+                        "Soverenity"
+                    ],
+                    "answer": "Sovereignty",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_21",
+                    "question": "Select the word closest in meaning to the idiom: 'To cast aspersions'.",
+                    "options": [
+                        "To praise",
+                        "To slander",
+                        "To support",
+                        "To ignore"
+                    ],
+                    "answer": "To slander",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_22",
+                    "question": "Select the word closest in meaning to the idiom: 'To give the cold shoulder'.",
+                    "options": [
+                        "To welcome warmly",
+                        "To ignore intentionally",
+                        "To support secretively",
+                        "To fight openly"
+                    ],
+                    "answer": "To ignore intentionally",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_23",
+                    "question": "Identify the figure of speech: 'Death lays his icy hands on kings.'",
+                    "options": [
+                        "Simile",
+                        "Metaphor",
+                        "Personification",
+                        "Apostrophe"
+                    ],
+                    "answer": "Personification",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_24",
+                    "question": "Sentence Completion: 'The _________ of the evidence was such that the jury had no choice but to acquit him.'",
+                    "options": [
+                        "Paucity",
+                        "Abundance",
+                        "Veracity",
+                        "Ambiguity"
+                    ],
+                    "answer": "Paucity",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_25",
+                    "question": "Analogy: Mendacity : Honesty :: Craven : ?",
+                    "options": [
+                        "Cowardly",
+                        "Brave",
+                        "Fearful",
+                        "Timorous"
+                    ],
+                    "answer": "Brave",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_26",
+                    "question": "Change the Voice: 'They are going to build a new bridge.'",
+                    "options": [
+                        "A new bridge is going to be built by them.",
+                        "A new bridge is being built by them.",
+                        "A new bridge will be built by them.",
+                        "A new bridge is to be built by them."
+                    ],
+                    "answer": "A new bridge is going to be built by them.",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_27",
+                    "question": "Spot the error: 'Hardly had I / left the house / than it began / to rain.'",
+                    "options": [
+                        "Hardly had I",
+                        "left the house",
+                        "than it began",
+                        "to rain"
+                    ],
+                    "answer": "than it began",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_28",
+                    "question": "Statement: 'The company has decided to increase the price of its product.' \nAssumption I: The company will make more profit. \nAssumption II: The customers will continue to buy the product.",
+                    "options": [
+                        "Only I is implicit",
+                        "Only II is implicit",
+                        "Both I and II are implicit",
+                        "Neither is implicit"
+                    ],
+                    "answer": "Both I and II are implicit",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_29",
+                    "question": "Rearrange: \n(P) poverty \n(Q) the \n(R) elimination \n(S) is \n(T) of \n(U) goal",
+                    "options": [
+                        "Q-R-T-P-S-Q-U",
+                        "Q-R-T-P-S-U",
+                        "T-R-P-S-Q-U",
+                        "R-P-T-S-Q-U"
+                    ],
+                    "answer": "Q-R-T-P-S-Q-U",
+                    "image_url": null
+                },
+                {
+                    "id": "V_L5_30",
+                    "question": "Fill in the blank: 'He is an _________ reader; he reads books on every subject.'",
+                    "options": [
+                        "Avid",
+                        "Apathetic",
+                        "Occasional",
+                        "Indifferent"
+                    ],
+                    "answer": "Avid",
+                    "image_url": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1840 @@
+{
+    "topic": "Logical Reasoning",
+    "levels": [
+        {
+            "level_id": 1,
+            "difficulty": "Easy",
+            "description": "Number Series, Letter Series, and Basic Analogies",
+            "questions": [
+                {
+                    "id": "R_L1_01",
+                    "question": "Look at this series: 2, 1, (1/2), (1/4), ... What number should come next?",
+                    "options": [
+                        "(1/3)",
+                        "(1/8)",
+                        "(2/8)",
+                        "(1/16)"
+                    ],
+                    "answer": "(1/8)",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_02",
+                    "question": "Look at this series: 7, 10, 8, 11, 9, 12, ... What number should come next?",
+                    "options": [
+                        "7",
+                        "10",
+                        "12",
+                        "13"
+                    ],
+                    "answer": "10",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_03",
+                    "question": "Look at this series: 36, 34, 30, 28, 24, ... What number should come next?",
+                    "options": [
+                        "20",
+                        "22",
+                        "23",
+                        "26"
+                    ],
+                    "answer": "22",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_04",
+                    "question": "Look at this series: 22, 21, 23, 22, 24, 23, ... What number should come next?",
+                    "options": [
+                        "22",
+                        "24",
+                        "25",
+                        "26"
+                    ],
+                    "answer": "25",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_05",
+                    "question": "Look at this series: 53, 53, 40, 40, 27, 27, ... What number should come next?",
+                    "options": [
+                        "12",
+                        "14",
+                        "27",
+                        "53"
+                    ],
+                    "answer": "14",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_06",
+                    "question": "SCD, TEF, UGH, ____, WKL",
+                    "options": [
+                        "CMN",
+                        "UJI",
+                        "VIJ",
+                        "IJT"
+                    ],
+                    "answer": "VIJ",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_07",
+                    "question": "B2CD, _____, BCD4, B5CD, BC6D",
+                    "options": [
+                        "B2C2D",
+                        "BC3D",
+                        "B2C3D",
+                        "BCD7"
+                    ],
+                    "answer": "BC3D",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_08",
+                    "question": "FAG, GAF, HAI, IAH, ____",
+                    "options": [
+                        "JAK",
+                        "HAL",
+                        "HAK",
+                        "JAI"
+                    ],
+                    "answer": "JAK",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_09",
+                    "question": "ELFA, GLHA, ILJA, _____, MLNA",
+                    "options": [
+                        "OLPA",
+                        "KLMA",
+                        "LLMA",
+                        "KLLA"
+                    ],
+                    "answer": "KLMA",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_10",
+                    "question": "CMM, EOO, GQQ, _____, KUU",
+                    "options": [
+                        "GRR",
+                        "GSS",
+                        "ISS",
+                        "ITT"
+                    ],
+                    "answer": "ISS",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_11",
+                    "question": "If in a certain language, MADRAS is coded as NBESBT, how is BOMBAY coded in that code?",
+                    "options": [
+                        "CPNCBX",
+                        "CPNCBZ",
+                        "CPOCBZ",
+                        "CQOCBZ"
+                    ],
+                    "answer": "CPNCBZ",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_12",
+                    "question": "In a certain code, TRIPPLE is written as SQHOOKD. How is DISPOSE written in that code?",
+                    "options": [
+                        "CHRONRD",
+                        "DSOESPI",
+                        "ESJTPTF",
+                        "ESOISND"
+                    ],
+                    "answer": "CHRONRD",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_13",
+                    "question": "If FISH is written as EHRG in a certain code, how would JUNGLE be written in that code?",
+                    "options": [
+                        "ITMFKD",
+                        "ITNFKD",
+                        "KVOHMF",
+                        "TIMFKD"
+                    ],
+                    "answer": "ITMFKD",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_14",
+                    "question": "If A = 1, FAT = 27, then FAITH = ?",
+                    "options": [
+                        "44",
+                        "42",
+                        "41",
+                        "40"
+                    ],
+                    "answer": "44",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_15",
+                    "question": "If BROTHER is coded as 2456784. SISTER is coded as 919684. What is the code for ROBBERS?",
+                    "options": [
+                        "18, 15, 22, 5, 18, 19",
+                        "4562684",
+                        "9245784",
+                        "4522849"
+                    ],
+                    "answer": "4522849",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_16",
+                    "question": "Cup : Lip :: Bird : ?",
+                    "options": [
+                        "Grass",
+                        "Forest",
+                        "Beak",
+                        "Bush"
+                    ],
+                    "answer": "Beak",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_17",
+                    "question": "Paw : Cat :: Hoof : ?",
+                    "options": [
+                        "Lamb",
+                        "Horse",
+                        "Elephant",
+                        "Tiger"
+                    ],
+                    "answer": "Horse",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_18",
+                    "question": "Safe : Secure :: Protect : ?",
+                    "options": [
+                        "Lock",
+                        "Guard",
+                        "Sure",
+                        "Conserve"
+                    ],
+                    "answer": "Guard",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_19",
+                    "question": "Melt : Liquid :: Freeze : ?",
+                    "options": [
+                        "Ice",
+                        "Solid",
+                        "Condense",
+                        "Push"
+                    ],
+                    "answer": "Solid",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_20",
+                    "question": "Parts : Strap :: Wolf : ?",
+                    "options": [
+                        "Fox",
+                        "Animal",
+                        "Wood",
+                        "Flow"
+                    ],
+                    "answer": "Flow",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_21",
+                    "question": "Find the odd one out.",
+                    "options": [
+                        "Ginger",
+                        "Garlic",
+                        "Chilli",
+                        "Potato"
+                    ],
+                    "answer": "Chilli",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_22",
+                    "question": "Find the odd one out.",
+                    "options": [
+                        "Lion",
+                        "Leopard",
+                        "Snake",
+                        "Tiger"
+                    ],
+                    "answer": "Snake",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_23",
+                    "question": "Find the odd one out.",
+                    "options": [
+                        "Copper",
+                        "Zinc",
+                        "Brass",
+                        "Aluminium"
+                    ],
+                    "answer": "Brass",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_24",
+                    "question": "Find the odd one out.",
+                    "options": [
+                        "Apple",
+                        "Marigold",
+                        "Rose",
+                        "Lily"
+                    ],
+                    "answer": "Apple",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_25",
+                    "question": "Find the odd one out.",
+                    "options": [
+                        "January",
+                        "May",
+                        "July",
+                        "November"
+                    ],
+                    "answer": "November",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_26",
+                    "question": "A is B's sister. C is B's mother. D is C's father. E is D's mother. Then, how is A related to D?",
+                    "options": [
+                        "Grandmother",
+                        "Grandfather",
+                        "Daughter",
+                        "Granddaughter"
+                    ],
+                    "answer": "Granddaughter",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_27",
+                    "question": "Pointing to a photograph, a man said, 'I have no brother or sister but that man's father is my father's son.' Whose photograph was it?",
+                    "options": [
+                        "His own",
+                        "His son's",
+                        "His father's",
+                        "His nephew's"
+                    ],
+                    "answer": "His son's",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_28",
+                    "question": "One morning after sunrise, Suresh was standing facing a pole. The shadow of the pole fell exactly to his right. To which direction was he facing?",
+                    "options": [
+                        "East",
+                        "West",
+                        "South",
+                        "Data Inadequate"
+                    ],
+                    "answer": "South",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_29",
+                    "question": "A man walks 5 km toward south and then turns to the right. After walking 3 km he turns to the left and walks 5 km. Now in which direction is he from the starting place?",
+                    "options": [
+                        "West",
+                        "South",
+                        "North-East",
+                        "South-West"
+                    ],
+                    "answer": "South-West",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L1_30",
+                    "question": "Arrange the words in a meaningful sequence: 1. Key 2. Door 3. Lock 4. Room 5. Switch on",
+                    "options": [
+                        "5,1,2,4,3",
+                        "4,2,1,5,3",
+                        "1,3,2,4,5",
+                        "1,2,3,5,4"
+                    ],
+                    "answer": "1,3,2,4,5",
+                    "image_url": null
+                }
+            ]
+        },
+        {
+            "level_id": 2,
+            "difficulty": "Medium",
+            "description": "Blood Relations, Directions, and Syllogisms",
+            "questions": [
+                {
+                    "id": "R_L2_01",
+                    "question": "Pointing to a photograph of a boy, Suresh said, 'He is the son of the only son of my mother.' How is Suresh related to that boy?",
+                    "options": [
+                        "Brother",
+                        "Uncle",
+                        "Cousin",
+                        "Father"
+                    ],
+                    "answer": "Father",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_02",
+                    "question": "If A + B means A is the mother of B; A - B means A is the brother B; A % B means A is the father of B and A x B means A is the sister of B, which of the following shows that P is the maternal uncle of Q?",
+                    "options": [
+                        "Q - N + M x P",
+                        "P + S x N - Q",
+                        "P - M + N x Q",
+                        "Q - S % P"
+                    ],
+                    "answer": "P - M + N x Q",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_03",
+                    "question": "A girl introduced a boy as the son of the daughter of the father of her uncle. The boy is the girl's:",
+                    "options": [
+                        "Brother",
+                        "Son",
+                        "Uncle",
+                        "Son-in-law"
+                    ],
+                    "answer": "Brother",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_04",
+                    "question": "A man walks 30 meters towards North. Then he turns right and walks 30 meters. Then he turns right and walks 55 meters. Then he turns left and walks 20 meters. Then he turns left and walks 25 meters. How many meters is he from the starting position?",
+                    "options": [
+                        "10 m",
+                        "20 m",
+                        "30 m",
+                        "50 m"
+                    ],
+                    "answer": "50 m",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_05",
+                    "question": "Rasik walked 20 m towards north. Then he turned right and walks 30 m. Then he turns right and walks 35 m. Then he turns left and walks 15 m. Finally he turns left and walks 15 m. In which direction and how many metres is he from the starting position?",
+                    "options": [
+                        "15 m West",
+                        "30 m East",
+                        "30 m West",
+                        "45 m East"
+                    ],
+                    "answer": "45 m East",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_06",
+                    "question": "Statements: All bags are cakes. All lamps are cakes. \nConclusions: \nI. Some lamps are bags. \nII. No lamp is bag.",
+                    "options": [
+                        "Only I follows",
+                        "Only II follows",
+                        "Either I or II follows",
+                        "Neither I nor II follows"
+                    ],
+                    "answer": "Either I or II follows",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_07",
+                    "question": "Statements: Some papers are pens. All the pencils are pens. \nConclusions: \nI. Some pens are pencils. \nII. Some pens are papers.",
+                    "options": [
+                        "Only I follows",
+                        "Only II follows",
+                        "Either I or II follows",
+                        "Both I and II follow"
+                    ],
+                    "answer": "Both I and II follow",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_08",
+                    "question": "In a certain code language, '134' means 'good and tasty'; '478' means 'see good pictures' and '729' means 'pictures are faint'. Which of the following digits stands for 'see'?",
+                    "options": [
+                        "9",
+                        "2",
+                        "1",
+                        "8"
+                    ],
+                    "answer": "8",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_09",
+                    "question": "If ROSE is coded as 6821, CHAIR is coded as 73456 and PREACH is coded as 961473, what will be the code for SEARCH?",
+                    "options": [
+                        "246173",
+                        "214673",
+                        "214763",
+                        "216473"
+                    ],
+                    "answer": "214673",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_10",
+                    "question": "Find the next number in the series: 3, 12, 27, 48, 75, 108, ?",
+                    "options": [
+                        "147",
+                        "162",
+                        "183",
+                        "192"
+                    ],
+                    "answer": "147",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_11",
+                    "question": "Find the missing number in the series: 1, 9, 25, 49, ?, 121",
+                    "options": [
+                        "64",
+                        "81",
+                        "91",
+                        "100"
+                    ],
+                    "answer": "81",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_12",
+                    "question": "Select the figure that will replace the question mark in the following figure series.",
+                    "options": [
+                        "A",
+                        "B",
+                        "C",
+                        "D"
+                    ],
+                    "answer": "C",
+                    "image_url": "assets/images/logical/R_L2_12.jpg"
+                },
+                {
+                    "id": "R_L2_13",
+                    "question": "Choose the word which is least like the others words in a group.",
+                    "options": [
+                        "Calendar",
+                        "Year",
+                        "Date",
+                        "Month"
+                    ],
+                    "answer": "Calendar",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_14",
+                    "question": "Choose the word which is least like the others words in a group.",
+                    "options": [
+                        "Curd",
+                        "Butter",
+                        "Oil",
+                        "Cheese"
+                    ],
+                    "answer": "Oil",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_15",
+                    "question": "Statements: All men are dogs. All dogs are cats. \nConclusions: \nI. All men are cats. \nII. All cats are men.",
+                    "options": [
+                        "Only I follows",
+                        "Only II follows",
+                        "Both I and II follow",
+                        "Neither follows"
+                    ],
+                    "answer": "Only I follows",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_16",
+                    "question": "If Z = 52 and ACT = 48, then BAT will be equal to:",
+                    "options": [
+                        "39",
+                        "41",
+                        "44",
+                        "46"
+                    ],
+                    "answer": "46",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_17",
+                    "question": "Five girls are sitting on a bench to be photographed. Seema is to the left of Rani and to the right of Bindu. Mary is to the right of Rani. Reeta is between Rani and Mary. Who is sitting immediate right to Reeta?",
+                    "options": [
+                        "Bindu",
+                        "Rani",
+                        "Mary",
+                        "Seema"
+                    ],
+                    "answer": "Mary",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_18",
+                    "question": "Raman ranks sixteenth from the top and forty ninth from the bottom in a class. How many students are there in the class?",
+                    "options": [
+                        "64",
+                        "65",
+                        "66",
+                        "Cannot be determined"
+                    ],
+                    "answer": "64",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_19",
+                    "question": "If P is the husband of Q and R is the mother of S and Q. What is R to P?",
+                    "options": [
+                        "Mother",
+                        "Sister",
+                        "Aunt",
+                        "Mother-in-law"
+                    ],
+                    "answer": "Mother-in-law",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_20",
+                    "question": "A, P, R, X, S and Z are sitting in a row. S and Z are in the centre. A and P are at the ends. R is sitting to the left of A. Who is to the right of P?",
+                    "options": [
+                        "A",
+                        "X",
+                        "S",
+                        "Z"
+                    ],
+                    "answer": "X",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_21",
+                    "question": "Identify the diagram that best represents the relationship among the given classes: Car, Vehicle, Road",
+                    "options": [
+                        "Option A",
+                        "Option B",
+                        "Option C",
+                        "Option D"
+                    ],
+                    "answer": "Option B",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_22",
+                    "question": "Statements: No women teacher can play. Some women teachers are athletes. \nConclusions: \nI. Male athletes can play. \nII. Some athletes can play.",
+                    "options": [
+                        "Only I follows",
+                        "Only II follows",
+                        "Either I or II follows",
+                        "Neither I nor II follows"
+                    ],
+                    "answer": "Neither I nor II follows",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_23",
+                    "question": "In a certain code, 'il be pee' means 'roses are blue', 'sik hee' means 'red flowers' and 'pee mit hee' means 'flowers are vegetables'. How is 'red' written in that code?",
+                    "options": [
+                        "hee",
+                        "sik",
+                        "be",
+                        "cannot be determined"
+                    ],
+                    "answer": "sik",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_24",
+                    "question": "Find the number of triangles in the given figure.",
+                    "options": [
+                        "8",
+                        "10",
+                        "12",
+                        "14"
+                    ],
+                    "answer": "10",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_25",
+                    "question": "Arrange the words in a meaningful sequence: 1. Poverty 2. Population 3. Death 4. Unemployment 5. Disease",
+                    "options": [
+                        "2,3,4,5,1",
+                        "3,4,2,5,1",
+                        "2,4,1,5,3",
+                        "1,2,3,4,5"
+                    ],
+                    "answer": "2,4,1,5,3",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_26",
+                    "question": "Suresh, the son of Mahesh is married to Sia, whose sister Jia is married to Amar, the brother of Suresh. How is Jia related to Mahesh?",
+                    "options": [
+                        "Daughter",
+                        "Daughter-in-law",
+                        "Cousin",
+                        "Sister-in-law"
+                    ],
+                    "answer": "Daughter-in-law",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_27",
+                    "question": "If yesterday was Tuesday, then what day of the week will it be on the 17th day from today?",
+                    "options": [
+                        "Friday",
+                        "Sunday",
+                        "Monday",
+                        "Saturday"
+                    ],
+                    "answer": "Saturday",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_28",
+                    "question": "In a row of boys, if A who is 10th from the left and B who is 9th from the right interchange their positions, A becomes 15th from the left. How many boys are there in the row?",
+                    "options": [
+                        "23",
+                        "31",
+                        "27",
+                        "28"
+                    ],
+                    "answer": "23",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_29",
+                    "question": "If 'water' is called 'food', 'food' is called 'tree', 'tree' is called 'sky', 'sky' is called 'wall', on which of the following grows a fruit?",
+                    "options": [
+                        "Water",
+                        "Food",
+                        "Sky",
+                        "Tree"
+                    ],
+                    "answer": "Sky",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L2_30",
+                    "question": "A clock is so placed that at 12 noon its minute hand points towards North-East. In which direction does its hour hand point at 1.30 p.m.?",
+                    "options": [
+                        "North",
+                        "South",
+                        "East",
+                        "West"
+                    ],
+                    "answer": "East",
+                    "image_url": null
+                }
+            ]
+        },
+        {
+            "level_id": 3,
+            "difficulty": "Intermediate",
+            "description": "Seating Arrangements and Ranking",
+            "questions": [
+                {
+                    "id": "R_L3_01",
+                    "question": "A, B, C, D and E are sitting on a bench. A is sitting next to B, C is sitting next to D, D is not sitting with E who is on the left end of the bench. C is on the second position from the right. A is to the right of B and E. A and C are sitting together. In which position A is sitting?",
+                    "options": [
+                        "Between B and D",
+                        "Between B and C",
+                        "Between E and D",
+                        "Between C and E"
+                    ],
+                    "answer": "Between B and C",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_02",
+                    "question": "P, Q, R, S, T, U, V and W are sitting round the circle and are facing the centre. P is second to the right of T who is the neighbour of R and V. S is not the neighbour of P. V is the neighbour of U. Q is not between S and W. W is not between U and S. Who is two of the following are not neighbours?",
+                    "options": [
+                        "RV",
+                        "UV",
+                        "RP",
+                        "QW"
+                    ],
+                    "answer": "RV",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_03",
+                    "question": "Six friends are sitting in a circle and are facing the centre of the circle. Deepa is between Prakash and Pankaj. Priti is between Mukesh and Lalit. Prakash and Mukesh are opposite to each other. Who is sitting right to Prakash?",
+                    "options": [
+                        "Mukesh",
+                        "Deepa",
+                        "Pankaj",
+                        "Lalit"
+                    ],
+                    "answer": "Deepa",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_04",
+                    "question": "Five students are standing in a row. Suman is standing next to Pranav but not next to Deena. Kumar is standing next to Raju who is standing on the extreme left and Deena is not standing next to Kumar. Who is standing in the middle?",
+                    "options": [
+                        "Suman",
+                        "Pranav",
+                        "Deena",
+                        "Kumar"
+                    ],
+                    "answer": "Suman",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_05",
+                    "question": "In a row of children, Ravi is fourth from right and Sham is second from left. When they interchange positions, Ravi is ninth from right. What will be Sham's position from left?",
+                    "options": [
+                        "Fifth",
+                        "Sixth",
+                        "Seventh",
+                        "Eighth"
+                    ],
+                    "answer": "Seventh",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_06",
+                    "question": "Statements: All huts are bungalows. All bungalows are churches. \nConclusions: \nI. Some churches are huts. \nII. Some churches are bungalows.",
+                    "options": [
+                        "Only I follows",
+                        "Only II follows",
+                        "Both I and II follow",
+                        "Neither follows"
+                    ],
+                    "answer": "Both I and II follow",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_07",
+                    "question": "Statements: Some eyes are ears. Some ears are hands. \nConclusions: \nI. No hand is an eye. \nII. Some eyes are hands.",
+                    "options": [
+                        "Only I follows",
+                        "Only II follows",
+                        "Either I or II follows",
+                        "Neither follows"
+                    ],
+                    "answer": "Either I or II follows",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_08",
+                    "question": "Five children are sitting in a row. S is sitting next to P but not T. K is sitting next to R who is sitting on the extreme left and T is not sitting next to K. Who are sitting adjacent to S?",
+                    "options": [
+                        "K and P",
+                        "R and P",
+                        "Only P",
+                        "P and T"
+                    ],
+                    "answer": "P and T",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_09",
+                    "question": "If P $ Q means P is the father of Q; P # Q means P is the mother of Q; P * Q means P is the sister of Q. Then how is D related to N in N # A $ B * D?",
+                    "options": [
+                        "Nephew",
+                        "Grandson",
+                        "Granddaughter",
+                        "Cannot be Determined"
+                    ],
+                    "answer": "Cannot be Determined",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_10",
+                    "question": "Read the following information carefully and answer the question below. \n'A + B' means 'A is the son of B'. \n'A - B' means 'A is the wife of B'. \n'A x B' means 'A is the brother of B'. \n'A / B' means 'A is the mother of B'. \n'A = B' means 'A is the sister of B'. \nWhat does P + R - Q mean?",
+                    "options": [
+                        "Q is the father of P",
+                        "Q is the son of P",
+                        "Q is the uncle of P",
+                        "Q is the brother of P"
+                    ],
+                    "answer": "Q is the father of P",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_11",
+                    "question": "Which word does NOT belong with the others?",
+                    "options": [
+                        "Index",
+                        "Glossary",
+                        "Chapter",
+                        "Book"
+                    ],
+                    "answer": "Book",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_12",
+                    "question": "Which word does NOT belong with the others?",
+                    "options": [
+                        "Wing",
+                        "Fin",
+                        "Beak",
+                        "Rudder"
+                    ],
+                    "answer": "Beak",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_13",
+                    "question": "If in a code language, COULD is written as BNTKC and MARGIN is written as LZQFHM, how will MOULDING be written in that code?",
+                    "options": [
+                        "CHMFINTK",
+                        "LNKTCHMF",
+                        "LNTKCHMF",
+                        "NITKHCMF"
+                    ],
+                    "answer": "LNTKCHMF",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_14",
+                    "question": "If 'white' is called 'blue', 'blue' is called 'red', 'red' is called 'yellow', 'yellow' is called 'green', 'green' is called 'black', 'black' is called 'violet' and 'violet' is called 'orange', what would be the colour of human blood?",
+                    "options": [
+                        "Red",
+                        "Green",
+                        "Yellow",
+                        "Violet"
+                    ],
+                    "answer": "Yellow",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_15",
+                    "question": "Statement: The crop condition continues to be critical before the rains. \nAssumption I: The crop condition was critical before rains. \nAssumption II: The crop condition was expected to improve after rains.",
+                    "options": [
+                        "Only I is implicit",
+                        "Only II is implicit",
+                        "Both I and II are implicit",
+                        "Neither is implicit"
+                    ],
+                    "answer": "Both I and II are implicit",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_16",
+                    "question": "Arrange the words in a meaningful sequence: 1. Nation 2. Village 3. City 4. District 5. State",
+                    "options": [
+                        "2,3,4,5,1",
+                        "2,3,4,1,5",
+                        "1,3,5,4,2",
+                        "2,4,3,5,1"
+                    ],
+                    "answer": "2,3,4,5,1",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_17",
+                    "question": "Find the missing number in the matrix:\n6   11  25\n8   6   16\n12  5   ?",
+                    "options": [
+                        "18",
+                        "16",
+                        "12",
+                        "10"
+                    ],
+                    "answer": "16",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_18",
+                    "question": "If Monday falls on the 1st of October, which day will fall on the 1st of November of the same year?",
+                    "options": [
+                        "Monday",
+                        "Tuesday",
+                        "Wednesday",
+                        "Thursday"
+                    ],
+                    "answer": "Thursday",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_19",
+                    "question": "Count the number of squares in the given figure (assume a standard 4x4 grid).",
+                    "options": [
+                        "16",
+                        "17",
+                        "26",
+                        "30"
+                    ],
+                    "answer": "30",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_20",
+                    "question": "Choose the alternative which is closely resembles the mirror image of the given word: TERMINATE",
+                    "options": [
+                        "ETANIMRET",
+                        "ETANMIRTE",
+                        "ETANIMRE",
+                        "ETANIMRET (Mirrored letters)"
+                    ],
+                    "answer": "ETANIMRET (Mirrored letters)",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_21",
+                    "question": "Statements: P > Q, R > P, S > R. \nConclusions: \nI. S > P \nII. S > Q",
+                    "options": [
+                        "Only I follows",
+                        "Only II follows",
+                        "Both I and II follow",
+                        "Neither follows"
+                    ],
+                    "answer": "Both I and II follow",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_22",
+                    "question": "Statements: M < N, N <= O, O = P. \nConclusions: \nI. P > M \nII. N = P",
+                    "options": [
+                        "Only I follows",
+                        "Only II follows",
+                        "Either I or II follows",
+                        "Neither follows"
+                    ],
+                    "answer": "Only I follows",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_23",
+                    "question": "A is the son of C; C and Q are sisters; Z is the mother of Q and P is the son of Z. Which of the following statements is true?",
+                    "options": [
+                        "P and A are cousins",
+                        "P is the maternal uncle of A",
+                        "Q is the maternal grandfather of A",
+                        "C and P are sisters"
+                    ],
+                    "answer": "P is the maternal uncle of A",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_24",
+                    "question": "Identify the odd one from the list.",
+                    "options": [
+                        "Sphere",
+                        "Cube",
+                        "Circle",
+                        "Cylinder"
+                    ],
+                    "answer": "Circle",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_25",
+                    "question": "If South-East becomes North, North-East becomes West and so on. What will West become?",
+                    "options": [
+                        "North-East",
+                        "North-West",
+                        "South-East",
+                        "South-West"
+                    ],
+                    "answer": "South-East",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_26",
+                    "question": "A clock is set right at 5 a.m. The clock loses 16 minutes in 24 hours. What will be the true time when the clock indicates 10 p.m. on the 4th day?",
+                    "options": [
+                        "11 p.m.",
+                        "12 p.m.",
+                        "1 p.m.",
+                        "10 p.m."
+                    ],
+                    "answer": "11 p.m.",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_27",
+                    "question": "In a row of persons, the position of A from the left side of the row is 27th and position of A from the right side of the row is 34th. Find the total number of persons in the row?",
+                    "options": [
+                        "60",
+                        "61",
+                        "62",
+                        "59"
+                    ],
+                    "answer": "60",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_28",
+                    "question": "Find the missing character: \nE   J   O \n T   Y   D \n I   N   ?",
+                    "options": [
+                        "R",
+                        "S",
+                        "T",
+                        "U"
+                    ],
+                    "answer": "S",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_29",
+                    "question": "Statement: 'Please do not use the lift while going down.' - An instruction on the top floor of a 5-storey building. \nAssumption I: While going down, the lift is unable to carry any load. \nAssumption II: Provision of lift is a matter of facility and not of right.",
+                    "options": [
+                        "Only I is implicit",
+                        "Only II is implicit",
+                        "Both I and II are implicit",
+                        "Neither is implicit"
+                    ],
+                    "answer": "Neither is implicit",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L3_30",
+                    "question": "In a certain code, '786' means 'study very hard', '958' means 'hard work pays' and '645' means 'study and work'. Which of the following is the code for 'very'?",
+                    "options": [
+                        "8",
+                        "6",
+                        "7",
+                        "Cannot be determined"
+                    ],
+                    "answer": "7",
+                    "image_url": null
+                }
+            ]
+        },
+        {
+            "level_id": 4,
+            "difficulty": "Difficult",
+            "description": "Data Sufficiency and Puzzles",
+            "questions": [
+                {
+                    "id": "R_L4_01",
+                    "question": "Data Sufficiency: How is T related to K? \nI. R's sister J has married T's brother L, who is the only son of his parents. \nII. K is the only daughter of L and J.",
+                    "options": [
+                        "Only I is sufficient",
+                        "Only II is sufficient",
+                        "Both I and II are required",
+                        "Data inadequate"
+                    ],
+                    "answer": "Both I and II are required",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_02",
+                    "question": "Data Sufficiency: Who is the tallest among A, B, C, D and E? \nI. A is taller than B and C, but shorter than D. \nII. E is not the tallest.",
+                    "options": [
+                        "Only I is sufficient",
+                        "Only II is sufficient",
+                        "Both I and II are required",
+                        "Neither is sufficient"
+                    ],
+                    "answer": "Neither is sufficient",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_03",
+                    "question": "Data Sufficiency: On which day in January, did 'A' go to Delhi? \nI. 'A' remembers that he went to Delhi after 10th but before 15th January. \nII. 'A's friend remembers that 'A' went to Delhi after 12th but before 16th January.",
+                    "options": [
+                        "Only I is sufficient",
+                        "Only II is sufficient",
+                        "Both I and II are required",
+                        "Neither is sufficient"
+                    ],
+                    "answer": "Both I and II are required",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_04",
+                    "question": "Data Sufficiency: What is the code for 'mangoes' in the code language? \nI. 'Te Le Pa Na' means 'You eat many mangoes'. \nII. 'Le Na Da' means 'You sell mangoes'.",
+                    "options": [
+                        "Only I is sufficient",
+                        "Only II is sufficient",
+                        "Both I and II are required",
+                        "Neither is sufficient"
+                    ],
+                    "answer": "Neither is sufficient",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_05",
+                    "question": "Statement: 'The government has decided to levy 2 percent cess on the tax amount payable for funding famine relief operations.' \nAssumption I: The government does not have sufficient funds to provide relief. \nAssumption II: The amount collected by way of cess may be useful to fund these operations.",
+                    "options": [
+                        "Only I is implicit",
+                        "Only II is implicit",
+                        "Both I and II are implicit",
+                        "Neither is implicit"
+                    ],
+                    "answer": "Both I and II are implicit",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_06",
+                    "question": "Statement: 'Redefine the syllabus of secondary level education.' - A view of an educationist. \nArgument I: Yes, the present syllabus is not suitable for the developing economy. \nArgument II: No, the present syllabus was designed by experts and need not be changed.",
+                    "options": [
+                        "Only I is strong",
+                        "Only II is strong",
+                        "Both I and II are strong",
+                        "Neither is strong"
+                    ],
+                    "answer": "Only I is strong",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_07",
+                    "question": "Six persons A, B, C, D, E and F are standing in a circle. B is between D and C. A is between E and C. F is to the right of D. Who is between A and F?",
+                    "options": [
+                        "B",
+                        "C",
+                        "D",
+                        "E"
+                    ],
+                    "answer": "E",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_08",
+                    "question": "In a queue, A is 18th from the front while B is 16th from the back. If C is 25th from the front and is exactly in the middle of A and B, then how many persons are there in the queue?",
+                    "options": [
+                        "45",
+                        "46",
+                        "47",
+                        "48"
+                    ],
+                    "answer": "47",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_09",
+                    "question": "If 'P + Q' means P is the husband of Q; 'P / Q' means P is the sister of Q; 'P * Q' means P is the son of Q. Which of the following shows that A is the daughter of B?",
+                    "options": [
+                        "A / D * B",
+                        "D * B + C / A",
+                        "B * C / A",
+                        "C * B / A"
+                    ],
+                    "answer": "A / D * B",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_10",
+                    "question": "Find the missing number in the series: 4, 18, ?, 100, 180, 294",
+                    "options": [
+                        "32",
+                        "36",
+                        "48",
+                        "40"
+                    ],
+                    "answer": "48",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_11",
+                    "question": "Statements: All cars are cats. All fans are cats. \nConclusions: \nI. All cars are fans. \nII. Some fans are cars.",
+                    "options": [
+                        "Only I follows",
+                        "Only II follows",
+                        "Both I and II follow",
+                        "Neither follows"
+                    ],
+                    "answer": "Neither follows",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_12",
+                    "question": "There are five books A, B, C, D and E placed on a table. If A is placed below E, C is placed above D, B is placed below A and D is placed above E, then which of the following books touches the surface of the table?",
+                    "options": [
+                        "C",
+                        "B",
+                        "A",
+                        "E"
+                    ],
+                    "answer": "B",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_13",
+                    "question": "In a certain code language, 'po ki top ma' means 'Usha is playing cards'. 'kop ja ki ma' means 'Asha is playing tennis'. 'ki top sop ho' means 'they are playing football'. 'po sur kop' means 'cards and tennis'. Which word in that language means 'Asha'?",
+                    "options": [
+                        "ja",
+                        "ma",
+                        "kop",
+                        "top"
+                    ],
+                    "answer": "ja",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_14",
+                    "question": "A cube is painted blue on all faces and is then cut into 125 small cubes of equal size. How many small cubes are not painted on any face?",
+                    "options": [
+                        "8",
+                        "16",
+                        "27",
+                        "36"
+                    ],
+                    "answer": "27",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_15",
+                    "question": "A cube is painted blue on all faces and is then cut into 125 small cubes of equal size. How many small cubes are painted on exactly one face?",
+                    "options": [
+                        "27",
+                        "36",
+                        "48",
+                        "54"
+                    ],
+                    "answer": "54",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_16",
+                    "question": "Choose the box that is similar to the box formed from the given sheet of paper (X).",
+                    "options": [
+                        "1 only",
+                        "2 only",
+                        "1 and 3 only",
+                        "1, 2, 3 and 4"
+                    ],
+                    "answer": "1 and 3 only",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_17",
+                    "question": "Count the number of triangles in the given figure.",
+                    "options": [
+                        "21",
+                        "23",
+                        "25",
+                        "27"
+                    ],
+                    "answer": "27",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_18",
+                    "question": "Course of Action: \nStatement: The Officer In-charge of a Company had a hunch that some money was missing from the safe. \nAction I: He should get it recounted with the help of the staff and check it with the balance sheet. \nAction II: He should inform the police.",
+                    "options": [
+                        "Only I follows",
+                        "Only II follows",
+                        "Both I and II follow",
+                        "Neither follows"
+                    ],
+                    "answer": "Only I follows",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_19",
+                    "question": "If A = 26, SUN = 27, then CAT = ?",
+                    "options": [
+                        "24",
+                        "27",
+                        "57",
+                        "58"
+                    ],
+                    "answer": "57",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_20",
+                    "question": "In a certain code, '256' means 'you are good', '637' means 'we are bad', '358' means 'good and bad'. Which of the following represents 'and' in that code?",
+                    "options": [
+                        "2",
+                        "5",
+                        "8",
+                        "3"
+                    ],
+                    "answer": "8",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_21",
+                    "question": "Five people A, B, C, D and E are seated about a round table. Every chair is spaced equidistant from the other. C is seated next to A; A is seated two seats from D; and B is not seated next to A. On the basis of this information, which of the following must be true?",
+                    "options": [
+                        "D is seated next to B",
+                        "E is seated next to A",
+                        "D and C are separated by two seats",
+                        "B and D are separated by two seats"
+                    ],
+                    "answer": "D is seated next to B",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_22",
+                    "question": "At what time between 4 and 5 o'clock will the hands of a watch coincide?",
+                    "options": [
+                        "4:21 9/11",
+                        "4:21",
+                        "4:22 5/11",
+                        "4:20"
+                    ],
+                    "answer": "4:21 9/11",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_23",
+                    "question": "If 15th August 2011 was Monday, what day of the week was on 17th September 2011?",
+                    "options": [
+                        "Saturday",
+                        "Sunday",
+                        "Friday",
+                        "Thursday"
+                    ],
+                    "answer": "Saturday",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_24",
+                    "question": "Identify the odd one out.",
+                    "options": [
+                        "Sore Mouth",
+                        "Encephalitis",
+                        "Malaria",
+                        "Typhoid"
+                    ],
+                    "answer": "Encephalitis",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_25",
+                    "question": "Input: 'gone are take enough brought'. \nStep I: 'are gone take enough brought'. \nStep II: 'are brought gone take enough'. \nStep III: 'are brought enough gone take'. \nWhich of the following will be the third step for the input 'car ball apple dog egg'?",
+                    "options": [
+                        "apple ball car dog egg",
+                        "apple ball car egg dog",
+                        "apple car ball dog egg",
+                        "None of these"
+                    ],
+                    "answer": "apple ball car dog egg",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_26",
+                    "question": "Statements: No door is dog. All the dogs are cats. \nConclusions: \nI. No door is cat. \nII. No cat is door. \nIII. Some cats are dogs. \nIV. All the cats are dogs.",
+                    "options": [
+                        "Only II and IV follow",
+                        "Only I and III follow",
+                        "Only III and IV follow",
+                        "Only III follows"
+                    ],
+                    "answer": "Only III follows",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_27",
+                    "question": "How many such pairs of letters are there in the word 'CORPORATE' each of which has as many letters between them in the word as in the English alphabet?",
+                    "options": [
+                        "None",
+                        "One",
+                        "Two",
+                        "Three"
+                    ],
+                    "answer": "Three",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_28",
+                    "question": "A watch which gains uniformly is 2 minutes low at noon on Monday and is 4 min. 48 sec fast at 2 p.m. on the following Monday. When was it correct?",
+                    "options": [
+                        "2 p.m. on Tuesday",
+                        "2 p.m. on Wednesday",
+                        "3 p.m. on Thursday",
+                        "1 p.m. on Friday"
+                    ],
+                    "answer": "2 p.m. on Wednesday",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_29",
+                    "question": "In a certain code language 'lie ra de' means 'what was it', 'mo nil' means 'you go', 'nil pom ra' means 'you like it' and 'tok lie to' means 'she was sick'. How will you write 'what' in that code language?",
+                    "options": [
+                        "ra",
+                        "lie",
+                        "de",
+                        "nil"
+                    ],
+                    "answer": "de",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L4_30",
+                    "question": "Six friends P, Q, R, S, T and U are sitting around the hexagonal table each at one corner and are facing the centre of the hexagonal. P is second to the left of U. Q is neighbour of R and S. T is second to the left of S. Which one is sitting opposite to P?",
+                    "options": [
+                        "R",
+                        "Q",
+                        "S",
+                        "T"
+                    ],
+                    "answer": "S",
+                    "image_url": null
+                }
+            ]
+        },
+        {
+            "level_id": 5,
+            "difficulty": "Very Difficult",
+            "description": "Critical Reasoning and Complex Puzzles",
+            "questions": [
+                {
+                    "id": "R_L5_01",
+                    "question": "Read the following information: 1. A, B, C, D, E, F are sitting in a circle facing center. 2. E is to the immediate left of D. 3. C is between A and B. 4. F is between E and A. Who is to the immediate right of C?",
+                    "options": [
+                        "A",
+                        "B",
+                        "D",
+                        "Data Inadequate"
+                    ],
+                    "answer": "B",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_02",
+                    "question": "Statement: Should there be a complete ban on mining in tribal areas? \nArgument I: Yes, it destroys the ecosystem and displaces indigenous people. \nArgument II: No, it hampers economic development and availability of resources. \nWhich argument is strong?",
+                    "options": [
+                        "Only I is strong",
+                        "Only II is strong",
+                        "Both I and II are strong",
+                        "Neither I nor II is strong"
+                    ],
+                    "answer": "Both I and II are strong",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_03",
+                    "question": "Data Sufficiency: Who among P, Q, R, S and T is the lightest? \nI. R is heavier than Q and T but lighter than S. \nII. S is not the heaviest. \nIII. M is lighter than only P.",
+                    "options": [
+                        "I and II only",
+                        "II and III only",
+                        "I, II and III",
+                        "Data Inadequate"
+                    ],
+                    "answer": "I, II and III",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_04",
+                    "question": "Seven people - A, B, C, D, E, F and G - are standing in a straight line facing North. D is to the immediate right of G. C is between A and B. E is between F and D. There are three persons between G and B. Who is on the extreme left?",
+                    "options": [
+                        "G",
+                        "F",
+                        "B",
+                        "A"
+                    ],
+                    "answer": "G",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_05",
+                    "question": "A cube is painted red on two adjacent faces, yellow on the two faces opposite to the red faces and green on the remaining faces. It is then cut into 64 smaller cubes of equal size. How many cubes have no face painted?",
+                    "options": [
+                        "4",
+                        "8",
+                        "16",
+                        "24"
+                    ],
+                    "answer": "8",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_06",
+                    "question": "Statements: Only a few Pink are Yellow. All Yellow are Blue. \nConclusions: \nI. All Pink can be Blue. \nII. Some Yellow are not Pink.",
+                    "options": [
+                        "Only I follows",
+                        "Only II follows",
+                        "Both I and II follow",
+                        "Neither follows"
+                    ],
+                    "answer": "Only I follows",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_07",
+                    "question": "Statements: No Day is Night. All Nights are Noon. Some Noon are Dark. \nConclusions: \nI. Some Dark are not Day. \nII. All Day being Noon is a possibility.",
+                    "options": [
+                        "Only I follows",
+                        "Only II follows",
+                        "Both I and II follow",
+                        "Neither follows"
+                    ],
+                    "answer": "Both I and II follow",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_08",
+                    "question": "Six boxes A, B, C, D, E, and F are placed one above another. C is placed just above A. There are two boxes between D and E. D is placed above E. B is placed below E. F is placed above D. Which box is at the bottom?",
+                    "options": [
+                        "A",
+                        "B",
+                        "C",
+                        "F"
+                    ],
+                    "answer": "B",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_09",
+                    "question": "In a certain code language, 'ECONOMICS' is written as 'FVPSKOMDJ'. How is 'PHYSICS' written in that code?",
+                    "options": [
+                        "QIZTHDR",
+                        "QGZRHDR",
+                        "QIZSJDR",
+                        "QGZRHDS"
+                    ],
+                    "answer": "QGZRHDR",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_10",
+                    "question": "Input: 25 18 47 32 91 54 \nStep I: 18 25 47 32 91 54 \nStep II: 18 91 25 47 32 54 \nStep III: 18 91 25 54 47 32 \nStep IV: 18 91 25 54 32 47 \nHow many steps are required to complete the rearrangement for input: '82 41 29 16 73 58'?",
+                    "options": [
+                        "Three",
+                        "Four",
+                        "Five",
+                        "Six"
+                    ],
+                    "answer": "Five",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_11",
+                    "question": "In a family of six persons A, B, C, D, E and F, there are two married couples. D is the grandmother of A and mother of B. C is the wife of B and mother of F. F is the granddaughter of E. Who is the husband of D?",
+                    "options": [
+                        "E",
+                        "F",
+                        "B",
+                        "Data Inadequate"
+                    ],
+                    "answer": "E",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_12",
+                    "question": "If 'P @ Q' means 'P is not smaller than Q'. 'P % Q' means 'P is not greater than Q'. 'P # Q' means 'P is neither smaller than nor equal to Q'. 'P $ Q' means 'P is neither greater than nor equal to Q'. 'P * Q' means 'P is neither greater than nor smaller than Q'. \nStatements: H # J, J @ N, N % R \nConclusions: I. R # J   II. H # J   III. N @ H",
+                    "options": [
+                        "Only I is true",
+                        "Only III is true",
+                        "Only I and III are true",
+                        "None is true"
+                    ],
+                    "answer": "None is true",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_13",
+                    "question": "Course of Action: \nStatement: A large number of students have failed in the final examination of Class X in the state. \nAction I: The government should immediately abolish the system of examination for Class X. \nAction II: The government should constitute a committee to review the syllabus and teaching method.",
+                    "options": [
+                        "Only I follows",
+                        "Only II follows",
+                        "Both I and II follow",
+                        "Neither follows"
+                    ],
+                    "answer": "Only II follows",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_14",
+                    "question": "Five persons are standing in a line. One of the two persons at the extreme ends is a professor and the other is a businessman. An advocate is standing to the right of a student. A writer is to the left of the businessman. The student is standing between the professor and the advocate. Counting from the left, the advocate is at which place?",
+                    "options": [
+                        "1st",
+                        "2nd",
+                        "3rd",
+                        "4th"
+                    ],
+                    "answer": "3rd",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_15",
+                    "question": "Find the missing number in the grid: \n4   5   6 \n2   3   7 \n1   8   3 \n21  98  ?",
+                    "options": [
+                        "94",
+                        "76",
+                        "73",
+                        "16"
+                    ],
+                    "answer": "94",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_16",
+                    "question": "Logic: (Sum of squares of first two rows = third row number). 4^2 + 2^2 + 1^2 = 21. 5^2 + 3^2 + 8^2 = 98. Then 6^2 + 7^2 + 3^2 = ?",
+                    "options": [
+                        "94",
+                        "84",
+                        "104",
+                        "96"
+                    ],
+                    "answer": "94",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_17",
+                    "question": "What is the angle between the hour hand and the minute hand at 5:15 p.m.?",
+                    "options": [
+                        "68.5 degrees",
+                        "67.5 degrees",
+                        "58.5 degrees",
+                        "60 degrees"
+                    ],
+                    "answer": "67.5 degrees",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_18",
+                    "question": "Statement: 'If you are an engineer, we have a challenging job for you.' \nAssumption I: We need an engineer. \nAssumption II: You are an engineer.",
+                    "options": [
+                        "Only I is implicit",
+                        "Only II is implicit",
+                        "Both I and II are implicit",
+                        "Neither is implicit"
+                    ],
+                    "answer": "Only I is implicit",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_19",
+                    "question": "A, B, C, D, E, F, G and H are sitting around a square table. Four sit at corners and four in middle of sides. Those at corners face outside, those at sides face center. A sits 3rd to right of G. G faces center. E sits 3rd to left of C. C does not sit in middle of side. Who sits immediate right of A?",
+                    "options": [
+                        "E",
+                        "D",
+                        "F",
+                        "C"
+                    ],
+                    "answer": "F",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_20",
+                    "question": "How many Mondays are there in a particular month of a particular year if the month ends on Wednesday?",
+                    "options": [
+                        "4",
+                        "5",
+                        "4 or 5",
+                        "Cannot be determined"
+                    ],
+                    "answer": "4 or 5",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_21",
+                    "question": "Count the number of triangles and squares in the given complex figure.",
+                    "options": [
+                        "28 Triangles, 5 Squares",
+                        "24 Triangles, 5 Squares",
+                        "28 Triangles, 3 Squares",
+                        "24 Triangles, 3 Squares"
+                    ],
+                    "answer": "28 Triangles, 5 Squares",
+                    "image_url": "assets/images/logical/R_L5_21.png"
+                },
+                {
+                    "id": "R_L5_22",
+                    "question": "A watch gains 5 seconds in 3 minutes and was set right at 7 a.m. In the afternoon of the same day, when the watch indicated quarter past 4 o'clock, the true time is:",
+                    "options": [
+                        "4 p.m.",
+                        "3:45 p.m.",
+                        "3:30 p.m.",
+                        "4:15 p.m."
+                    ],
+                    "answer": "4 p.m.",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_23",
+                    "question": "If P denotes 'multiplied by', T denotes 'subtracted from', M denotes 'added to' and B denotes 'divided by', then 28 B 7 P 8 T 6 M 4 = ?",
+                    "options": [
+                        "30",
+                        "32",
+                        "34",
+                        "28"
+                    ],
+                    "answer": "30",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_24",
+                    "question": "Statement: Highlighting the need for a 'Green India', the Prime Minister said that the government is committed to increasing the forest cover. \nConclusion I: The government wants to solve the problem of global warming. \nConclusion II: Forest cover is essential for ecological balance.",
+                    "options": [
+                        "Only I follows",
+                        "Only II follows",
+                        "Both I and II follow",
+                        "Neither follows"
+                    ],
+                    "answer": "Neither follows",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_25",
+                    "question": "Which of the following diagrams indicates the best relation between Travelers, Train and Bus?",
+                    "options": [
+                        "Overlapping circles",
+                        "Separate circles",
+                        "Concentric circles",
+                        "Intersection of three"
+                    ],
+                    "answer": "Overlapping circles",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_26",
+                    "question": "Find the missing number: \n3, 10, 101, ?",
+                    "options": [
+                        "10101",
+                        "10201",
+                        "10202",
+                        "11012"
+                    ],
+                    "answer": "10202",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_27",
+                    "question": "A person starts from point A and travels 3 km east to B, then turns left and travels 4 km to C, then turns right and travels 2 km to D. What is the shortest distance between A and D?",
+                    "options": [
+                        "7 km",
+                        "\u221a41 km",
+                        "9 km",
+                        "\u221a45 km"
+                    ],
+                    "answer": "\u221a41 km",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_28",
+                    "question": "Six books P, Q, R, S, T and U are placed side by side. R, Q and T have blue covers and other books have red covers. Only S and U are new books and the rest are old. P, R and S are law reports; the rest are Gazetteers. Which two books are old Gazetteers with blue covers?",
+                    "options": [
+                        "Q and R",
+                        "Q and T",
+                        "Q and U",
+                        "T and U"
+                    ],
+                    "answer": "Q and T",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_29",
+                    "question": "Data Sufficiency: Is X the brother of Y? \nI. X is the father of Z who is the brother of Y. \nII. Y is the son of W who is the wife of X.",
+                    "options": [
+                        "Only I is sufficient",
+                        "Only II is sufficient",
+                        "Either I or II is sufficient",
+                        "Neither is sufficient"
+                    ],
+                    "answer": "Neither is sufficient",
+                    "image_url": null
+                },
+                {
+                    "id": "R_L5_30",
+                    "question": "Find the day of the week on 26th January 1950.",
+                    "options": [
+                        "Tuesday",
+                        "Wednesday",
+                        "Thursday",
+                        "Friday"
+                    ],
+                    "answer": "Thursday",
+                    "image_url": null
+                }
+            ]
+        }
+    ]
+}
