@@ -1,0 +1,1840 @@
+{
+  "topic": "Computer Networks",
+  "levels": [
+    {
+      "level_id": 1,
+      "difficulty": "Easy",
+      "description": "OSI Model, Topologies, and Basic Protocols",
+      "questions": [
+        {
+          "id": "CN_L1_01",
+          "question": "Which layer of the OSI model is responsible for logical addressing (IP addressing)?",
+          "options": [
+            "Physical Layer",
+            "Data Link Layer",
+            "Network Layer",
+            "Transport Layer"
+          ],
+          "answer": "Network Layer",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_02",
+          "question": "What is the full form of TCP/IP?",
+          "options": [
+            "Transmission Control Protocol / Internet Protocol",
+            "Transfer Control Protocol / Intranet Protocol",
+            "Transmission Central Protocol / Internet Protocol",
+            "None of these"
+          ],
+          "answer": "Transmission Control Protocol / Internet Protocol",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_03",
+          "question": "Which protocol is used to browse websites (World Wide Web)?",
+          "options": [
+            "SMTP",
+            "FTP",
+            "HTTP",
+            "SNMP"
+          ],
+          "answer": "HTTP",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_04",
+          "question": "What is the standard port number for HTTP?",
+          "options": [
+            "21",
+            "25",
+            "80",
+            "443"
+          ],
+          "answer": "80",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_05",
+          "question": "Which topology requires a central controller or hub?",
+          "options": [
+            "Star",
+            "Mesh",
+            "Ring",
+            "Bus"
+          ],
+          "answer": "Star",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_06",
+          "question": "MAC Address is also known as:",
+          "options": [
+            "Logical Address",
+            "Physical Address",
+            "Network Address",
+            "Port Address"
+          ],
+          "answer": "Physical Address",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_07",
+          "question": "What is the size of an IPv4 address?",
+          "options": [
+            "32 bits",
+            "64 bits",
+            "128 bits",
+            "16 bits"
+          ],
+          "answer": "32 bits",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_08",
+          "question": "What is the size of an IPv6 address?",
+          "options": [
+            "32 bits",
+            "64 bits",
+            "128 bits",
+            "256 bits"
+          ],
+          "answer": "128 bits",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_09",
+          "question": "Which device operates at the Physical Layer?",
+          "options": [
+            "Router",
+            "Switch",
+            "Hub",
+            "Bridge"
+          ],
+          "answer": "Hub",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_10",
+          "question": "Which protocol is used for sending emails?",
+          "options": [
+            "POP3",
+            "SMTP",
+            "IMAP",
+            "HTTP"
+          ],
+          "answer": "SMTP",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_11",
+          "question": "In which topology is every node connected to every other node?",
+          "options": [
+            "Bus",
+            "Star",
+            "Mesh",
+            "Ring"
+          ],
+          "answer": "Mesh",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_12",
+          "question": "The process of converting analog signals to digital signals is done by:",
+          "options": [
+            "Router",
+            "Modem",
+            "Switch",
+            "Hub"
+          ],
+          "answer": "Modem",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_13",
+          "question": "Which layer is responsible for encryption and decryption?",
+          "options": [
+            "Application Layer",
+            "Presentation Layer",
+            "Session Layer",
+            "Transport Layer"
+          ],
+          "answer": "Presentation Layer",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_14",
+          "question": "DNS stands for:",
+          "options": [
+            "Domain Name System",
+            "Data Network Service",
+            "Digital Network System",
+            "Domain Network Server"
+          ],
+          "answer": "Domain Name System",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_15",
+          "question": "Which command is used to check connectivity between two nodes?",
+          "options": [
+            "ipconfig",
+            "ping",
+            "netstat",
+            "traceroute"
+          ],
+          "answer": "ping",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_16",
+          "question": "Data units at the Transport Layer are called:",
+          "options": [
+            "Bits",
+            "Frames",
+            "Packets",
+            "Segments"
+          ],
+          "answer": "Segments",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_17",
+          "question": "Data units at the Network Layer are called:",
+          "options": [
+            "Bits",
+            "Frames",
+            "Packets",
+            "Segments"
+          ],
+          "answer": "Packets",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_18",
+          "question": "Which layer provides process-to-process delivery?",
+          "options": [
+            "Network Layer",
+            "Transport Layer",
+            "Data Link Layer",
+            "Session Layer"
+          ],
+          "answer": "Transport Layer",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_19",
+          "question": "A switch typically operates at which layer?",
+          "options": [
+            "Layer 1 (Physical)",
+            "Layer 2 (Data Link)",
+            "Layer 3 (Network)",
+            "Layer 4 (Transport)"
+          ],
+          "answer": "Layer 2 (Data Link)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_20",
+          "question": "What is Localhost IP address?",
+          "options": [
+            "192.168.1.1",
+            "127.0.0.1",
+            "10.0.0.1",
+            "255.255.255.0"
+          ],
+          "answer": "127.0.0.1",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_21",
+          "question": "Which protocol is connectionless?",
+          "options": [
+            "TCP",
+            "UDP",
+            "FTP",
+            "SMTP"
+          ],
+          "answer": "UDP",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_22",
+          "question": "DHCP stands for:",
+          "options": [
+            "Dynamic Host Configuration Protocol",
+            "Digital Host Control Protocol",
+            "Dynamic Http Control Protocol",
+            "Domain Host Configuration Protocol"
+          ],
+          "answer": "Dynamic Host Configuration Protocol",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_23",
+          "question": "Which layer is responsible for dialogue control (keeping sessions active)?",
+          "options": [
+            "Transport",
+            "Session",
+            "Presentation",
+            "Application"
+          ],
+          "answer": "Session",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_24",
+          "question": "The physical path over which a message travels is called:",
+          "options": [
+            "Protocol",
+            "Medium",
+            "Signal",
+            "Gateway"
+          ],
+          "answer": "Medium",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_25",
+          "question": "Which protocol is used for file transfer?",
+          "options": [
+            "HTTP",
+            "SMTP",
+            "FTP",
+            "SNMP"
+          ],
+          "answer": "FTP",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_26",
+          "question": "URL stands for:",
+          "options": [
+            "Uniform Resource Locator",
+            "Universal Resource Locator",
+            "Uniform Resource Link",
+            "Unified Resource Link"
+          ],
+          "answer": "Uniform Resource Locator",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_27",
+          "question": "What is the length of a MAC address?",
+          "options": [
+            "32 bits",
+            "48 bits",
+            "64 bits",
+            "128 bits"
+          ],
+          "answer": "48 bits",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_28",
+          "question": "Which network type covers a city?",
+          "options": [
+            "LAN",
+            "WAN",
+            "MAN",
+            "PAN"
+          ],
+          "answer": "MAN",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_29",
+          "question": "In simplex mode, communication is:",
+          "options": [
+            "Unidirectional",
+            "Bidirectional",
+            "Bidirectional but one at a time",
+            "None of these"
+          ],
+          "answer": "Unidirectional",
+          "image_url": null
+        },
+        {
+          "id": "CN_L1_30",
+          "question": "Which of these is a private IP address?",
+          "options": [
+            "172.16.0.1",
+            "8.8.8.8",
+            "202.54.10.1",
+            "1.1.1.1"
+          ],
+          "answer": "172.16.0.1",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "level_id": 2,
+      "difficulty": "Medium",
+      "description": "Subnetting, Error Detection, and Flow Control",
+      "questions": [
+        {
+          "id": "CN_L2_01",
+          "question": "Which class of IP address provides a maximum of only 254 host addresses per network?",
+          "options": [
+            "Class A",
+            "Class B",
+            "Class C",
+            "Class D"
+          ],
+          "answer": "Class C",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_02",
+          "question": "What is the default subnet mask for a Class C network?",
+          "options": [
+            "255.0.0.0",
+            "255.255.0.0",
+            "255.255.255.0",
+            "255.255.255.255"
+          ],
+          "answer": "255.255.255.0",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_03",
+          "question": "Which error detection method involves polynomial division?",
+          "options": [
+            "Simple Parity",
+            "Two-dimensional Parity",
+            "CRC (Cyclic Redundancy Check)",
+            "Checksum"
+          ],
+          "answer": "CRC (Cyclic Redundancy Check)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_04",
+          "question": "In Sliding Window Protocol, if the window size is 1, it is equivalent to:",
+          "options": [
+            "Go-Back-N",
+            "Selective Repeat",
+            "Stop-and-Wait",
+            "High-level Data Link Control"
+          ],
+          "answer": "Stop-and-Wait",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_05",
+          "question": "Which of the following is a loopback address?",
+          "options": [
+            "127.0.0.0",
+            "127.0.0.1",
+            "127.1.1.1",
+            "All of the above"
+          ],
+          "answer": "All of the above",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_06",
+          "question": "The Hamming distance between 10101 and 11110 is:",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_07",
+          "question": "If a subnet mask is 255.255.255.224, how many usable hosts are there?",
+          "options": [
+            "30",
+            "32",
+            "14",
+            "16"
+          ],
+          "answer": "30",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_08",
+          "question": "Which protocol is used to map an IP address to a MAC address?",
+          "options": [
+            "RARP",
+            "ARP",
+            "DNS",
+            "DHCP"
+          ],
+          "answer": "ARP",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_09",
+          "question": "Bit stuffing is used to:",
+          "options": [
+            "Detect errors",
+            "Synchronize the clock",
+            "Distinguish the frame boundaries",
+            "Compress data"
+          ],
+          "answer": "Distinguish the frame boundaries",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_10",
+          "question": "Which layer creates the 'Trailer' containing the checksum?",
+          "options": [
+            "Physical Layer",
+            "Data Link Layer",
+            "Network Layer",
+            "Transport Layer"
+          ],
+          "answer": "Data Link Layer",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_11",
+          "question": "In Go-Back-N ARQ, if frames 4, 5, and 6 are sent, and frame 5 is lost, which frames will be resent?",
+          "options": [
+            "Frame 5 only",
+            "Frame 5 and 6",
+            "Frame 4, 5, and 6",
+            "None"
+          ],
+          "answer": "Frame 5 and 6",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_12",
+          "question": "The address 192.168.10.0 represents:",
+          "options": [
+            "A specific host",
+            "A broadcast address",
+            "A network address",
+            "A loopback address"
+          ],
+          "answer": "A network address",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_13",
+          "question": "Which device creates separate collision domains but a single broadcast domain?",
+          "options": [
+            "Hub",
+            "Switch",
+            "Router",
+            "Repeater"
+          ],
+          "answer": "Switch",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_14",
+          "question": "What is the CIDR notation for the subnet mask 255.255.255.0?",
+          "options": [
+            "/8",
+            "/16",
+            "/24",
+            "/32"
+          ],
+          "answer": "/24",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_15",
+          "question": "Which field in the IP header prevents a packet from looping indefinitely?",
+          "options": [
+            "Header Checksum",
+            "TTL (Time to Live)",
+            "Version",
+            "Fragment Offset"
+          ],
+          "answer": "TTL (Time to Live)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_16",
+          "question": "In Selective Repeat ARQ, the sender window size must be:",
+          "options": [
+            "Greater than 2^m",
+            "Less than or equal to 2^(m-1)",
+            "Equal to 1",
+            "Infinite"
+          ],
+          "answer": "Less than or equal to 2^(m-1)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_17",
+          "question": "Which cable type is most resistant to electromagnetic interference (EMI)?",
+          "options": [
+            "Coaxial Cable",
+            "Unshielded Twisted Pair (UTP)",
+            "Fiber Optic Cable",
+            "Shielded Twisted Pair (STP)"
+          ],
+          "answer": "Fiber Optic Cable",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_18",
+          "question": "Flow control is the responsibility of which layers?",
+          "options": [
+            "Physical and Data Link",
+            "Data Link and Network",
+            "Data Link and Transport",
+            "Network and Transport"
+          ],
+          "answer": "Data Link and Transport",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_19",
+          "question": "Which multiple access protocol is used in Ethernet (wired LAN)?",
+          "options": [
+            "CSMA/CA",
+            "CSMA/CD",
+            "TDMA",
+            "CDMA"
+          ],
+          "answer": "CSMA/CD",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_20",
+          "question": "Which class of IP address is reserved for Multicasting?",
+          "options": [
+            "Class B",
+            "Class C",
+            "Class D",
+            "Class E"
+          ],
+          "answer": "Class D",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_21",
+          "question": "How many bits are used for the Network ID in a Class B address?",
+          "options": [
+            "8",
+            "16",
+            "24",
+            "32"
+          ],
+          "answer": "16",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_22",
+          "question": "What is the purpose of NAT (Network Address Translation)?",
+          "options": [
+            "To assign IP addresses dynamically",
+            "To translate private IP addresses to public IP addresses",
+            "To resolve domain names",
+            "To prevent routing loops"
+          ],
+          "answer": "To translate private IP addresses to public IP addresses",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_23",
+          "question": "Which of the following is NOT a valid MAC address?",
+          "options": [
+            "A1-B2-C3-D4-E5-F6",
+            "10-20-30-40-50-60",
+            "G1-23-45-67-89-AB",
+            "FF-FF-FF-FF-FF-FF"
+          ],
+          "answer": "G1-23-45-67-89-AB",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_24",
+          "question": "The transmission speed of a network is 10 Mbps. What does Mbps stand for?",
+          "options": [
+            "Mega bytes per second",
+            "Mega bits per second",
+            "Milli bits per second",
+            "Micro bytes per second"
+          ],
+          "answer": "Mega bits per second",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_25",
+          "question": "Which routing protocol uses Hop Count as a metric?",
+          "options": [
+            "OSPF",
+            "RIP",
+            "BGP",
+            "EIGRP"
+          ],
+          "answer": "RIP",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_26",
+          "question": "Checksum is used for:",
+          "options": [
+            "Error Correction",
+            "Error Detection",
+            "Flow Control",
+            "Encapsulation"
+          ],
+          "answer": "Error Detection",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_27",
+          "question": "If a signal has a bandwidth of 2000 Hz, what is the maximum data rate according to Nyquist theorem for a binary signal?",
+          "options": [
+            "2000 bps",
+            "4000 bps",
+            "8000 bps",
+            "1000 bps"
+          ],
+          "answer": "4000 bps",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_28",
+          "question": "What happens if a collision is detected in CSMA/CD?",
+          "options": [
+            "The sender continues sending",
+            "The sender stops and waits a random time (Backoff)",
+            "The sender switches to a new channel",
+            "The packet is discarded by the receiver"
+          ],
+          "answer": "The sender stops and waits a random time (Backoff)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_29",
+          "question": "The broadcast address for the network 192.168.1.0/24 is:",
+          "options": [
+            "192.168.1.1",
+            "192.168.1.254",
+            "192.168.1.255",
+            "192.168.1.0"
+          ],
+          "answer": "192.168.1.255",
+          "image_url": null
+        },
+        {
+          "id": "CN_L2_30",
+          "question": "Which framing method uses specific bit patterns to delimit frames?",
+          "options": [
+            "Character Count",
+            "Byte Stuffing",
+            "Bit Stuffing",
+            "Physical Coding"
+          ],
+          "answer": "Bit Stuffing",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "level_id": 3,
+      "difficulty": "Intermediate",
+      "description": "Routing Algorithms and TCP/UDP details",
+      "questions": [
+        {
+          "id": "CN_L3_01",
+          "question": "Which routing algorithm is used by the RIP (Routing Information Protocol)?",
+          "options": [
+            "Link State",
+            "Distance Vector",
+            "Path Vector",
+            "Flooding"
+          ],
+          "answer": "Distance Vector",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_02",
+          "question": "The 'Count-to-Infinity' problem is associated with which routing algorithm?",
+          "options": [
+            "Link State Routing",
+            "Distance Vector Routing",
+            "Path Vector Routing",
+            "Hierarchical Routing"
+          ],
+          "answer": "Distance Vector Routing",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_03",
+          "question": "OSPF (Open Shortest Path First) uses which algorithm to calculate the best path?",
+          "options": [
+            "Bellman-Ford",
+            "Dijkstra",
+            "Floyd-Warshall",
+            "Prim's Algorithm"
+          ],
+          "answer": "Dijkstra",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_04",
+          "question": "In the TCP 3-Way Handshake, what is the correct sequence of flags exchanged?",
+          "options": [
+            "SYN, ACK, SYN-ACK",
+            "SYN, SYN-ACK, ACK",
+            "SYN, FIN, ACK",
+            "ACK, SYN, FIN"
+          ],
+          "answer": "SYN, SYN-ACK, ACK",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_05",
+          "question": "What is the minimum size of a TCP header without options?",
+          "options": [
+            "20 bytes",
+            "32 bytes",
+            "40 bytes",
+            "60 bytes"
+          ],
+          "answer": "20 bytes",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_06",
+          "question": "Which algorithm is used for Congestion Control to smooth out bursty traffic?",
+          "options": [
+            "Round Robin",
+            "Leaky Bucket",
+            "Shortest Job First",
+            "LIFO"
+          ],
+          "answer": "Leaky Bucket",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_07",
+          "question": "What is the purpose of the 'Time to Live' (TTL) field in an IP packet?",
+          "options": [
+            "To timestamp the packet",
+            "To prevent routing loops",
+            "To prioritize the packet",
+            "To calculate throughput"
+          ],
+          "answer": "To prevent routing loops",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_08",
+          "question": "Which protocol is used by the 'Ping' command?",
+          "options": [
+            "TCP",
+            "UDP",
+            "ICMP",
+            "ARP"
+          ],
+          "answer": "ICMP",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_09",
+          "question": "In IP fragmentation, which field identifies that a packet belongs to the same original message?",
+          "options": [
+            "Identification",
+            "Offset",
+            "Flags",
+            "Options"
+          ],
+          "answer": "Identification",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_10",
+          "question": "Which flag is set in a TCP segment to terminate a connection?",
+          "options": [
+            "RST",
+            "PSH",
+            "FIN",
+            "URG"
+          ],
+          "answer": "FIN",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_11",
+          "question": "The Maximum Transmission Unit (MTU) of a standard Ethernet frame is:",
+          "options": [
+            "1024 bytes",
+            "1500 bytes",
+            "4096 bytes",
+            "65535 bytes"
+          ],
+          "answer": "1500 bytes",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_12",
+          "question": "Which BGP (Border Gateway Protocol) is an example of which type of routing?",
+          "options": [
+            "Distance Vector",
+            "Link State",
+            "Path Vector",
+            "Static Routing"
+          ],
+          "answer": "Path Vector",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_13",
+          "question": "What is 'Piggybacking' in data communication?",
+          "options": [
+            "Sending data along with the acknowledgment",
+            "Sending multiple packets at once",
+            "Using a backup router",
+            "Encrypting the data"
+          ],
+          "answer": "Sending data along with the acknowledgment",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_14",
+          "question": "Which field in the IPv4 header allows for Quality of Service (QoS)?",
+          "options": [
+            "Version",
+            "Type of Service (ToS)",
+            "Protocol",
+            "Header Checksum"
+          ],
+          "answer": "Type of Service (ToS)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_15",
+          "question": "In Classful addressing, which IP address is used for 'Limited Broadcast'?",
+          "options": [
+            "0.0.0.0",
+            "127.0.0.1",
+            "255.255.255.255",
+            "192.168.1.255"
+          ],
+          "answer": "255.255.255.255",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_16",
+          "question": "Which TCP mechanism prevents a sender from overwhelming a receiver?",
+          "options": [
+            "Congestion Control",
+            "Flow Control",
+            "Error Control",
+            "Access Control"
+          ],
+          "answer": "Flow Control",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_17",
+          "question": "The combination of an IP address and a Port number is called a:",
+          "options": [
+            "Protocol",
+            "Socket Address",
+            "MAC Address",
+            "Session"
+          ],
+          "answer": "Socket Address",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_18",
+          "question": "Which of the following is true about UDP?",
+          "options": [
+            "Connection-oriented",
+            "Reliable",
+            "Unreliable and Connectionless",
+            "Uses Acknowledgments"
+          ],
+          "answer": "Unreliable and Connectionless",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_19",
+          "question": "Which port is used by SSH (Secure Shell)?",
+          "options": [
+            "21",
+            "22",
+            "23",
+            "25"
+          ],
+          "answer": "22",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_20",
+          "question": "Split Horizon is a technique used to prevent:",
+          "options": [
+            "Congestion",
+            "Routing Loops",
+            "Packet Loss",
+            "Security Breaches"
+          ],
+          "answer": "Routing Loops",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_21",
+          "question": "Which protocol is used for multicasting?",
+          "options": [
+            "ICMP",
+            "IGMP",
+            "SNMP",
+            "SMTP"
+          ],
+          "answer": "IGMP",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_22",
+          "question": "In the Token Bucket algorithm, what happens if the bucket is full?",
+          "options": [
+            "Tokens are discarded",
+            "Packets are discarded",
+            "Tokens are stored in a buffer",
+            "Transmission stops"
+          ],
+          "answer": "Tokens are discarded",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_23",
+          "question": "The 'Slow Start' phase is part of which mechanism?",
+          "options": [
+            "TCP Congestion Control",
+            "UDP Error Control",
+            "IP Addressing",
+            "Ethernet Framing"
+          ],
+          "answer": "TCP Congestion Control",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_24",
+          "question": "What is the size of the UDP header?",
+          "options": [
+            "8 bytes",
+            "20 bytes",
+            "16 bytes",
+            "32 bytes"
+          ],
+          "answer": "8 bytes",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_25",
+          "question": "Which protocol is responsible for resolving MAC addresses to IP addresses (Reverse of ARP)?",
+          "options": [
+            "RARP",
+            "DNS",
+            "DHCP",
+            "ICMP"
+          ],
+          "answer": "RARP",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_26",
+          "question": "Which ICMP message type is sent when a destination is unreachable?",
+          "options": [
+            "Type 0",
+            "Type 3",
+            "Type 8",
+            "Type 11"
+          ],
+          "answer": "Type 3",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_27",
+          "question": "In a Token Ring network, what is needed to transmit data?",
+          "options": [
+            "CSMA/CD",
+            "A Token",
+            "A Collision Signal",
+            "A Priority Flag"
+          ],
+          "answer": "A Token",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_28",
+          "question": "What is the maximum length of an IPv4 datagram?",
+          "options": [
+            "1500 bytes",
+            "4096 bytes",
+            "65,535 bytes",
+            "Unlimited"
+          ],
+          "answer": "65,535 bytes",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_29",
+          "question": "Which field in the TCP header is used for Flow Control?",
+          "options": [
+            "Sequence Number",
+            "Window Size",
+            "Acknowledgment Number",
+            "Checksum"
+          ],
+          "answer": "Window Size",
+          "image_url": null
+        },
+        {
+          "id": "CN_L3_30",
+          "question": "If a router receives a packet larger than the MTU of the next interface, and the 'Don't Fragment' (DF) bit is set, what does it do?",
+          "options": [
+            "Fragments the packet",
+            "Drops the packet and sends ICMP error",
+            "Forwards it anyway",
+            "Buffers it"
+          ],
+          "answer": "Drops the packet and sends ICMP error",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "level_id": 4,
+      "difficulty": "Difficult",
+      "description": "Cryptography, Wireless, and Network Security",
+      "questions": [
+        {
+          "id": "CN_L4_01",
+          "question": "Which algorithm is used for asymmetric key cryptography?",
+          "options": [
+            "AES",
+            "DES",
+            "RSA",
+            "RC4"
+          ],
+          "answer": "RSA",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_02",
+          "question": "In SSL/TLS, which protocol is responsible for negotiating security parameters and authenticating the server?",
+          "options": [
+            "Record Protocol",
+            "Handshake Protocol",
+            "Alert Protocol",
+            "Change Cipher Spec Protocol"
+          ],
+          "answer": "Handshake Protocol",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_03",
+          "question": "Wireless LANs (802.11) use which mechanism to avoid collisions?",
+          "options": [
+            "CSMA/CD",
+            "CSMA/CA",
+            "Token Passing",
+            "ALOHA"
+          ],
+          "answer": "CSMA/CA",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_04",
+          "question": "What is the 'Hidden Station Problem' in wireless networks?",
+          "options": [
+            "A station is hidden behind a firewall",
+            "Two stations cannot detect each other but both can hear the access point",
+            "A station is not broadcasting its SSID",
+            "Signal strength is too low"
+          ],
+          "answer": "Two stations cannot detect each other but both can hear the access point",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_05",
+          "question": "Which mode of IPsec provides encryption for the entire original IP packet (including header)?",
+          "options": [
+            "Transport Mode",
+            "Tunnel Mode",
+            "Encapsulation Mode",
+            "Secure Mode"
+          ],
+          "answer": "Tunnel Mode",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_06",
+          "question": "In IPv6, which address type replaces the IPv4 Broadcast address?",
+          "options": [
+            "Unicast",
+            "Anycast",
+            "Multicast",
+            "Broadcast"
+          ],
+          "answer": "Multicast",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_07",
+          "question": "Which firewall type filters traffic based on the state of active connections?",
+          "options": [
+            "Packet Filtering Firewall",
+            "Stateful Inspection Firewall",
+            "Proxy Firewall",
+            "Next-Gen Firewall"
+          ],
+          "answer": "Stateful Inspection Firewall",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_08",
+          "question": "What is the purpose of the RTS/CTS (Request to Send / Clear to Send) mechanism?",
+          "options": [
+            "To encrypt data",
+            "To solve the Hidden Station Problem",
+            "To increase speed",
+            "To authenticate users"
+          ],
+          "answer": "To solve the Hidden Station Problem",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_09",
+          "question": "Which cryptographic hash function produces a 128-bit hash value (and is considered weak)?",
+          "options": [
+            "SHA-256",
+            "SHA-1",
+            "MD5",
+            "RIPEMD"
+          ],
+          "answer": "MD5",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_10",
+          "question": "What is a 'Man-in-the-Middle' (MITM) attack?",
+          "options": [
+            "An attacker intercepts communication between two parties",
+            "An attacker floods a server",
+            "An attacker guesses a password",
+            "An attacker injects SQL"
+          ],
+          "answer": "An attacker intercepts communication between two parties",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_11",
+          "question": "Which port number is used by DNS (both TCP and UDP)?",
+          "options": [
+            "25",
+            "53",
+            "80",
+            "110"
+          ],
+          "answer": "53",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_12",
+          "question": "WPA2 security protocol uses which encryption standard?",
+          "options": [
+            "WEP",
+            "TKIP",
+            "AES-CCMP",
+            "DES"
+          ],
+          "answer": "AES-CCMP",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_13",
+          "question": "In BGP, which attribute is used to prevent routing loops?",
+          "options": [
+            "MED",
+            "Local Preference",
+            "AS-Path",
+            "Next Hop"
+          ],
+          "answer": "AS-Path",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_14",
+          "question": "What is 'Symmetric Key Cryptography'?",
+          "options": [
+            "Sender and Receiver use different keys",
+            "Sender and Receiver use the same key",
+            "No keys are used",
+            "Public key is shared"
+          ],
+          "answer": "Sender and Receiver use the same key",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_15",
+          "question": "Which header field in IPv6 is used to label sequences of packets requiring special handling?",
+          "options": [
+            "Traffic Class",
+            "Flow Label",
+            "Next Header",
+            "Hop Limit"
+          ],
+          "answer": "Flow Label",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_16",
+          "question": "A VPN (Virtual Private Network) primarily uses which protocol for tunneling?",
+          "options": [
+            "HTTP",
+            "IPsec / GRE",
+            "FTP",
+            "SMTP"
+          ],
+          "answer": "IPsec / GRE",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_17",
+          "question": "Which wireless standard operates only in the 5 GHz band and offers very high speeds?",
+          "options": [
+            "802.11b",
+            "802.11g",
+            "802.11n",
+            "802.11ac"
+          ],
+          "answer": "802.11ac",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_18",
+          "question": "What is the primary function of a DMZ (Demilitarized Zone) in network security?",
+          "options": [
+            "To store highly sensitive data",
+            "To expose public-facing services (like Web Servers) while protecting the internal LAN",
+            "To encrypt all traffic",
+            "To route internal traffic"
+          ],
+          "answer": "To expose public-facing services (like Web Servers) while protecting the internal LAN",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_19",
+          "question": "Which attack involves sending an enormous amount of traffic to a target to shut it down?",
+          "options": [
+            "Phishing",
+            "DDoS (Distributed Denial of Service)",
+            "Spoofing",
+            "Sniffing"
+          ],
+          "answer": "DDoS (Distributed Denial of Service)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_20",
+          "question": "The 'Nagle's Algorithm' is used in TCP to:",
+          "options": [
+            "Avoid congestion",
+            "Reduce the number of small packets sent",
+            "Increase window size",
+            "Establish connections faster"
+          ],
+          "answer": "Reduce the number of small packets sent",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_21",
+          "question": "Which component of PKI (Public Key Infrastructure) issues digital certificates?",
+          "options": [
+            "Registration Authority (RA)",
+            "Certificate Authority (CA)",
+            "Validation Authority",
+            "Key Server"
+          ],
+          "answer": "Certificate Authority (CA)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_22",
+          "question": "What does the 'S' stand for in HTTPS?",
+          "options": [
+            "Standard",
+            "Secure (over SSL/TLS)",
+            "Simple",
+            "System"
+          ],
+          "answer": "Secure (over SSL/TLS)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_23",
+          "question": "In the Diffie-Hellman key exchange algorithm, the security relies on the difficulty of:",
+          "options": [
+            "Prime Factorization",
+            "Discrete Logarithm Problem",
+            "Elliptic Curves",
+            "Linear Algebra"
+          ],
+          "answer": "Discrete Logarithm Problem",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_24",
+          "question": "Which wireless security standard is considered the weakest and easily crackable?",
+          "options": [
+            "WPA3",
+            "WPA2",
+            "WPA",
+            "WEP"
+          ],
+          "answer": "WEP",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_25",
+          "question": "What is 'Anycast' routing?",
+          "options": [
+            "One-to-One",
+            "One-to-All",
+            "One-to-Nearest",
+            "One-to-Many"
+          ],
+          "answer": "One-to-Nearest",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_26",
+          "question": "Which of the following is NOT a Private IP range?",
+          "options": [
+            "10.0.0.0/8",
+            "172.16.0.0/12",
+            "192.168.0.0/16",
+            "8.0.0.0/8"
+          ],
+          "answer": "8.0.0.0/8",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_27",
+          "question": "The protocol used to automatically assign IP addresses in a IPv6 network without a DHCP server is called:",
+          "options": [
+            "SLAAC (Stateless Address Auto-Configuration)",
+            "ARP",
+            "RARP",
+            "BOOTP"
+          ],
+          "answer": "SLAAC (Stateless Address Auto-Configuration)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_28",
+          "question": "Which port is used by HTTPS?",
+          "options": [
+            "80",
+            "8080",
+            "443",
+            "21"
+          ],
+          "answer": "443",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_29",
+          "question": "What is a 'Zero-Day Exploit'?",
+          "options": [
+            "An attack that occurs at midnight",
+            "An attack exploiting a vulnerability unknown to the software vendor",
+            "An attack that takes zero seconds",
+            "A virus that deletes everything"
+          ],
+          "answer": "An attack exploiting a vulnerability unknown to the software vendor",
+          "image_url": null
+        },
+        {
+          "id": "CN_L4_30",
+          "question": "Kerberos is an authentication protocol that uses:",
+          "options": [
+            "Tickets",
+            "Biometrics",
+            "Retina Scan",
+            "Smart Cards"
+          ],
+          "answer": "Tickets",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "level_id": 5,
+      "difficulty": "Very Difficult",
+      "description": "Advanced Networking and Protocols",
+      "questions": [
+        {
+          "id": "CN_L5_01",
+          "question": "HTTP/3 is based on which underlying transport protocol?",
+          "options": [
+            "TCP",
+            "UDP (QUIC)",
+            "SCTP",
+            "ICMP"
+          ],
+          "answer": "UDP (QUIC)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_02",
+          "question": "In Software Defined Networking (SDN), what is the primary architectural change?",
+          "options": [
+            "Separation of Control Plane and Data Plane",
+            "Merging of L2 and L3",
+            "Use of fiber optics only",
+            "Removal of all routers"
+          ],
+          "answer": "Separation of Control Plane and Data Plane",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_03",
+          "question": "MPLS (Multiprotocol Label Switching) is often referred to as operating at which layer?",
+          "options": [
+            "Layer 2",
+            "Layer 3",
+            "Layer 2.5",
+            "Layer 4"
+          ],
+          "answer": "Layer 2.5",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_04",
+          "question": "What is the main advantage of HTTP/2 over HTTP/1.1?",
+          "options": [
+            "Statelessness",
+            "Multiplexing (sending multiple requests over a single TCP connection)",
+            "Use of UDP",
+            "Better encryption only"
+          ],
+          "answer": "Multiplexing (sending multiple requests over a single TCP connection)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_05",
+          "question": "VXLAN (Virtual Extensible LAN) is used to:",
+          "options": [
+            "Create overlay networks to overcome the 4096 VLAN ID limit",
+            "Encrypt data",
+            "Compress data",
+            "Route data faster"
+          ],
+          "answer": "Create overlay networks to overcome the 4096 VLAN ID limit",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_06",
+          "question": "What is the function of a 'Reverse Proxy'?",
+          "options": [
+            "It protects the client (user)",
+            "It sits in front of web servers and distributes client requests (Load Balancing/Caching)",
+            "It is used for VPNs",
+            "It filters emails"
+          ],
+          "answer": "It sits in front of web servers and distributes client requests (Load Balancing/Caching)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_07",
+          "question": "Which protocol is lightweight and standard for IoT (Internet of Things) messaging?",
+          "options": [
+            "HTTP",
+            "SMTP",
+            "MQTT",
+            "FTP"
+          ],
+          "answer": "MQTT",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_08",
+          "question": "In BGP, which attribute is used to influence incoming traffic to an Autonomous System (AS)?",
+          "options": [
+            "Local Preference",
+            "MED (Multi-Exit Discriminator)",
+            "Weight",
+            "Origin"
+          ],
+          "answer": "MED (Multi-Exit Discriminator)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_09",
+          "question": "What is 'Head-of-Line Blocking' in TCP?",
+          "options": [
+            "A security attack",
+            "Packet loss in wireless",
+            "Delay where a single lost packet blocks all subsequent packets in the stream",
+            "Congestion at the router"
+          ],
+          "answer": "Delay where a single lost packet blocks all subsequent packets in the stream",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_10",
+          "question": "WebSocket protocol is primarily used for:",
+          "options": [
+            "Full-duplex communication over a single TCP connection (Real-time apps)",
+            "Sending emails",
+            "File transfer",
+            "Stateless REST APIs"
+          ],
+          "answer": "Full-duplex communication over a single TCP connection (Real-time apps)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_11",
+          "question": "Which of the following describes 'ARP Spoofing'?",
+          "options": [
+            "An attacker sends fake ARP messages to link their MAC address with a legitimate IP",
+            "An attacker floods the network with ping requests",
+            "An attacker guesses the password",
+            "An attacker intercepts DNS queries"
+          ],
+          "answer": "An attacker sends fake ARP messages to link their MAC address with a legitimate IP",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_12",
+          "question": "What is a Content Delivery Network (CDN) used for?",
+          "options": [
+            "To generate content",
+            "To cache content at the network edge closer to users to reduce latency",
+            "To store databases",
+            "To encrypt passwords"
+          ],
+          "answer": "To cache content at the network edge closer to users to reduce latency",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_13",
+          "question": "The 'OpenFlow' protocol is associated with which networking technology?",
+          "options": [
+            "MPLS",
+            "SDN (Software Defined Networking)",
+            "VPN",
+            "IPv6"
+          ],
+          "answer": "SDN (Software Defined Networking)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_14",
+          "question": "In Cloud Networking, what is a VPC?",
+          "options": [
+            "Virtual Private Cloud",
+            "Video Processing Center",
+            "Verified Public Cloud",
+            "Virtual Public Cache"
+          ],
+          "answer": "Virtual Private Cloud",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_15",
+          "question": "Which DNS record type specifies the Mail Server for a domain?",
+          "options": [
+            "A",
+            "AAAA",
+            "MX",
+            "CNAME"
+          ],
+          "answer": "MX",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_16",
+          "question": "What does the 'Strict-Transport-Security' (HSTS) header do?",
+          "options": [
+            "Forces the browser to use HTTPS only",
+            "Optimizes TCP speed",
+            "Compresses HTTP headers",
+            "Allows Cross-Origin Resource Sharing"
+          ],
+          "answer": "Forces the browser to use HTTPS only",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_17",
+          "question": "Which mechanism in IPv6 replaces ARP?",
+          "options": [
+            "NDP (Neighbor Discovery Protocol)",
+            "DHCPv6",
+            "IGMP",
+            "ICMPv6"
+          ],
+          "answer": "NDP (Neighbor Discovery Protocol)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_18",
+          "question": "What is 'Server Name Indication' (SNI)?",
+          "options": [
+            "An extension to TLS that allows multiple SSL certificates on a single IP address",
+            "A DNS record",
+            "A routing protocol",
+            "A load balancing algorithm"
+          ],
+          "answer": "An extension to TLS that allows multiple SSL certificates on a single IP address",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_19",
+          "question": "In a fat-tree topology (Data Center Network), the core layer provides:",
+          "options": [
+            "Access to servers",
+            "High-speed switching between aggregation switches",
+            "Storage",
+            "Firewall services"
+          ],
+          "answer": "High-speed switching between aggregation switches",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_20",
+          "question": "Which algorithm does STP (Spanning Tree Protocol) use to prevent loops?",
+          "options": [
+            "Dijkstra",
+            "Bellman-Ford",
+            "Distributed Spanning Tree Algorithm (802.1D)",
+            "Flooding"
+          ],
+          "answer": "Distributed Spanning Tree Algorithm (802.1D)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_21",
+          "question": "What is the difference between bandwidth and throughput?",
+          "options": [
+            "Bandwidth is theoretical capacity; Throughput is actual data transfer rate",
+            "They are the same",
+            "Bandwidth is for wireless; Throughput is for wired",
+            "Throughput is always higher than bandwidth"
+          ],
+          "answer": "Bandwidth is theoretical capacity; Throughput is actual data transfer rate",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_22",
+          "question": "Which protocol is used for synchronizing clocks over a network?",
+          "options": [
+            "NTP (Network Time Protocol)",
+            "HTTP",
+            "SMTP",
+            "RTP"
+          ],
+          "answer": "NTP (Network Time Protocol)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_23",
+          "question": "What is 'Deep Packet Inspection' (DPI)?",
+          "options": [
+            "Checking only the header",
+            "Examining the data part (payload) of a packet",
+            "Checking the MAC address",
+            "Checking the IP address"
+          ],
+          "answer": "Examining the data part (payload) of a packet",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_24",
+          "question": "Which IPv6 address scope is used for the local link only (not routable)?",
+          "options": [
+            "Global Unicast",
+            "Link-Local (fe80::/10)",
+            "Unique Local",
+            "Multicast"
+          ],
+          "answer": "Link-Local (fe80::/10)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_25",
+          "question": "What is the purpose of 'Keep-Alive' in HTTP/1.1?",
+          "options": [
+            "To keep the server awake",
+            "To reuse the same TCP connection for multiple requests",
+            "To ping the router",
+            "To prevent timeouts"
+          ],
+          "answer": "To reuse the same TCP connection for multiple requests",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_26",
+          "question": "Which routing metric is used by EIGRP?",
+          "options": [
+            "Hop Count",
+            "Composite metric (Bandwidth, Delay, Load, Reliability)",
+            "Cost",
+            "Path attributes"
+          ],
+          "answer": "Composite metric (Bandwidth, Delay, Load, Reliability)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_27",
+          "question": "What is a 'Zombie' or 'Bot' in a botnet?",
+          "options": [
+            "A compromised computer controlled by an attacker",
+            "A dead router",
+            "A type of firewall",
+            "A slow connection"
+          ],
+          "answer": "A compromised computer controlled by an attacker",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_28",
+          "question": "CORS (Cross-Origin Resource Sharing) is a security feature enforced by:",
+          "options": [
+            "The Server",
+            "The Browser",
+            "The Router",
+            "The Firewall"
+          ],
+          "answer": "The Browser",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_29",
+          "question": "Which UDP-based protocol is used for streaming real-time audio/video?",
+          "options": [
+            "RTP (Real-time Transport Protocol)",
+            "FTP",
+            "HTTP",
+            "POP3"
+          ],
+          "answer": "RTP (Real-time Transport Protocol)",
+          "image_url": null
+        },
+        {
+          "id": "CN_L5_30",
+          "question": "In 802.1Q VLAN tagging, how many bits are used for the VLAN ID?",
+          "options": [
+            "8 bits",
+            "12 bits",
+            "16 bits",
+            "32 bits"
+          ],
+          "answer": "12 bits",
+          "image_url": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1840 @@
+{
+  "topic": "Database Management Systems",
+  "levels": [
+    {
+      "level_id": 1,
+      "difficulty": "Easy",
+      "description": "SQL Basics, Keys, and RDBMS Terminology",
+      "questions": [
+        {
+          "id": "DBMS_L1_01",
+          "question": "What is the full form of DBMS?",
+          "options": [
+            "Data of Binary Management System",
+            "Database Management System",
+            "Database Management Service",
+            "Data Backup Management System"
+          ],
+          "answer": "Database Management System",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_02",
+          "question": "In the relational model, a row in a table is also known as a:",
+          "options": [
+            "Attribute",
+            "Tuple",
+            "Domain",
+            "Relation"
+          ],
+          "answer": "Tuple",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_03",
+          "question": "Which of the following is a Data Definition Language (DDL) command?",
+          "options": [
+            "SELECT",
+            "INSERT",
+            "UPDATE",
+            "CREATE"
+          ],
+          "answer": "CREATE",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_04",
+          "question": "Which key uniquely identifies a record in a database table?",
+          "options": [
+            "Foreign Key",
+            "Primary Key",
+            "Secondary Key",
+            "Candidate Key"
+          ],
+          "answer": "Primary Key",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_05",
+          "question": "Which SQL command is used to remove a table and all its data from the database?",
+          "options": [
+            "DELETE",
+            "REMOVE",
+            "DROP",
+            "TRUNCATE"
+          ],
+          "answer": "DROP",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_06",
+          "question": "The columns in a database table are called:",
+          "options": [
+            "Tuples",
+            "Records",
+            "Attributes",
+            "Degrees"
+          ],
+          "answer": "Attributes",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_07",
+          "question": "What does SQL stand for?",
+          "options": [
+            "Structured Query Language",
+            "Standard Query Language",
+            "Simple Query Language",
+            "System Query Logic"
+          ],
+          "answer": "Structured Query Language",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_08",
+          "question": "Which command is used to retrieve data from a database?",
+          "options": [
+            "GET",
+            "OPEN",
+            "SELECT",
+            "FETCH"
+          ],
+          "answer": "SELECT",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_09",
+          "question": "A value of NULL in a database indicates:",
+          "options": [
+            "Zero",
+            "Blank space",
+            "Value unknown or not applicable",
+            "Garbage value"
+          ],
+          "answer": "Value unknown or not applicable",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_10",
+          "question": "Which constraint ensures that all values in a column are different?",
+          "options": [
+            "NOT NULL",
+            "UNIQUE",
+            "CHECK",
+            "DEFAULT"
+          ],
+          "answer": "UNIQUE",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_11",
+          "question": "Which of the following is NOT a type of database model?",
+          "options": [
+            "Hierarchical",
+            "Network",
+            "Relational",
+            "Linear"
+          ],
+          "answer": "Linear",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_12",
+          "question": "The number of attributes in a relation is called its:",
+          "options": [
+            "Cardinality",
+            "Degree",
+            "Domain",
+            "Schema"
+          ],
+          "answer": "Degree",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_13",
+          "question": "The number of tuples (rows) in a relation is called its:",
+          "options": [
+            "Cardinality",
+            "Degree",
+            "Extension",
+            "Identity"
+          ],
+          "answer": "Cardinality",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_14",
+          "question": "Which operator is used for pattern matching in SQL?",
+          "options": [
+            "MATCH",
+            "LIKE",
+            "SAME",
+            "EQUALS"
+          ],
+          "answer": "LIKE",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_15",
+          "question": "Which clause is used to sort the result-set?",
+          "options": [
+            "SORT BY",
+            "ORDER BY",
+            "ARRANGE BY",
+            "GROUP BY"
+          ],
+          "answer": "ORDER BY",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_16",
+          "question": "What is a Foreign Key?",
+          "options": [
+            "A key that uniquely identifies a record",
+            "A key that links two tables together",
+            "A key that allows NULL values",
+            "A key used for encryption"
+          ],
+          "answer": "A key that links two tables together",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_17",
+          "question": "Which SQL keyword is used to eliminate duplicate rows in the result?",
+          "options": [
+            "UNIQUE",
+            "DIFFERENT",
+            "DISTINCT",
+            "NO DUPLICATE"
+          ],
+          "answer": "DISTINCT",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_18",
+          "question": "The logical structure of the database is called:",
+          "options": [
+            "Schema",
+            "Instance",
+            "Model",
+            "Meta-data"
+          ],
+          "answer": "Schema",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_19",
+          "question": "Which command is used to modify existing data in a table?",
+          "options": [
+            "ALTER",
+            "MODIFY",
+            "UPDATE",
+            "CHANGE"
+          ],
+          "answer": "UPDATE",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_20",
+          "question": "Which of the following is a DML (Data Manipulation Language) command?",
+          "options": [
+            "CREATE",
+            "ALTER",
+            "DROP",
+            "INSERT"
+          ],
+          "answer": "INSERT",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_21",
+          "question": "What does ACID stand for in DBMS?",
+          "options": [
+            "Atomicity, Consistency, Isolation, Durability",
+            "Atomicity, Concurrency, Isolation, Database",
+            "Automatic, Consistency, Isolation, Durability",
+            "Action, Consistency, Isolation, Data"
+          ],
+          "answer": "Atomicity, Consistency, Isolation, Durability",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_22",
+          "question": "Which command saves all transaction changes permanently?",
+          "options": [
+            "SAVEPOINT",
+            "ROLLBACK",
+            "COMMIT",
+            "DONE"
+          ],
+          "answer": "COMMIT",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_23",
+          "question": "Which command restores the database to the last committed state?",
+          "options": [
+            "RESET",
+            "RETURN",
+            "ROLLBACK",
+            "BACKUP"
+          ],
+          "answer": "ROLLBACK",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_24",
+          "question": "Which aggregate function is used to count the number of rows?",
+          "options": [
+            "SUM()",
+            "TOTAL()",
+            "COUNT()",
+            "NUM()"
+          ],
+          "answer": "COUNT()",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_25",
+          "question": "In an E-R diagram, a rectangle represents:",
+          "options": [
+            "Attribute",
+            "Relationship",
+            "Entity",
+            "Weak Entity"
+          ],
+          "answer": "Entity",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_26",
+          "question": "In an E-R diagram, an ellipse represents:",
+          "options": [
+            "Attribute",
+            "Entity",
+            "Relationship",
+            "Key"
+          ],
+          "answer": "Attribute",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_27",
+          "question": "What is the minimal set of super keys called?",
+          "options": [
+            "Foreign Key",
+            "Secondary Key",
+            "Candidate Key",
+            "Primary Key"
+          ],
+          "answer": "Candidate Key",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_28",
+          "question": "Which operation is used to combine rows from two or more tables?",
+          "options": [
+            "APPEND",
+            "MERGE",
+            "JOIN",
+            "COMBINE"
+          ],
+          "answer": "JOIN",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_29",
+          "question": "What describes the data about data?",
+          "options": [
+            "User Data",
+            "Meta Data",
+            "System Data",
+            "Source Data"
+          ],
+          "answer": "Meta Data",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L1_30",
+          "question": "Which clause is used to filter groups in a GROUP BY query?",
+          "options": [
+            "WHERE",
+            "HAVING",
+            "FILTER",
+            "ORDER BY"
+          ],
+          "answer": "HAVING",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "level_id": 2,
+      "difficulty": "Medium",
+      "description": "Normalization, Joins, and Relational Algebra",
+      "questions": [
+        {
+          "id": "DBMS_L2_01",
+          "question": "Which normal form removes partial dependencies?",
+          "options": [
+            "First Normal Form (1NF)",
+            "Second Normal Form (2NF)",
+            "Third Normal Form (3NF)",
+            "BCNF"
+          ],
+          "answer": "Second Normal Form (2NF)",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_02",
+          "question": "Which normal form deals with transitive dependencies?",
+          "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "4NF"
+          ],
+          "answer": "3NF",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_03",
+          "question": "A table is in BCNF if it is in 3NF and:",
+          "options": [
+            "Every determinant is a candidate key",
+            "No non-prime attribute is dependent on prime attribute",
+            "It has no multi-valued dependencies",
+            "It has atomic values"
+          ],
+          "answer": "Every determinant is a candidate key",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_04",
+          "question": "What type of join returns all rows from the left table, and the matched rows from the right table?",
+          "options": [
+            "INNER JOIN",
+            "LEFT JOIN",
+            "RIGHT JOIN",
+            "FULL JOIN"
+          ],
+          "answer": "LEFT JOIN",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_05",
+          "question": "Which join returns the Cartesian product of rows from tables in the join?",
+          "options": [
+            "Equi Join",
+            "Self Join",
+            "Cross Join",
+            "Natural Join"
+          ],
+          "answer": "Cross Join",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_06",
+          "question": "The intersection of a row and a column is called:",
+          "options": [
+            "Data",
+            "Field",
+            "Cell",
+            "Value"
+          ],
+          "answer": "Cell",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_07",
+          "question": "In Relational Algebra, which operation is denoted by the symbol Sigma (σ)?",
+          "options": [
+            "Projection",
+            "Selection",
+            "Union",
+            "Join"
+          ],
+          "answer": "Selection",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_08",
+          "question": "In Relational Algebra, which operation is denoted by the symbol Pi (π)?",
+          "options": [
+            "Selection",
+            "Projection",
+            "Division",
+            "Cartesian Product"
+          ],
+          "answer": "Projection",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_09",
+          "question": "Which constraint is used to ensure referential integrity?",
+          "options": [
+            "Primary Key",
+            "Foreign Key",
+            "Check",
+            "Unique"
+          ],
+          "answer": "Foreign Key",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_10",
+          "question": "What happens when you use 'ON DELETE CASCADE'?",
+          "options": [
+            "It stops deletion of parent data",
+            "It deletes corresponding child data when parent data is deleted",
+            "It sets child data to NULL",
+            "It creates a backup before deletion"
+          ],
+          "answer": "It deletes corresponding child data when parent data is deleted",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_11",
+          "question": "Which operator is used to compare a value to a specified list of values?",
+          "options": [
+            "BETWEEN",
+            "LIKE",
+            "IN",
+            "EXISTS"
+          ],
+          "answer": "IN",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_12",
+          "question": "Which Join is also called an Inner Join?",
+          "options": [
+            "Equi Join",
+            "Natural Join",
+            "Cross Join",
+            "None of the above"
+          ],
+          "answer": "Equi Join",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_13",
+          "question": "A table can have how many Primary Keys?",
+          "options": [
+            "Only one",
+            "At least one",
+            "Multiple",
+            "Depends on number of columns"
+          ],
+          "answer": "Only one",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_14",
+          "question": "Which SQL statement is used to return only different values?",
+          "options": [
+            "SELECT DIFFERENT",
+            "SELECT UNIQUE",
+            "SELECT DISTINCT",
+            "SELECT DISTINCTIVE"
+          ],
+          "answer": "SELECT DISTINCT",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_15",
+          "question": "The result of a SELECT statement can contain duplicate rows.",
+          "options": [
+            "True",
+            "False",
+            "Depends on the database",
+            "Only if DISTINCT is used"
+          ],
+          "answer": "True",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_16",
+          "question": "Which of the following is used to define a virtual table?",
+          "options": [
+            "TABLE",
+            "VIEW",
+            "SCHEMA",
+            "INDEX"
+          ],
+          "answer": "VIEW",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_17",
+          "question": "What is the condition for two tables to be Union Compatible?",
+          "options": [
+            "Same name",
+            "Same number of rows",
+            "Same degree and compatible domains",
+            "Same Primary Keys"
+          ],
+          "answer": "Same degree and compatible domains",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_18",
+          "question": "Which aggregate function ignores NULL values?",
+          "options": [
+            "COUNT(*)",
+            "COUNT(column_name)",
+            "Both",
+            "Neither"
+          ],
+          "answer": "COUNT(column_name)",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_19",
+          "question": "A transaction completes its execution is said to be:",
+          "options": [
+            "Saved",
+            "Loaded",
+            "Committed",
+            "Rolled back"
+          ],
+          "answer": "Committed",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_20",
+          "question": "Which form of dependency is removed in 1NF?",
+          "options": [
+            "Functional Dependency",
+            "Transitive Dependency",
+            "Multi-valued Dependency",
+            "Repeating Groups"
+          ],
+          "answer": "Repeating Groups",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_21",
+          "question": "What is a 'Self Join'?",
+          "options": [
+            "Joining a table to itself",
+            "Joining a table to a view",
+            "Joining two different databases",
+            "Joining two tables with same name"
+          ],
+          "answer": "Joining a table to itself",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_22",
+          "question": "The HAVING clause is used in combination with:",
+          "options": [
+            "WHERE",
+            "GROUP BY",
+            "ORDER BY",
+            "SELECT"
+          ],
+          "answer": "GROUP BY",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_23",
+          "question": "Which wildcard character represents zero, one, or multiple characters?",
+          "options": [
+            "_",
+            "?",
+            "%",
+            "#"
+          ],
+          "answer": "%",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_24",
+          "question": "Which wildcard character represents a single character?",
+          "options": [
+            "_",
+            "%",
+            "*",
+            "?"
+          ],
+          "answer": "_",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_25",
+          "question": "What is the result of a LEFT OUTER JOIN if there is no match in the right table?",
+          "options": [
+            "The row is not displayed",
+            "The right side columns contain NULL",
+            "The query returns an error",
+            "It performs a Cross Join"
+          ],
+          "answer": "The right side columns contain NULL",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_26",
+          "question": "Which command is used to add a new column to an existing table?",
+          "options": [
+            "ALTER TABLE table_name ADD column_name datatype",
+            "UPDATE TABLE table_name ADD column_name datatype",
+            "MODIFY TABLE table_name ADD column_name datatype",
+            "INSERT COLUMN column_name INTO table_name"
+          ],
+          "answer": "ALTER TABLE table_name ADD column_name datatype",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_27",
+          "question": "A functional dependency A -> B is trivial if:",
+          "options": [
+            "A is a subset of B",
+            "B is a subset of A",
+            "A and B are disjoint",
+            "A is null"
+          ],
+          "answer": "B is a subset of A",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_28",
+          "question": "Which of the following is NOT a valid aggregate function?",
+          "options": [
+            "AVG",
+            "MIN",
+            "MAX",
+            "COMPUTE"
+          ],
+          "answer": "COMPUTE",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_29",
+          "question": "When does the 'CHECK' constraint validation occur?",
+          "options": [
+            "After committing transaction",
+            "While inserting or updating data",
+            "Only while creating table",
+            "During SELECT query"
+          ],
+          "answer": "While inserting or updating data",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L2_30",
+          "question": "What is the default sorting order of the ORDER BY clause?",
+          "options": [
+            "Descending",
+            "Ascending",
+            "Random",
+            "None"
+          ],
+          "answer": "Ascending",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "level_id": 3,
+      "difficulty": "Intermediate",
+      "description": "Indexing, Transactions, and Views",
+      "questions": [
+        {
+          "id": "DBMS_L3_01",
+          "question": "Scenario: Table 'Student' has 5 rows. Table 'Course' has 3 rows. What is the output of: SELECT count(*) FROM Student, Course;",
+          "options": [
+            "8",
+            "15",
+            "5",
+            "Error"
+          ],
+          "answer": "15",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_02",
+          "question": "Scenario: A table 'Marks' has a column 'Score' with values: {10, NULL, 20, 30}. What is the output of: SELECT COUNT(Score) FROM Marks;",
+          "options": [
+            "4",
+            "3",
+            "0",
+            "NULL"
+          ],
+          "answer": "3",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_03",
+          "question": "Scenario: Same table 'Marks' with values {10, NULL, 20, 30}. What is the output of: SELECT COUNT(*) FROM Marks;",
+          "options": [
+            "4",
+            "3",
+            "20",
+            "NULL"
+          ],
+          "answer": "4",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_04",
+          "question": "Which data structure is most commonly used for implementing Database Indexes?",
+          "options": [
+            "Linked List",
+            "Stack",
+            "B+ Tree",
+            "Queue"
+          ],
+          "answer": "B+ Tree",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_05",
+          "question": "What is the main advantage of using a B+ Tree over a B Tree for indexing?",
+          "options": [
+            "B+ Trees store data only in leaf nodes",
+            "B+ Trees are slower",
+            "B+ Trees use more memory",
+            "B Trees do not support deletion"
+          ],
+          "answer": "B+ Trees store data only in leaf nodes",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_06",
+          "question": "Scenario: Table T1 has rows {1, 2}. Table T2 has rows {1, 3}. What is the result of: SELECT * FROM T1 INNER JOIN T2 ON T1.id = T2.id;",
+          "options": [
+            "{1}",
+            "{1, 2}",
+            "{1, 3}",
+            "{1, 2, 3}"
+          ],
+          "answer": "{1}",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_07",
+          "question": "Which property ensures that a transaction is saved permanently even if the system crashes immediately after?",
+          "options": [
+            "Atomicity",
+            "Consistency",
+            "Isolation",
+            "Durability"
+          ],
+          "answer": "Durability",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_08",
+          "question": "A schedule where transactions are executed one after another is called:",
+          "options": [
+            "Concurrent Schedule",
+            "Serial Schedule",
+            "Parallel Schedule",
+            "Non-recoverable Schedule"
+          ],
+          "answer": "Serial Schedule",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_09",
+          "question": "Which isolation level prevents 'Dirty Reads'?",
+          "options": [
+            "Read Uncommitted",
+            "Read Committed",
+            "Serializable",
+            "All of the above"
+          ],
+          "answer": "Read Committed",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_10",
+          "question": "Scenario: You want to delete a record from a parent table, but it fails because a child table references it. Which constraint caused this?",
+          "options": [
+            "Primary Key",
+            "Foreign Key",
+            "Unique Key",
+            "Check Constraint"
+          ],
+          "answer": "Foreign Key",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_11",
+          "question": "The 'Phantom Read' problem occurs in which isolation level?",
+          "options": [
+            "Serializable",
+            "Repeatable Read",
+            "Read Committed",
+            "Read Uncommitted"
+          ],
+          "answer": "Repeatable Read",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_12",
+          "question": "Scenario: A table 'Employees' has 10 records. You run: TRUNCATE TABLE Employees; followed by ROLLBACK; How many records remain?",
+          "options": [
+            "10",
+            "0",
+            "5",
+            "Depends on database"
+          ],
+          "answer": "0",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_13",
+          "question": "Which type of index determines the physical order of data in a table?",
+          "options": [
+            "Clustered Index",
+            "Non-Clustered Index",
+            "Unique Index",
+            "Composite Index"
+          ],
+          "answer": "Clustered Index",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_14",
+          "question": "Scenario: Query: SELECT name FROM Student WHERE name LIKE '_a%'; Which name will be selected?",
+          "options": [
+            "Jack",
+            "Adam",
+            "Eva",
+            "Sarah"
+          ],
+          "answer": "Jack",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_15",
+          "question": "What is a 'Dirty Read'?",
+          "options": [
+            "Reading data that has been committed",
+            "Reading data written by an uncommitted transaction",
+            "Reading invalid data types",
+            "Reading data from a corrupted sector"
+          ],
+          "answer": "Reading data written by an uncommitted transaction",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_16",
+          "question": "Which of the following states is NOT part of a Transaction Lifecycle?",
+          "options": [
+            "Active",
+            "Partially Committed",
+            "Failed",
+            "Blocked"
+          ],
+          "answer": "Blocked",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_17",
+          "question": "Scenario: SELECT 10 + NULL; What is the result?",
+          "options": [
+            "10",
+            "0",
+            "NULL",
+            "Error"
+          ],
+          "answer": "NULL",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_18",
+          "question": "Which SQL object automatically executes in response to certain events on a table?",
+          "options": [
+            "Procedure",
+            "Trigger",
+            "View",
+            "Function"
+          ],
+          "answer": "Trigger",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_19",
+          "question": "Scenario: Table A has IDs {1, 2, 3}. Table B has IDs {2, 3, 4}. What does (SELECT ID FROM A) UNION (SELECT ID FROM B) return?",
+          "options": [
+            "{1, 2, 3, 2, 3, 4}",
+            "{1, 2, 3, 4}",
+            "{2, 3}",
+            "{1, 4}"
+          ],
+          "answer": "{1, 2, 3, 4}",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_20",
+          "question": "Scenario: Same tables as above. What does UNION ALL return?",
+          "options": [
+            "{1, 2, 3, 4}",
+            "{1, 2, 3, 2, 3, 4}",
+            "{1, 2, 2, 3, 3, 4}",
+            "{1, 2, 3, 4} unique"
+          ],
+          "answer": "{1, 2, 3, 2, 3, 4}",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_21",
+          "question": "Which command is used to remove the definition of a VIEW?",
+          "options": [
+            "DELETE VIEW",
+            "DROP VIEW",
+            "REMOVE VIEW",
+            "TRUNCATE VIEW"
+          ],
+          "answer": "DROP VIEW",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_22",
+          "question": "Ideally, the Clustered Index is created on which column?",
+          "options": [
+            "Any column with text",
+            "Primary Key column",
+            "Column with many NULLs",
+            "Foreign Key column"
+          ],
+          "answer": "Primary Key column",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_23",
+          "question": "What is the result of a NATURAL JOIN between Table R(A, B) and S(B, C)?",
+          "options": [
+            "A table with columns (A, B, B, C)",
+            "A table with columns (A, B, C) where R.B = S.B",
+            "Cartesian Product",
+            "Error"
+          ],
+          "answer": "A table with columns (A, B, C) where R.B = S.B",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_24",
+          "question": "Scenario: Query: SELECT avg(salary) FROM Emp WHERE salary > 10000; If no employees match, what is the result?",
+          "options": [
+            "0",
+            "NULL",
+            "Error",
+            "Empty Set"
+          ],
+          "answer": "NULL",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_25",
+          "question": "Which protocol ensures serializability in concurrency control?",
+          "options": [
+            "Two-Phase Locking (2PL)",
+            "TCP/IP",
+            "HTTP",
+            "Round Robin"
+          ],
+          "answer": "Two-Phase Locking (2PL)",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_26",
+          "question": "Checkpoints are used in DBMS for:",
+          "options": [
+            "Concurrency",
+            "Recovery",
+            "Security",
+            "Deadlock Prevention"
+          ],
+          "answer": "Recovery",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_27",
+          "question": "A stored procedure in SQL is:",
+          "options": [
+            "A precompiled collection of SQL statements",
+            "A temporary table",
+            "A type of index",
+            "A graphical tool"
+          ],
+          "answer": "A precompiled collection of SQL statements",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_28",
+          "question": "Scenario: Table has column 'City'. Values: {'Delhi', 'Mumbai', 'Delhi'}. Query: SELECT count(DISTINCT City) FROM Table;",
+          "options": [
+            "3",
+            "2",
+            "1",
+            "Error"
+          ],
+          "answer": "2",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_29",
+          "question": "Which of the following is an example of a composite attribute?",
+          "options": [
+            "Age",
+            "Address (Street, City, Zip)",
+            "Salary",
+            "Gender"
+          ],
+          "answer": "Address (Street, City, Zip)",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L3_30",
+          "question": "To perform pattern matching with a specific range of characters, we use:",
+          "options": [
+            "[]",
+            "{}",
+            "()",
+            "<>"
+          ],
+          "answer": "[]",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "level_id": 4,
+      "difficulty": "Difficult",
+      "description": "Concurrency Control, Deadlocks, and B-Trees",
+      "questions": [
+        {
+          "id": "DBMS_L4_01",
+          "question": "In a Wait-for graph, if there is a cycle, it indicates:",
+          "options": [
+            "Starvation",
+            "Deadlock",
+            "Consistency",
+            "Isolation"
+          ],
+          "answer": "Deadlock",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_02",
+          "question": "Which deadlock prevention scheme kills the younger transaction that requests a resource held by an older transaction?",
+          "options": [
+            "Wait-Die",
+            "Wound-Wait",
+            "Banker's Algorithm",
+            "Two-Phase Locking"
+          ],
+          "answer": "Wound-Wait",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_03",
+          "question": "Scenario: Transaction T1 holds a lock on Row A. Transaction T2 requests a lock on Row A. T2 waits. T1 then requests a lock on Row B held by T2. This situation is called:",
+          "options": [
+            "Livelock",
+            "Deadlock",
+            "Starvation",
+            "Circular Wait"
+          ],
+          "answer": "Deadlock",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_04",
+          "question": "Write-Ahead Logging (WAL) protocol ensures which property of a transaction?",
+          "options": [
+            "Atomicity and Durability",
+            "Consistency",
+            "Isolation",
+            "Concurrency"
+          ],
+          "answer": "Atomicity and Durability",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_05",
+          "question": "Scenario: SELECT * FROM Emp e1 WHERE 3 = (SELECT COUNT(DISTINCT salary) FROM Emp e2 WHERE e2.salary > e1.salary); What does this query return?",
+          "options": [
+            "Employee with 3rd highest salary",
+            "Employee with 3rd lowest salary",
+            "Top 3 employees",
+            "Error"
+          ],
+          "answer": "Employee with 3rd highest salary",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_06",
+          "question": "Which phase of Two-Phase Locking (2PL) allows a transaction to acquire locks but not release any?",
+          "options": [
+            "Growing Phase",
+            "Shrinking Phase",
+            "Commit Phase",
+            "Validation Phase"
+          ],
+          "answer": "Growing Phase",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_07",
+          "question": "A schedule is strictly recoverable if:",
+          "options": [
+            "It is conflict serializable",
+            "A transaction reads only committed data",
+            "A transaction writes only committed data",
+            "It does not contain aborts"
+          ],
+          "answer": "A transaction reads only committed data",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_08",
+          "question": "The 'Thomas Write Rule' is used in:",
+          "options": [
+            "Timestamp Ordering Protocol",
+            "Two-Phase Locking",
+            "Graph Based Protocol",
+            "Validation Based Protocol"
+          ],
+          "answer": "Timestamp Ordering Protocol",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_09",
+          "question": "Which of the following creates a 'Dense Index'?",
+          "options": [
+            "An index record appears for every search key value in the file",
+            "An index record appears for only some values",
+            "An index on a non-sorted file",
+            "An index on the primary key"
+          ],
+          "answer": "An index record appears for every search key value in the file",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_10",
+          "question": "Scenario: SELECT name FROM Student S WHERE EXISTS (SELECT * FROM Enrolled E WHERE S.id = E.id AND E.grade = 'A'); This is an example of:",
+          "options": [
+            "Uncorrelated Subquery",
+            "Correlated Subquery",
+            "Self Join",
+            "Outer Join"
+          ],
+          "answer": "Correlated Subquery",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_11",
+          "question": "Which normal form deals with Multi-valued Dependencies (MVD)?",
+          "options": [
+            "3NF",
+            "BCNF",
+            "4NF",
+            "5NF"
+          ],
+          "answer": "4NF",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_12",
+          "question": "In the context of RAID, what does 'Mirroring' (RAID 1) provide?",
+          "options": [
+            "High speed but low redundancy",
+            "Redundancy but high cost (storage)",
+            "Parity checking",
+            "No redundancy"
+          ],
+          "answer": "Redundancy but high cost (storage)",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_13",
+          "question": "Which keyword is used to handle exceptions in PL/SQL blocks?",
+          "options": [
+            "CATCH",
+            "EXCEPTION",
+            "ERROR",
+            "HANDLE"
+          ],
+          "answer": "EXCEPTION",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_14",
+          "question": "Scenario: UPDATE Account SET balance = balance + 100 WHERE id = 1; If this runs in Read Committed isolation, does it acquire a write lock?",
+          "options": [
+            "Yes, Exclusive Lock",
+            "Yes, Shared Lock",
+            "No, it uses Snapshot",
+            "No, it uses Optimistic locking"
+          ],
+          "answer": "Yes, Exclusive Lock",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_15",
+          "question": "What is the 'Halloween Problem' in databases?",
+          "options": [
+            "A virus in SQL server",
+            "An anomaly where an update operation moves a row forward in the index, causing it to be updated again",
+            "A deadlock occurring on Oct 31st",
+            "A security breach"
+          ],
+          "answer": "An anomaly where an update operation moves a row forward in the index, causing it to be updated again",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_16",
+          "question": "Shadow Paging is a technique used for:",
+          "options": [
+            "Deadlock Prevention",
+            "Database Recovery",
+            "Query Optimization",
+            "Normalization"
+          ],
+          "answer": "Database Recovery",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_17",
+          "question": "Which of the following is NOT a property of a B+ Tree?",
+          "options": [
+            "All leaf nodes are at the same depth",
+            "Leaf nodes are linked together",
+            "Data is stored in internal nodes",
+            "Root has at least two children"
+          ],
+          "answer": "Data is stored in internal nodes",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_18",
+          "question": "Scenario: SELECT * FROM Table WHERE Col1 = 10 AND Col2 = 20; If there is an index on (Col1, Col2) and another on (Col2, Col1), which is better?",
+          "options": [
+            "(Col1, Col2)",
+            "(Col2, Col1)",
+            "Both are equally good",
+            "Depends on cardinality/selectivity of columns"
+          ],
+          "answer": "Depends on cardinality/selectivity of columns",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_19",
+          "question": "The 'Cascading Rollback' problem is avoided by:",
+          "options": [
+            "Strict Two-Phase Locking",
+            "Basic Two-Phase Locking",
+            "Conservative Two-Phase Locking",
+            "None of these"
+          ],
+          "answer": "Strict Two-Phase Locking",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_20",
+          "question": "A 'View' in SQL is generally read-only if it contains:",
+          "options": [
+            "A WHERE clause",
+            "DISTINCT, GROUP BY or Aggregate functions",
+            "A JOIN",
+            "An ORDER BY clause"
+          ],
+          "answer": "DISTINCT, GROUP BY or Aggregate functions",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_21",
+          "question": "Scenario: DELETE FROM Table vs TRUNCATE TABLE. Which one can be rolled back in most databases (like Oracle/SQL Server) if inside a transaction?",
+          "options": [
+            "Only DELETE",
+            "Only TRUNCATE",
+            "Both",
+            "Neither"
+          ],
+          "answer": "Both",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_22",
+          "question": "Which algorithm is used for Deadlock Detection?",
+          "options": [
+            "Wait-for Graph",
+            "Banker's Algorithm",
+            "Wait-Die",
+            "Wound-Wait"
+          ],
+          "answer": "Wait-for Graph",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_23",
+          "question": "In distributed databases, the Two-Phase Commit (2PC) protocol is used to ensure:",
+          "options": [
+            "Performance",
+            "Atomicity across sites",
+            "Security",
+            "Deadlock freedom"
+          ],
+          "answer": "Atomicity across sites",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_24",
+          "question": "What is 'Database Sharding'?",
+          "options": [
+            "Backing up the database",
+            "Horizontal partitioning of data across multiple servers",
+            "Vertical partitioning of columns",
+            "Creating an index"
+          ],
+          "answer": "Horizontal partitioning of data across multiple servers",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_25",
+          "question": "Lossless Join Decomposition is guaranteed by:",
+          "options": [
+            "Primary Key constraint",
+            "Foreign Key constraint",
+            "Common attribute being a candidate key in at least one relation",
+            "3NF"
+          ],
+          "answer": "Common attribute being a candidate key in at least one relation",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_26",
+          "question": "Scenario: SELECT COALESCE(NULL, NULL, 'Third', 'Fourth'); What is the result?",
+          "options": [
+            "NULL",
+            "Third",
+            "Fourth",
+            "Error"
+          ],
+          "answer": "Third",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_27",
+          "question": "Which of these is a 'Bitmap Index' best suited for?",
+          "options": [
+            "Columns with high cardinality (many unique values)",
+            "Columns with low cardinality (few unique values like Gender)",
+            "Primary Keys",
+            "Text descriptions"
+          ],
+          "answer": "Columns with low cardinality (few unique values like Gender)",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_28",
+          "question": "In SQL, the execution order of clauses is:",
+          "options": [
+            "SELECT -> FROM -> WHERE -> GROUP BY",
+            "FROM -> WHERE -> GROUP BY -> HAVING -> SELECT",
+            "WHERE -> FROM -> SELECT -> ORDER BY",
+            "SELECT -> WHERE -> FROM -> HAVING"
+          ],
+          "answer": "FROM -> WHERE -> GROUP BY -> HAVING -> SELECT",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_29",
+          "question": "What is the 'Double Buffering' technique used for?",
+          "options": [
+            "To prevent deadlocks",
+            "To allow CPU processing while I/O is happening",
+            "To store two copies of data",
+            "To index data twice"
+          ],
+          "answer": "To allow CPU processing while I/O is happening",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L4_30",
+          "question": "Scenario: Query: SELECT count(1) FROM Table; vs SELECT count(*) FROM Table; Which is faster?",
+          "options": [
+            "count(1)",
+            "count(*)",
+            "They are identical in modern optimizers",
+            "Depends on index"
+          ],
+          "answer": "They are identical in modern optimizers",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "level_id": 5,
+      "difficulty": "Very Difficult",
+      "description": "Query Optimization, Distributed DB, and Recovery",
+      "questions": [
+        {
+          "id": "DBMS_L5_01",
+          "question": "According to the CAP Theorem, a distributed database can satisfy at most two of which three guarantees?",
+          "options": [
+            "Consistency, Availability, Partition Tolerance",
+            "Concurrency, Availability, Performance",
+            "Consistency, Atomicity, Partition Tolerance",
+            "Consistency, Availability, Persistence"
+          ],
+          "answer": "Consistency, Availability, Partition Tolerance",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_02",
+          "question": "In the context of NoSQL databases, what does BASE stand for?",
+          "options": [
+            "Basic Availability, Soft state, Eventual consistency",
+            "Basic Atomicity, Soft state, Eventual consistency",
+            "Big Availability, Stable state, Eventual consistency",
+            "Basic Availability, Stable state, Eventual concurrency"
+          ],
+          "answer": "Basic Availability, Soft state, Eventual consistency",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_03",
+          "question": "Which of the following is a Column-Oriented Database (optimized for analytics/OLAP)?",
+          "options": [
+            "Cassandra",
+            "PostgreSQL",
+            "MySQL",
+            "MongoDB"
+          ],
+          "answer": "Cassandra",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_04",
+          "question": "Scenario: You have a table with 100 million rows. You need to frequently run aggregations (SUM, AVG) on it. What is the best optimization technique?",
+          "options": [
+            "Create a Clustered Index",
+            "Create a Materialized View",
+            "Increase RAM",
+            "Use a Trigger"
+          ],
+          "answer": "Create a Materialized View",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_05",
+          "question": "What is the 'ARIES' algorithm used for?",
+          "options": [
+            "Query Optimization",
+            "Database Recovery",
+            "Deadlock Prevention",
+            "Encryption"
+          ],
+          "answer": "Database Recovery",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_06",
+          "question": "Scenario: Query A uses an Index Scan. Query B uses a Table Scan. If the table is very small, which is likely faster?",
+          "options": [
+            "Index Scan",
+            "Table Scan",
+            "Both are same",
+            "Depends on caching"
+          ],
+          "answer": "Table Scan",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_07",
+          "question": "Which join algorithm is most efficient when both relations are sorted on the join attribute?",
+          "options": [
+            "Nested Loop Join",
+            "Hash Join",
+            "Sort-Merge Join",
+            "Block Nested Loop"
+          ],
+          "answer": "Sort-Merge Join",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_08",
+          "question": "In a Star Schema (Data Warehousing), the central table is called:",
+          "options": [
+            "Dimension Table",
+            "Fact Table",
+            "Lookup Table",
+            "Master Table"
+          ],
+          "answer": "Fact Table",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_09",
+          "question": "What is 'Write Skew' anomaly?",
+          "options": [
+            "Two transactions read the same data, but update disjoint data based on the read, violating a constraint",
+            "Dirty Read",
+            "Lost Update",
+            "Phantom Read"
+          ],
+          "answer": "Two transactions read the same data, but update disjoint data based on the read, violating a constraint",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_10",
+          "question": "Which hashing technique allows the hash file to grow and shrink dynamically?",
+          "options": [
+            "Static Hashing",
+            "Extendible Hashing",
+            "Linear Probing",
+            "Chaining"
+          ],
+          "answer": "Extendible Hashing",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_11",
+          "question": "Scenario: SELECT * FROM Users WHERE age = 25; If 'age' has low selectivity (e.g., millions of users are 25), will the optimizer use the Non-Clustered index on 'age'?",
+          "options": [
+            "Yes, always",
+            "No, it might prefer a Full Table Scan",
+            "Yes, because indexes are always faster",
+            "Depends on the cache"
+          ],
+          "answer": "No, it might prefer a Full Table Scan",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_12",
+          "question": "What is 'Snapshot Isolation' implemented using?",
+          "options": [
+            "Strict Locking",
+            "Multi-Version Concurrency Control (MVCC)",
+            "Two-Phase Commit",
+            "Write-Ahead Logging"
+          ],
+          "answer": "Multi-Version Concurrency Control (MVCC)",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_13",
+          "question": "Which of the following prevents SQL Injection attacks?",
+          "options": [
+            "Using Stored Procedures / Prepared Statements",
+            "Using complex passwords",
+            "Using HTTPS",
+            "Using Indexes"
+          ],
+          "answer": "Using Stored Procedures / Prepared Statements",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_14",
+          "question": "In Heuristic Query Optimization, which operation is performed as early as possible?",
+          "options": [
+            "Selection (Filtering)",
+            "Join",
+            "Projection",
+            "Cartesian Product"
+          ],
+          "answer": "Selection (Filtering)",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_15",
+          "question": "What is the primary disadvantage of a Snowflake Schema compared to a Star Schema?",
+          "options": [
+            "Uses more space",
+            "Complex queries due to more joins",
+            "Lower normalization",
+            "Redundant data"
+          ],
+          "answer": "Complex queries due to more joins",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_16",
+          "question": "What is 'Consistent Hashing' used for in Distributed Systems?",
+          "options": [
+            "Encrypting passwords",
+            "Distributing data across nodes to minimize reorganization when nodes are added/removed",
+            "Checking data integrity",
+            "Optimizing join queries"
+          ],
+          "answer": "Distributing data across nodes to minimize reorganization when nodes are added/removed",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_17",
+          "question": "Which log record indicates that a transaction has finished?",
+          "options": [
+            "<T, START>",
+            "<T, COMMIT>",
+            "<T, END>",
+            "<T, ABORT>"
+          ],
+          "answer": "<T, END>",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_18",
+          "question": "The 'Semijoin' operation is useful in:",
+          "options": [
+            "Distributed Query Optimization to reduce data transfer",
+            "Normalizing tables",
+            "Creating Views",
+            "Recursive Queries"
+          ],
+          "answer": "Distributed Query Optimization to reduce data transfer",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_19",
+          "question": "What is an 'Inverted Index' primarily used for?",
+          "options": [
+            "Numerical comparisons",
+            "Full-text Search engines",
+            "Primary Key constraints",
+            "Spatial data"
+          ],
+          "answer": "Full-text Search engines",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_20",
+          "question": "Scenario: Table has 1 billion rows. You need to delete 10 million old rows. What is the best practice to avoid locking the table for too long?",
+          "options": [
+            "Delete all in one transaction",
+            "Delete in small batches",
+            "Use TRUNCATE",
+            "Drop the table"
+          ],
+          "answer": "Delete in small batches",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_21",
+          "question": "Which NoSQL database type is best for storing social network graphs?",
+          "options": [
+            "Key-Value Store",
+            "Document Store",
+            "Graph Database",
+            "Column Store"
+          ],
+          "answer": "Graph Database",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_22",
+          "question": "The Three-Phase Commit (3PC) protocol overcomes which disadvantage of 2PC?",
+          "options": [
+            "Blocking problem on coordinator failure",
+            "High latency",
+            "Complexity",
+            "Data redundancy"
+          ],
+          "answer": "Blocking problem on coordinator failure",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_23",
+          "question": "What is 'Database Refactoring'?",
+          "options": [
+            "Designing the schema from scratch",
+            "Small changes to the schema that improve design without changing semantics",
+            "Backing up data",
+            "Migrating to cloud"
+          ],
+          "answer": "Small changes to the schema that improve design without changing semantics",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_24",
+          "question": "Which of these is NOT a technique for Database Recovery?",
+          "options": [
+            "Deferred Update",
+            "Immediate Update",
+            "Shadow Paging",
+            "Two-Phase Locking"
+          ],
+          "answer": "Two-Phase Locking",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_25",
+          "question": "Scenario: A query performs poorly. You see 'Table Scan' in the plan. You create an index, but the plan doesn't change. Why?",
+          "options": [
+            "The optimizer statistics might be stale",
+            "Indexes never help",
+            "The table is read-only",
+            "The query is cached"
+          ],
+          "answer": "The optimizer statistics might be stale",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_26",
+          "question": "What is 'Vertical Partitioning'?",
+          "options": [
+            "Splitting a table by rows",
+            "Splitting a table by columns into different tables",
+            "Storing data on different servers",
+            "Creating a backup"
+          ],
+          "answer": "Splitting a table by columns into different tables",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_27",
+          "question": "In a distributed DB, 'Replication Transparency' means:",
+          "options": [
+            "User knows exactly which replica is accessed",
+            "User does not need to know that data is replicated",
+            "Data is never replicated",
+            "Replication is manual"
+          ],
+          "answer": "User does not need to know that data is replicated",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_28",
+          "question": "Which cost metric is most dominant in Database Query Optimization?",
+          "options": [
+            "CPU cycles",
+            "Disk I/O access",
+            "Network bandwidth",
+            "RAM usage"
+          ],
+          "answer": "Disk I/O access",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_29",
+          "question": "What is the 'Burglar Problem' in MVCC?",
+          "options": [
+            "A security breach",
+            "A conflict where a transaction sees a consistent snapshot but updates based on stale data",
+            "A deadlock",
+            "A lost update"
+          ],
+          "answer": "A conflict where a transaction sees a consistent snapshot but updates based on stale data",
+          "image_url": null
+        },
+        {
+          "id": "DBMS_L5_30",
+          "question": "Scenario: 'SELECT * FROM T WHERE A=10 OR B=20'. If there is an index on A and an index on B, how can the DB use both?",
+          "options": [
+            "It cannot, it must pick one",
+            "Index Merge (Union) Optimization",
+            "Full Table Scan",
+            "Cartesian Product"
+          ],
+          "answer": "Index Merge (Union) Optimization",
+          "image_url": null
+        }
+      ]
+    }
+  ]
+}

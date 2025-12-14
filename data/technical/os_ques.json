@@ -1,0 +1,1840 @@
+{
+  "topic": "Operating Systems",
+  "levels": [
+    {
+      "level_id": 1,
+      "difficulty": "Easy",
+      "description": "OS Basics, Process States, and System Calls",
+      "questions": [
+        {
+          "id": "OS_L1_01",
+          "question": "What is the core part of the Operating System called?",
+          "options": [
+            "Shell",
+            "Kernel",
+            "Command Line",
+            "Scheduler"
+          ],
+          "answer": "Kernel",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_02",
+          "question": "Which of the following is NOT an Operating System?",
+          "options": [
+            "Linux",
+            "Windows",
+            "Oracle",
+            "Android"
+          ],
+          "answer": "Oracle",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_03",
+          "question": "What is the interface between the user and the kernel called?",
+          "options": [
+            "System Call",
+            "Shell",
+            "Compiler",
+            "Library"
+          ],
+          "answer": "Shell",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_04",
+          "question": "In a Time-Sharing OS, the time slot given to each process is called:",
+          "options": [
+            "Latency",
+            "Turnaround Time",
+            "Quantum",
+            "Response Time"
+          ],
+          "answer": "Quantum",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_05",
+          "question": "Which system call is used to create a new process in Unix/Linux?",
+          "options": [
+            "create()",
+            "new()",
+            "fork()",
+            "exec()"
+          ],
+          "answer": "fork()",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_06",
+          "question": "What is a 'Process' in OS terms?",
+          "options": [
+            "A program in execution",
+            "A program stored on disk",
+            "A hardware component",
+            "A system call"
+          ],
+          "answer": "A program in execution",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_07",
+          "question": "Which state does a process enter when it is waiting for an I/O event?",
+          "options": [
+            "Running",
+            "Ready",
+            "Waiting/Blocked",
+            "Terminated"
+          ],
+          "answer": "Waiting/Blocked",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_08",
+          "question": "Which scheduling algorithm executes the process that arrives first?",
+          "options": [
+            "SJF",
+            "FCFS",
+            "Round Robin",
+            "Priority"
+          ],
+          "answer": "FCFS",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_09",
+          "question": "What is 'Virtual Memory'?",
+          "options": [
+            "Memory on the graphics card",
+            "An illusion of large memory using Secondary Storage (Disk)",
+            "A type of RAM",
+            "Cache memory"
+          ],
+          "answer": "An illusion of large memory using Secondary Storage (Disk)",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_10",
+          "question": "Which command in Linux is used to list files?",
+          "options": [
+            "cd",
+            "ls",
+            "mv",
+            "cp"
+          ],
+          "answer": "ls",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_11",
+          "question": "What is a 'Thread'?",
+          "options": [
+            "A heavy weight process",
+            "A light weight process",
+            "A separate program",
+            "A system call"
+          ],
+          "answer": "A light weight process",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_12",
+          "question": "Which component is responsible for allocating CPU to processes?",
+          "options": [
+            "Dispatcher",
+            "Scheduler",
+            "Kernel",
+            "Shell"
+          ],
+          "answer": "Scheduler",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_13",
+          "question": "The mechanism that brings a page from disk to memory is called:",
+          "options": [
+            "Segmentation",
+            "Fragmentation",
+            "Paging",
+            "Swapping"
+          ],
+          "answer": "Paging",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_14",
+          "question": "Which of these is a Real-Time Operating System (RTOS)?",
+          "options": [
+            "Windows 10",
+            "VxWorks",
+            "MS-DOS",
+            "Ubuntu"
+          ],
+          "answer": "VxWorks",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_15",
+          "question": "What is 'Context Switching'?",
+          "options": [
+            "Saving the state of the old process and loading the saved state of the new process",
+            "Switching between Kernel and User mode",
+            "Switching between CPU and Disk",
+            "Renaming a file"
+          ],
+          "answer": "Saving the state of the old process and loading the saved state of the new process",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_16",
+          "question": "Which memory management technique suffers from External Fragmentation?",
+          "options": [
+            "Paging",
+            "Segmentation",
+            "Virtual Memory",
+            "None of these"
+          ],
+          "answer": "Segmentation",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_17",
+          "question": "FIFO is a type of:",
+          "options": [
+            "Page Replacement Algorithm",
+            "Disk Scheduling",
+            "CPU Scheduling",
+            "All of the above"
+          ],
+          "answer": "All of the above",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_18",
+          "question": "Which file system is commonly used in Windows?",
+          "options": [
+            "EXT4",
+            "NTFS",
+            "HFS+",
+            "ZFS"
+          ],
+          "answer": "NTFS",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_19",
+          "question": "A deadlock situation can arise if:",
+          "options": [
+            "There is Mutual Exclusion",
+            "There is Hold and Wait",
+            "There is No Preemption",
+            "All of the above"
+          ],
+          "answer": "All of the above",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_20",
+          "question": "Which command is used to remove a directory in Linux?",
+          "options": [
+            "rm",
+            "rmdir",
+            "del",
+            "erase"
+          ],
+          "answer": "rmdir",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_21",
+          "question": "Bootstrap program is stored in:",
+          "options": [
+            "RAM",
+            "ROM (BIOS)",
+            "Hard Disk",
+            "Cache"
+          ],
+          "answer": "ROM (BIOS)",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_22",
+          "question": "What is the purpose of 'PCB'?",
+          "options": [
+            "Process Control Block",
+            "Program Control Block",
+            "Process Central Block",
+            "Program Central Block"
+          ],
+          "answer": "Process Control Block",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_23",
+          "question": "Which of the following is a non-preemptive scheduling algorithm?",
+          "options": [
+            "Round Robin",
+            "FCFS",
+            "SRTF",
+            "Multilevel Queue"
+          ],
+          "answer": "FCFS",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_24",
+          "question": "The time taken for the disk arm to move the head to the desired cylinder is called:",
+          "options": [
+            "Seek Time",
+            "Latency",
+            "Transfer Time",
+            "Access Time"
+          ],
+          "answer": "Seek Time",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_25",
+          "question": "Which type of OS is used in an MP3 player?",
+          "options": [
+            "Batch OS",
+            "Embedded OS",
+            "Network OS",
+            "Distributed OS"
+          ],
+          "answer": "Embedded OS",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_26",
+          "question": "Which symbol represents a pipe in Linux/Unix?",
+          "options": [
+            ">",
+            "<",
+            "|",
+            "#"
+          ],
+          "answer": "|",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_27",
+          "question": "Swapping is performed by:",
+          "options": [
+            "Short Term Scheduler",
+            "Medium Term Scheduler",
+            "Long Term Scheduler",
+            "Dispatcher"
+          ],
+          "answer": "Medium Term Scheduler",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_28",
+          "question": "Which of the following is not a state in the 5-state process model?",
+          "options": [
+            "New",
+            "Ready",
+            "Running",
+            "Deleted"
+          ],
+          "answer": "Deleted",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_29",
+          "question": "Inter-Process Communication (IPC) can be done via:",
+          "options": [
+            "Shared Memory",
+            "Message Passing",
+            "Both",
+            "Neither"
+          ],
+          "answer": "Both",
+          "image_url": null
+        },
+        {
+          "id": "OS_L1_30",
+          "question": "In Linux, the Root user is represented by which symbol?",
+          "options": [
+            "$",
+            "#",
+            "%",
+            "@"
+          ],
+          "answer": "#",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "level_id": 2,
+      "difficulty": "Medium",
+      "description": "Scheduling Algorithms and Memory Management",
+      "questions": [
+        {
+          "id": "OS_L2_01",
+          "question": "Which scheduling algorithm is provably optimal for minimizing average waiting time?",
+          "options": [
+            "First-Come, First-Served (FCFS)",
+            "Shortest Job First (SJF)",
+            "Round Robin (RR)",
+            "Priority Scheduling"
+          ],
+          "answer": "Shortest Job First (SJF)",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_02",
+          "question": "The 'Convoy Effect' is a disadvantage mainly associated with which scheduling algorithm?",
+          "options": [
+            "Round Robin",
+            "Shortest Job First",
+            "First-Come, First-Served",
+            "Multilevel Queue"
+          ],
+          "answer": "First-Come, First-Served",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_03",
+          "question": "Which scheduling algorithm is designed specifically for Time-Sharing systems?",
+          "options": [
+            "Shortest Job First",
+            "Round Robin",
+            "FCFS",
+            "SJF"
+          ],
+          "answer": "Round Robin",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_04",
+          "question": "In Priority Scheduling, what is the problem where low priority processes may never execute?",
+          "options": [
+            "Deadlock",
+            "Aging",
+            "Starvation",
+            "Convoy Effect"
+          ],
+          "answer": "Starvation",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_05",
+          "question": "What is the technique used to solve the problem of Starvation?",
+          "options": [
+            "Paging",
+            "Aging",
+            "Compaction",
+            "Swapping"
+          ],
+          "answer": "Aging",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_06",
+          "question": "Which memory allocation policy allocates the smallest hole that is big enough?",
+          "options": [
+            "First Fit",
+            "Best Fit",
+            "Worst Fit",
+            "Next Fit"
+          ],
+          "answer": "Best Fit",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_07",
+          "question": "Which memory allocation policy allocates the first hole that is big enough?",
+          "options": [
+            "First Fit",
+            "Best Fit",
+            "Worst Fit",
+            "Quick Fit"
+          ],
+          "answer": "First Fit",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_08",
+          "question": "Internal Fragmentation occurs when:",
+          "options": [
+            "Total memory space is enough, but not contiguous",
+            "Allocated memory may be slightly larger than requested memory",
+            "Pages are not loaded into memory",
+            "Disk space is full"
+          ],
+          "answer": "Allocated memory may be slightly larger than requested memory",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_09",
+          "question": "External Fragmentation exists when:",
+          "options": [
+            "Total memory space exists to satisfy a request, but it is not contiguous",
+            "Partition size is smaller than process size",
+            "Process is larger than physical memory",
+            "Page size is too small"
+          ],
+          "answer": "Total memory space exists to satisfy a request, but it is not contiguous",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_10",
+          "question": "Which technique is used to cure External Fragmentation?",
+          "options": [
+            "Paging",
+            "Compaction",
+            "Segmentation",
+            "Aging"
+          ],
+          "answer": "Compaction",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_11",
+          "question": "The time it takes for a process to switch from the 'New' state to the 'Terminated' state is called:",
+          "options": [
+            "Waiting Time",
+            "Response Time",
+            "Turnaround Time",
+            "Burst Time"
+          ],
+          "answer": "Turnaround Time",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_12",
+          "question": "Which scheduler controls the 'Degree of Multiprogramming'?",
+          "options": [
+            "Short-Term Scheduler",
+            "Medium-Term Scheduler",
+            "Long-Term Scheduler",
+            "Dispatcher"
+          ],
+          "answer": "Long-Term Scheduler",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_13",
+          "question": "The address generated by the CPU is known as:",
+          "options": [
+            "Physical Address",
+            "Logical Address",
+            "Absolute Address",
+            "Mac Address"
+          ],
+          "answer": "Logical Address",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_14",
+          "question": "The hardware unit that maps logical addresses to physical addresses is:",
+          "options": [
+            "ALU",
+            "MMU (Memory Management Unit)",
+            "Control Unit",
+            "Bus Interface Unit"
+          ],
+          "answer": "MMU (Memory Management Unit)",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_15",
+          "question": "Which scheduling algorithm is 'Preemptive'?",
+          "options": [
+            "FCFS",
+            "SJF (Non-preemptive)",
+            "SRTF (Shortest Remaining Time First)",
+            "None of these"
+          ],
+          "answer": "SRTF (Shortest Remaining Time First)",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_16",
+          "question": "In Round Robin scheduling, if the Time Quantum is very large, it behaves like:",
+          "options": [
+            "SJF",
+            "FCFS",
+            "SRTF",
+            "Priority"
+          ],
+          "answer": "FCFS",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_17",
+          "question": "What is the main function of the Dispatcher?",
+          "options": [
+            "Selecting a process from queue",
+            "Giving control of the CPU to the process selected by Short-term Scheduler",
+            "Loading process from disk",
+            "Handling Interrupts"
+          ],
+          "answer": "Giving control of the CPU to the process selected by Short-term Scheduler",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_18",
+          "question": "Which of these is NOT a necessary condition for Deadlock?",
+          "options": [
+            "Mutual Exclusion",
+            "Hold and Wait",
+            "No Preemption",
+            "Starvation"
+          ],
+          "answer": "Starvation",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_19",
+          "question": "Banker's Algorithm is used for:",
+          "options": [
+            "Deadlock Prevention",
+            "Deadlock Avoidance",
+            "Deadlock Detection",
+            "Deadlock Recovery"
+          ],
+          "answer": "Deadlock Avoidance",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_20",
+          "question": "A process that has terminated, but whose parent has not yet called wait(), is known as:",
+          "options": [
+            "Orphan Process",
+            "Zombie Process",
+            "Daemon Process",
+            "Child Process"
+          ],
+          "answer": "Zombie Process",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_21",
+          "question": "Response Time is the time from:",
+          "options": [
+            "Submission of request to completion",
+            "Submission of request to first output",
+            "Arrival to Completion",
+            "Arrival to Waiting"
+          ],
+          "answer": "Submission of request to first output",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_22",
+          "question": "Dynamic Loading means:",
+          "options": [
+            "Loading the entire program at once",
+            "Loading a routine only when it is called",
+            "Linking libraries at compile time",
+            "Loading the kernel"
+          ],
+          "answer": "Loading a routine only when it is called",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_23",
+          "question": "Which memory allocation strategy suffers the most from External Fragmentation?",
+          "options": [
+            "First Fit",
+            "Best Fit",
+            "Worst Fit",
+            "Next Fit"
+          ],
+          "answer": "Best Fit",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_24",
+          "question": "If a system has 3 processes and 4 resources of the same type, and each process needs 2 resources, is Deadlock possible?",
+          "options": [
+            "Yes",
+            "No",
+            "Depends on OS",
+            "Depends on Scheduling"
+          ],
+          "answer": "No",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_25",
+          "question": "What is 'Thrashing'?",
+          "options": [
+            "High CPU utilization",
+            "A state where the CPU spends more time swapping pages than executing",
+            "A virus attack",
+            "Hard disk failure"
+          ],
+          "answer": "A state where the CPU spends more time swapping pages than executing",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_26",
+          "question": "The interval from the time of submission of a process to the time of completion is:",
+          "options": [
+            "Waiting Time",
+            "Turnaround Time",
+            "Response Time",
+            "Throughput"
+          ],
+          "answer": "Turnaround Time",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_27",
+          "question": "Which scheduler handles 'Swapping' (moving processes in/out of memory)?",
+          "options": [
+            "Long-Term Scheduler",
+            "Short-Term Scheduler",
+            "Medium-Term Scheduler",
+            "Job Scheduler"
+          ],
+          "answer": "Medium-Term Scheduler",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_28",
+          "question": "User-level threads are managed by:",
+          "options": [
+            "Kernel",
+            "Thread library",
+            "Hardware",
+            "Operating System"
+          ],
+          "answer": "Thread library",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_29",
+          "question": "Which command allows you to view the current running processes in Linux?",
+          "options": [
+            "ps",
+            "list",
+            "proc",
+            "run"
+          ],
+          "answer": "ps",
+          "image_url": null
+        },
+        {
+          "id": "OS_L2_30",
+          "question": "The primary purpose of an Operating System is:",
+          "options": [
+            "To make the most efficient use of the computer hardware",
+            "To allow people to use the computer",
+            "To keep systems programmers employed",
+            "To make computers fast"
+          ],
+          "answer": "To make the most efficient use of the computer hardware",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "level_id": 3,
+      "difficulty": "Intermediate",
+      "description": "Deadlocks and Synchronization",
+      "questions": [
+        {
+          "id": "OS_L3_01",
+          "question": "Which of the following is NOT a necessary condition for a Deadlock to occur?",
+          "options": [
+            "Mutual Exclusion",
+            "Hold and Wait",
+            "Preemption",
+            "Circular Wait"
+          ],
+          "answer": "Preemption",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_02",
+          "question": "A 'Semaphore' is a variable that is used for:",
+          "options": [
+            "Memory Management",
+            "Process Synchronization",
+            "Deadlock Recovery",
+            "CPU Scheduling"
+          ],
+          "answer": "Process Synchronization",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_03",
+          "question": "The 'Critical Section' is a part of code where:",
+          "options": [
+            "A process accesses shared resources",
+            "A process is terminated",
+            "A process is initialized",
+            "A process is waiting for I/O"
+          ],
+          "answer": "A process accesses shared resources",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_04",
+          "question": "What is the main difference between a Mutex and a Binary Semaphore?",
+          "options": [
+            "Mutex can be unlocked by any thread",
+            "Mutex has ownership (only owner can unlock)",
+            "Binary Semaphore has ownership",
+            "There is no difference"
+          ],
+          "answer": "Mutex has ownership (only owner can unlock)",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_05",
+          "question": "The 'Dining Philosophers Problem' is a classic example of:",
+          "options": [
+            "Memory Fragmentation",
+            "Process Synchronization and Deadlock",
+            "CPU Scheduling",
+            "Paging"
+          ],
+          "answer": "Process Synchronization and Deadlock",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_06",
+          "question": "Which threading model maps many user-level threads to one kernel thread?",
+          "options": [
+            "One-to-One",
+            "Many-to-One",
+            "Many-to-Many",
+            "One-to-Many"
+          ],
+          "answer": "Many-to-One",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_07",
+          "question": "What is a 'Spinlock'?",
+          "options": [
+            "A lock that causes a thread to wait in a loop while checking if the lock is available",
+            "A lock that puts the thread to sleep",
+            "A lock used for disk scheduling",
+            "A deadlock situation"
+          ],
+          "answer": "A lock that causes a thread to wait in a loop while checking if the lock is available",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_08",
+          "question": "The 'Producer-Consumer' problem is also known as:",
+          "options": [
+            "Bounded Buffer Problem",
+            "Readers-Writers Problem",
+            "Dining Philosophers Problem",
+            "Sleeping Barber Problem"
+          ],
+          "answer": "Bounded Buffer Problem",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_09",
+          "question": "What is 'Priority Inversion'?",
+          "options": [
+            "A low priority task holds a resource needed by a high priority task",
+            "High priority task runs before low priority",
+            "Priorities are reversed by the scheduler",
+            "None of these"
+          ],
+          "answer": "A low priority task holds a resource needed by a high priority task",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_10",
+          "question": "Which algorithm is used for Deadlock Detection?",
+          "options": [
+            "Banker's Algorithm",
+            "Resource Allocation Graph",
+            "Round Robin",
+            "Peterson's Solution"
+          ],
+          "answer": "Resource Allocation Graph",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_11",
+          "question": "A 'Monitor' is a module that encapsulates:",
+          "options": [
+            "Shared data structures and procedures that operate on them",
+            "Hardware interrupts",
+            "Page tables",
+            "Process Control Blocks"
+          ],
+          "answer": "Shared data structures and procedures that operate on them",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_12",
+          "question": "Which command in Linux is used to change file permissions?",
+          "options": [
+            "chown",
+            "chmod",
+            "chgrp",
+            "attrib"
+          ],
+          "answer": "chmod",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_13",
+          "question": "What does the 'chmod 777 file.txt' command do?",
+          "options": [
+            "Gives Read/Write/Execute permission to Everyone",
+            "Gives Read permission only",
+            "Deletes the file",
+            "Hides the file"
+          ],
+          "answer": "Gives Read/Write/Execute permission to Everyone",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_14",
+          "question": "Peterson's Solution is a software-based solution to:",
+          "options": [
+            "The Critical Section Problem",
+            "The Deadlock Problem",
+            "The Paging Problem",
+            "The Scheduling Problem"
+          ],
+          "answer": "The Critical Section Problem",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_15",
+          "question": "In the context of Deadlock, what is a 'Safe State'?",
+          "options": [
+            "A state where the system can allocate resources to each process in some order and avoid deadlock",
+            "A state where no process is running",
+            "A state where all resources are free",
+            "A state where CPU usage is low"
+          ],
+          "answer": "A state where the system can allocate resources to each process in some order and avoid deadlock",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_16",
+          "question": "What is the disadvantage of User-Level Threads?",
+          "options": [
+            "They are slow to create",
+            "If one user-level thread blocks, the entire process blocks",
+            "The kernel is aware of them",
+            "They require hardware support"
+          ],
+          "answer": "If one user-level thread blocks, the entire process blocks",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_17",
+          "question": "The 'Wait-for Graph' is used for Deadlock Detection when:",
+          "options": [
+            "There are multiple instances of each resource type",
+            "There is only a single instance of each resource type",
+            "Resources are preemptable",
+            "Always"
+          ],
+          "answer": "There is only a single instance of each resource type",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_18",
+          "question": "Which system call sends a signal to a process (often to terminate it)?",
+          "options": [
+            "kill()",
+            "signal()",
+            "stop()",
+            "end()"
+          ],
+          "answer": "kill()",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_19",
+          "question": "What is a 'Race Condition'?",
+          "options": [
+            "When two threads race to finish first",
+            "The output depends on the sequence or timing of other uncontrollable events",
+            "When the CPU clock speed is too high",
+            "A condition in race car games"
+          ],
+          "answer": "The output depends on the sequence or timing of other uncontrollable events",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_20",
+          "question": "Which is a solution to the Priority Inversion problem?",
+          "options": [
+            "Priority Inheritance Protocol",
+            "Round Robin Scheduling",
+            "Disabling Interrupts",
+            "Using Semaphores"
+          ],
+          "answer": "Priority Inheritance Protocol",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_21",
+          "question": "What is the 'Fork()' system call return value to the Parent process?",
+          "options": [
+            "0",
+            "Process ID of the child",
+            "Negative number",
+            "1"
+          ],
+          "answer": "Process ID of the child",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_22",
+          "question": "What does 'Atomic Operation' mean?",
+          "options": [
+            "An operation that is interrupted frequently",
+            "An operation that completes in a single step without interruption",
+            "An operation involving atoms",
+            "An operation that is very slow"
+          ],
+          "answer": "An operation that completes in a single step without interruption",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_23",
+          "question": "Which IPC mechanism is generally the fastest?",
+          "options": [
+            "Pipes",
+            "Message Queues",
+            "Shared Memory",
+            "Sockets"
+          ],
+          "answer": "Shared Memory",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_24",
+          "question": "A counting semaphore was initialized to 10. Then 6 P (wait) operations and 4 V (signal) operations were completed. The current value of the semaphore is:",
+          "options": [
+            "4",
+            "8",
+            "10",
+            "12"
+          ],
+          "answer": "8",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_25",
+          "question": "What happens if a process calls 'exec()' after 'fork()'?",
+          "options": [
+            "It creates another new process",
+            "It replaces the process's memory space with a new program",
+            "It kills the parent process",
+            "It creates a thread"
+          ],
+          "answer": "It replaces the process's memory space with a new program",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_26",
+          "question": "The 'Belady’s Anomaly' is observed in which Page Replacement Algorithm?",
+          "options": [
+            "LRU",
+            "FIFO",
+            "Optimal",
+            "LFU"
+          ],
+          "answer": "FIFO",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_27",
+          "question": "Which of the following is NOT a type of kernel?",
+          "options": [
+            "Monolithic Kernel",
+            "Micro Kernel",
+            "Hybrid Kernel",
+            "Macro Kernel"
+          ],
+          "answer": "Macro Kernel",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_28",
+          "question": "What is 'Reentrancy'?",
+          "options": [
+            "The ability of a program to be interrupted and called again safely",
+            "Entering a critical section twice",
+            "Recursion",
+            "None of these"
+          ],
+          "answer": "The ability of a program to be interrupted and called again safely",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_29",
+          "question": "In Unix, which file descriptor represents Standard Output (stdout)?",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer": "1",
+          "image_url": null
+        },
+        {
+          "id": "OS_L3_30",
+          "question": "The 'Readers-Writers Problem' gives priority to:",
+          "options": [
+            "Readers",
+            "Writers",
+            "Depends on the variation/implementation",
+            "Neither"
+          ],
+          "answer": "Depends on the variation/implementation",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "level_id": 4,
+      "difficulty": "Difficult",
+      "description": "Paging, Segmentation, and Disk Scheduling",
+      "questions": [
+        {
+          "id": "OS_L4_01",
+          "question": "What is the Translation Lookaside Buffer (TLB) used for?",
+          "options": [
+            "To store page tables on disk",
+            "To cache recently used page table entries for faster address translation",
+            "To store the interrupt vector table",
+            "To buffer disk I/O"
+          ],
+          "answer": "To cache recently used page table entries for faster address translation",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_02",
+          "question": "In a paged memory system, if the Page Size is 4 KB, what is the size of the Offset field in the logical address?",
+          "options": [
+            "10 bits",
+            "12 bits",
+            "14 bits",
+            "16 bits"
+          ],
+          "answer": "12 bits",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_03",
+          "question": "Which Disk Scheduling algorithm is known as the 'Elevator Algorithm'?",
+          "options": [
+            "FCFS",
+            "SSTF",
+            "SCAN",
+            "C-SCAN"
+          ],
+          "answer": "SCAN",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_04",
+          "question": "What is the main advantage of an Inverted Page Table?",
+          "options": [
+            "Faster translation",
+            "Reduced memory usage for page tables",
+            "Simpler hardware",
+            "No internal fragmentation"
+          ],
+          "answer": "Reduced memory usage for page tables",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_05",
+          "question": "The 'Working Set Model' is used to prevent:",
+          "options": [
+            "Deadlocks",
+            "Thrashing",
+            "Fragmentation",
+            "Starvation"
+          ],
+          "answer": "Thrashing",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_06",
+          "question": "In a Unix-style file system, what is an 'Inode'?",
+          "options": [
+            "The file name",
+            "A data structure that stores file metadata (attributes and disk block locations)",
+            "The first block of data",
+            "The directory path"
+          ],
+          "answer": "A data structure that stores file metadata (attributes and disk block locations)",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_07",
+          "question": "Calculate Effective Access Time (EAT) if Memory Access Time is 100ns, TLB Access Time is 20ns, and TLB Hit Ratio is 80%. (Assume single level paging).",
+          "options": [
+            "120 ns",
+            "140 ns",
+            "200 ns",
+            "128 ns"
+          ],
+          "answer": "140 ns",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_08",
+          "question": "Which Disk Scheduling algorithm suffers from the problem of Starvation?",
+          "options": [
+            "SCAN",
+            "SSTF (Shortest Seek Time First)",
+            "FCFS",
+            "C-SCAN"
+          ],
+          "answer": "SSTF (Shortest Seek Time First)",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_09",
+          "question": "What is 'Copy-on-Write' (COW) primarily used for?",
+          "options": [
+            "Disk backups",
+            "Efficient process creation (forking)",
+            "Deadlock recovery",
+            "File system consistency"
+          ],
+          "answer": "Efficient process creation (forking)",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_10",
+          "question": "Which RAID level provides striping with parity (good balance of performance and redundancy)?",
+          "options": [
+            "RAID 0",
+            "RAID 1",
+            "RAID 5",
+            "RAID 10"
+          ],
+          "answer": "RAID 5",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_11",
+          "question": "In paging, 'Internal Fragmentation' is possible:",
+          "options": [
+            "In the page table",
+            "In the last page of a process",
+            "In the TLB",
+            "It is not possible in paging"
+          ],
+          "answer": "In the last page of a process",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_12",
+          "question": "What is the purpose of the 'Dirty Bit' in a page table entry?",
+          "options": [
+            "To mark if the page is invalid",
+            "To indicate if the page has been modified (needs writing back to disk)",
+            "To protect read-only pages",
+            "To count access frequency"
+          ],
+          "answer": "To indicate if the page has been modified (needs writing back to disk)",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_13",
+          "question": "Which allocation method suffers from External Fragmentation in File Systems?",
+          "options": [
+            "Contiguous Allocation",
+            "Linked Allocation",
+            "Indexed Allocation",
+            "None of these"
+          ],
+          "answer": "Contiguous Allocation",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_14",
+          "question": "The C-SCAN (Circular SCAN) algorithm is designed to:",
+          "options": [
+            "Minimize total seek time",
+            "Provide a more uniform wait time (response time)",
+            "Prioritize urgent requests",
+            "Scan back and forth"
+          ],
+          "answer": "Provide a more uniform wait time (response time)",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_15",
+          "question": "Multi-level Paging is used to:",
+          "options": [
+            "Speed up access",
+            "Reduce the size of the Page Table in memory",
+            "Increase the page size",
+            "Eliminate TLB"
+          ],
+          "answer": "Reduce the size of the Page Table in memory",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_16",
+          "question": "What is a 'Hard Link' in Unix?",
+          "options": [
+            "A shortcut file",
+            "A pointer to the underlying Inode",
+            "A link to another directory",
+            "A hardware connection"
+          ],
+          "answer": "A pointer to the underlying Inode",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_17",
+          "question": "Which page replacement algorithm requires a 'counter' or 'stack' to keep track of page usage history?",
+          "options": [
+            "FIFO",
+            "Optimal",
+            "LRU (Least Recently Used)",
+            "Random"
+          ],
+          "answer": "LRU (Least Recently Used)",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_18",
+          "question": "If a page fault occurs, what does the OS do?",
+          "options": [
+            "Terminates the process",
+            "Loads the required page from disk into memory",
+            "Restarts the computer",
+            "Ignores the instruction"
+          ],
+          "answer": "Loads the required page from disk into memory",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_19",
+          "question": "What is 'Memory Mapped I/O'?",
+          "options": [
+            "Mapping disk files to memory addresses so I/O looks like memory access",
+            "Using a separate bus for I/O",
+            "Mapping I/O ports to CPU registers",
+            "Virtual memory for peripherals"
+          ],
+          "answer": "Mapping disk files to memory addresses so I/O looks like memory access",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_20",
+          "question": "The 'Boot Block' is usually located in:",
+          "options": [
+            "The first block of the disk",
+            "The last block of the disk",
+            "In the middle of the disk",
+            "In ROM"
+          ],
+          "answer": "The first block of the disk",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_21",
+          "question": "Which of these is NOT preserved across a Context Switch?",
+          "options": [
+            "Program Counter",
+            "Stack Pointer",
+            "TLB Contents",
+            "General Purpose Registers"
+          ],
+          "answer": "TLB Contents",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_22",
+          "question": "A system has 32-bit logical addresses and 4 KB page size. How many entries are in the page table (single level)?",
+          "options": [
+            "1 Million (2^20)",
+            "2 Million",
+            "4096",
+            "64 K"
+          ],
+          "answer": "1 Million (2^20)",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_23",
+          "question": "What is 'Cycle Stealing' in DMA?",
+          "options": [
+            "CPU steals cycles from DMA",
+            "DMA controller steals cycles from CPU to transfer data",
+            "Processes stealing cycles from each other",
+            "Interrupt handling"
+          ],
+          "answer": "DMA controller steals cycles from CPU to transfer data",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_24",
+          "question": "The 'Second Chance' (Clock) page replacement algorithm is an approximation of:",
+          "options": [
+            "Optimal",
+            "LRU",
+            "FIFO",
+            "LFU"
+          ],
+          "answer": "LRU",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_25",
+          "question": "In 'Indexed Allocation' of files, the index block contains:",
+          "options": [
+            "Data",
+            "Pointers to all data blocks",
+            "The next file name",
+            "File permissions"
+          ],
+          "answer": "Pointers to all data blocks",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_26",
+          "question": "Which component manages the 'Free Space List' on a disk?",
+          "options": [
+            "File System",
+            "CPU",
+            "RAM",
+            "BIOS"
+          ],
+          "answer": "File System",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_27",
+          "question": "What is the 'Overlay' technique?",
+          "options": [
+            "Loading parts of a program that are needed at a given time into memory (used when process > physical memory)",
+            "Overwriting files",
+            "Drawing graphics",
+            "Network layering"
+          ],
+          "answer": "Loading parts of a program that are needed at a given time into memory (used when process > physical memory)",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_28",
+          "question": "The 'Mount' operation in Unix/Linux serves to:",
+          "options": [
+            "Attach a file system to the directory structure",
+            "Install new hardware",
+            "Login a user",
+            "Copy files"
+          ],
+          "answer": "Attach a file system to the directory structure",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_29",
+          "question": "Which RAID level implies 'Mirroring'?",
+          "options": [
+            "RAID 0",
+            "RAID 1",
+            "RAID 2",
+            "RAID 5"
+          ],
+          "answer": "RAID 1",
+          "image_url": null
+        },
+        {
+          "id": "OS_L4_30",
+          "question": "What happens if the 'valid-invalid' bit in a page table entry is 0 (invalid)?",
+          "options": [
+            "The page is in memory",
+            "The page is not in the logical address space of the process (Access Violation)",
+            "The page is read-only",
+            "The page is shared"
+          ],
+          "answer": "The page is not in the logical address space of the process (Access Violation)",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "level_id": 5,
+      "difficulty": "Very Difficult",
+      "description": "Advanced Kernel Concepts and Virtualization",
+      "questions": [
+        {
+          "id": "OS_L5_01",
+          "question": "Which component is responsible for loading the kernel into memory during the boot process?",
+          "options": [
+            "BIOS/UEFI",
+            "Bootloader (GRUB/LILO)",
+            "Init process",
+            "Scheduler"
+          ],
+          "answer": "Bootloader (GRUB/LILO)",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_02",
+          "question": "What is the difference between Type 1 and Type 2 Hypervisors?",
+          "options": [
+            "Type 1 runs on bare metal; Type 2 runs on a host OS",
+            "Type 1 runs on a host OS; Type 2 runs on bare metal",
+            "Type 1 is for Windows; Type 2 is for Linux",
+            "There is no difference"
+          ],
+          "answer": "Type 1 runs on bare metal; Type 2 runs on a host OS",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_03",
+          "question": "In a Microkernel architecture, which services run in Kernel Space?",
+          "options": [
+            "All services (File System, Device Drivers, IPC)",
+            "Only essential services (IPC, Scheduling, Memory Management)",
+            "No services",
+            "User applications"
+          ],
+          "answer": "Only essential services (IPC, Scheduling, Memory Management)",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_04",
+          "question": "What is a 'Zombie Process' in Linux?",
+          "options": [
+            "A process that has completed execution but still has an entry in the process table",
+            "A process that is running in the background",
+            "A virus",
+            "A process waiting for I/O"
+          ],
+          "answer": "A process that has completed execution but still has an entry in the process table",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_05",
+          "question": "What is the 'ELF' format used for in Linux?",
+          "options": [
+            "Executable and Linkable Format (Binaries)",
+            "Error Log Format",
+            "Encrypted Linux File",
+            "Event Log File"
+          ],
+          "answer": "Executable and Linkable Format (Binaries)",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_06",
+          "question": "Which mechanism does Docker use to isolate containers?",
+          "options": [
+            "Hypervisors",
+            "Namespaces and Cgroups",
+            "Virtual Memory",
+            "Dual Booting"
+          ],
+          "answer": "Namespaces and Cgroups",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_07",
+          "question": "What is 'Priority Inversion' and how is it solved?",
+          "options": [
+            "High priority task waits for low priority task; Solved by Priority Inheritance",
+            "Low priority task waits for high priority; Solved by Aging",
+            "Deadlock; Solved by Killing process",
+            "None of these"
+          ],
+          "answer": "High priority task waits for low priority task; Solved by Priority Inheritance",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_08",
+          "question": "In Linux, what is PID 1?",
+          "options": [
+            "The Kernel",
+            "The Init Process (systemd/init)",
+            "The Shell",
+            "The Bootloader"
+          ],
+          "answer": "The Init Process (systemd/init)",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_09",
+          "question": "What is 'Demand Paging'?",
+          "options": [
+            "Loading all pages at start",
+            "Loading a page only when it is referenced (Page Fault)",
+            "Swapping out pages aggressively",
+            "Paging to a specific disk"
+          ],
+          "answer": "Loading a page only when it is referenced (Page Fault)",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_10",
+          "question": "Which scheduling algorithm is used by the Linux CFS (Completely Fair Scheduler)?",
+          "options": [
+            "Round Robin",
+            "Red-Black Tree based fair queuing",
+            "Strict Priority",
+            "FCFS"
+          ],
+          "answer": "Red-Black Tree based fair queuing",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_11",
+          "question": "What is a 'Buffer Overflow' attack?",
+          "options": [
+            "Writing data past the end of a buffer to corrupt the stack/heap",
+            "Reading data too fast",
+            "Filling the hard disk",
+            "Overloading the CPU"
+          ],
+          "answer": "Writing data past the end of a buffer to corrupt the stack/heap",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_12",
+          "question": "What is the function of the 'mmap()' system call?",
+          "options": [
+            "Maps a file or device into memory",
+            "Allocates heap memory",
+            "Creates a memory dump",
+            "Moves memory"
+          ],
+          "answer": "Maps a file or device into memory",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_13",
+          "question": "In a Distributed OS, what is 'Location Transparency'?",
+          "options": [
+            "Users know exactly where resources are",
+            "Users can access resources without knowing their physical location",
+            "Resources are always local",
+            "GPS tracking"
+          ],
+          "answer": "Users can access resources without knowing their physical location",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_14",
+          "question": "Which file system feature prevents data corruption during a crash?",
+          "options": [
+            "Journaling",
+            "Caching",
+            "Compression",
+            "Encryption"
+          ],
+          "answer": "Journaling",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_15",
+          "question": "What is a 'Race Condition' in a multi-threaded environment?",
+          "options": [
+            "Threads racing to finish",
+            "Outcome depends on the timing/order of thread execution",
+            "Threads blocked forever",
+            "CPU overheating"
+          ],
+          "answer": "Outcome depends on the timing/order of thread execution",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_16",
+          "question": "The 'Readers-Writers' problem solution typically prioritizes:",
+          "options": [
+            "Readers",
+            "Writers",
+            "Fairness (No starvation)",
+            "Depends on implementation (Reader-preference or Writer-preference)"
+          ],
+          "answer": "Depends on implementation (Reader-preference or Writer-preference)",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_17",
+          "question": "What is 'Systemd' in modern Linux?",
+          "options": [
+            "A text editor",
+            "An initialization system and service manager",
+            "A compiler",
+            "A kernel module"
+          ],
+          "answer": "An initialization system and service manager",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_18",
+          "question": "What is 'Symlink' (Symbolic Link)?",
+          "options": [
+            "A file containing the path to another file/directory",
+            "A hard copy of a file",
+            "A backup",
+            "A hidden file"
+          ],
+          "answer": "A file containing the path to another file/directory",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_19",
+          "question": "Which concept allows a process to have its own isolated view of the system (User ID, Networking)?",
+          "options": [
+            "Namespaces",
+            "Cgroups",
+            "Paging",
+            "Threads"
+          ],
+          "answer": "Namespaces",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_20",
+          "question": "What is the 'Shebang' line (#!) in a script?",
+          "options": [
+            "A comment",
+            "Specifies the interpreter to execute the script",
+            "Marks the end of file",
+            "Includes a library"
+          ],
+          "answer": "Specifies the interpreter to execute the script",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_21",
+          "question": "In Windows, the 'Registry' is used for:",
+          "options": [
+            "Storing configuration settings and options",
+            "Managing user files",
+            "Internet browsing",
+            " compiling code"
+          ],
+          "answer": "Storing configuration settings and options",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_22",
+          "question": "Which of these is a 'Kernel Mode' exception?",
+          "options": [
+            "Page Fault",
+            "System Call",
+            "Divide by Zero",
+            "All of the above"
+          ],
+          "answer": "All of the above",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_23",
+          "question": "What is 'NUMA' (Non-Uniform Memory Access)?",
+          "options": [
+            "A memory architecture where access time depends on the memory location relative to the processor",
+            "Uniform access time for all memory",
+            "A type of disk",
+            "A cloud storage type"
+          ],
+          "answer": "A memory architecture where access time depends on the memory location relative to the processor",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_24",
+          "question": "What does the 'nice' value determine in Linux?",
+          "options": [
+            "The priority of a process",
+            "The memory limit",
+            "The file permission",
+            "The network speed"
+          ],
+          "answer": "The priority of a process",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_25",
+          "question": "Which command displays the kernel ring buffer (boot messages)?",
+          "options": [
+            "dmesg",
+            "syslog",
+            "cat /proc/cpuinfo",
+            "uname"
+          ],
+          "answer": "dmesg",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_26",
+          "question": "What is a 'Daemon'?",
+          "options": [
+            "A background process that handles requests for services",
+            "A virus",
+            "A user application",
+            "A corrupted file"
+          ],
+          "answer": "A background process that handles requests for services",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_27",
+          "question": "The 'Filesystem Hierarchy Standard' (FHS) defines /etc for:",
+          "options": [
+            "Configuration files",
+            "User binaries",
+            "Variable data",
+            "Home directories"
+          ],
+          "answer": "Configuration files",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_28",
+          "question": "What is 'Memory Leak'?",
+          "options": [
+            "Failure to release allocated memory",
+            "Physical damage to RAM",
+            "Memory becoming visible to other processes",
+            "Swapping failure"
+          ],
+          "answer": "Failure to release allocated memory",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_29",
+          "question": "Which synchronization primitive allows multiple threads to read but only one to write?",
+          "options": [
+            "Read-Write Lock",
+            "Mutex",
+            "Binary Semaphore",
+            "Spinlock"
+          ],
+          "answer": "Read-Write Lock",
+          "image_url": null
+        },
+        {
+          "id": "OS_L5_30",
+          "question": "What is the purpose of 'Swappiness' parameter in Linux?",
+          "options": [
+            "Controls how aggressively the kernel swaps memory pages",
+            "Controls disk speed",
+            "Controls CPU frequency",
+            "Controls network latency"
+          ],
+          "answer": "Controls how aggressively the kernel swaps memory pages",
+          "image_url": null
+        }
+      ]
+    }
+  ]
+}

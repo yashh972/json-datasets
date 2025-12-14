@@ -196,7 +196,7 @@
                         "80"
                     ],
                     "answer": "70",
-                    "image_url": "assets/images/quant/Q_L1_16.jpg"
+                    "image_url": "assets/images/aptitude/quant/Q_L1_16.jpg"
                 },
                 {
                     "id": "Q_L1_17",
@@ -280,7 +280,7 @@
                         "9.2 m"
                     ],
                     "answer": "9.2 m",
-                    "image_url": "assets/images/quant/Q_L1_23.png"
+                    "image_url": "assets/images/aptitude/quant/Q_L1_23.png"
                 },
                 {
                     "id": "Q_L1_24",
@@ -800,7 +800,7 @@
                         "30 m"
                     ],
                     "answer": "20 m",
-                    "image_url": "assets/images/quant/Q_L3_05.png"
+                    "image_url": "assets/images/aptitude/quant/Q_L3_05.png"
                 },
                 {
                     "id": "Q_L3_06",
@@ -1486,7 +1486,7 @@
                         "64 sq. cm"
                     ],
                     "answer": "42 sq. cm",
-                    "image_url": "assets/images/quant/Q_L5_01.png"
+                    "image_url": "assets/images/aptitude/quant/Q_L5_01.png"
                 },
                 {
                     "id": "Q_L5_02",

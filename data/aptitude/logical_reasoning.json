@@ -515,7 +515,7 @@
                         "D"
                     ],
                     "answer": "C",
-                    "image_url": "assets/images/logical/R_L2_12.jpg"
+                    "image_url": "assets/images/aptitude/logical/R_L2_12.jpg"
                 },
                 {
                     "id": "R_L2_13",
@@ -1724,7 +1724,7 @@
                         "24 Triangles, 3 Squares"
                     ],
                     "answer": "28 Triangles, 5 Squares",
-                    "image_url": "assets/images/logical/R_L5_21.png"
+                    "image_url": "assets/images/aptitude/logical/R_L5_21.png"
                 },
                 {
                     "id": "R_L5_22",

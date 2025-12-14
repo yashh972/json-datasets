@@ -1,0 +1,1840 @@
+{
+  "topic": "Object Oriented Programming",
+  "levels": [
+    {
+      "level_id": 1,
+      "difficulty": "Easy",
+      "description": "OOPs Pillars, Classes, Objects, and Terminology",
+      "questions": [
+        {
+          "id": "OOP_L1_01",
+          "question": "Which of the following is NOT a pillar of OOPs?",
+          "options": [
+            "Encapsulation",
+            "Polymorphism",
+            "Compilation",
+            "Inheritance"
+          ],
+          "answer": "Compilation",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_02",
+          "question": "A blueprint from which objects are created is called a:",
+          "options": [
+            "Method",
+            "Class",
+            "Constructor",
+            "Package"
+          ],
+          "answer": "Class",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_03",
+          "question": "What is an 'Object' in OOP?",
+          "options": [
+            "A function",
+            "An instance of a class",
+            "A variable",
+            "A loop"
+          ],
+          "answer": "An instance of a class",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_04",
+          "question": "Wrapping data and methods into a single unit is called:",
+          "options": [
+            "Abstraction",
+            "Encapsulation",
+            "Polymorphism",
+            "Inheritance"
+          ],
+          "answer": "Encapsulation",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_05",
+          "question": "Which concept allows a class to acquire the properties and methods of another class?",
+          "options": [
+            "Polymorphism",
+            "Encapsulation",
+            "Inheritance",
+            "Abstraction"
+          ],
+          "answer": "Inheritance",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_06",
+          "question": "What does 'Polymorphism' mean?",
+          "options": [
+            "Many forms",
+            "Data hiding",
+            "Code reuse",
+            "Creating objects"
+          ],
+          "answer": "Many forms",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_07",
+          "question": "Hiding internal implementation details and showing only functionality is called:",
+          "options": [
+            "Encapsulation",
+            "Abstraction",
+            "Inheritance",
+            "Polymorphism"
+          ],
+          "answer": "Abstraction",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_08",
+          "question": "Which keyword is used to create an object in Java/C++?",
+          "options": [
+            "create",
+            "new",
+            "object",
+            "make"
+          ],
+          "answer": "new",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_09",
+          "question": "A function defined inside a class is called a:",
+          "options": [
+            "Method",
+            "Variable",
+            "Attribute",
+            "Constructor"
+          ],
+          "answer": "Method",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_10",
+          "question": "Which access modifier makes members visible only within the same class?",
+          "options": [
+            "Public",
+            "Private",
+            "Protected",
+            "Default"
+          ],
+          "answer": "Private",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_11",
+          "question": "The process of initializing an object is done by:",
+          "options": [
+            "Destructor",
+            "Constructor",
+            "Method",
+            "Variable"
+          ],
+          "answer": "Constructor",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_12",
+          "question": "Which feature of OOP promotes code reusability?",
+          "options": [
+            "Encapsulation",
+            "Inheritance",
+            "Abstraction",
+            "Polymorphism"
+          ],
+          "answer": "Inheritance",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_13",
+          "question": "What is the name of the class that is inherited from?",
+          "options": [
+            "Subclass",
+            "Child Class",
+            "Superclass",
+            "Derived Class"
+          ],
+          "answer": "Superclass",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_14",
+          "question": "What is the name of the class that inherits?",
+          "options": [
+            "Superclass",
+            "Parent Class",
+            "Subclass",
+            "Base Class"
+          ],
+          "answer": "Subclass",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_15",
+          "question": "Which of these is NOT an access modifier?",
+          "options": [
+            "protected",
+            "void",
+            "public",
+            "private"
+          ],
+          "answer": "void",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_16",
+          "question": "In Java/C++, the '.' (dot) operator is used to:",
+          "options": [
+            "Access class members",
+            "Add numbers",
+            "Create pointers",
+            "Terminate statements"
+          ],
+          "answer": "Access class members",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_17",
+          "question": "Method Overloading is an example of:",
+          "options": [
+            "Run-time Polymorphism",
+            "Compile-time Polymorphism",
+            "Encapsulation",
+            "Inheritance"
+          ],
+          "answer": "Compile-time Polymorphism",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_18",
+          "question": "Method Overriding is an example of:",
+          "options": [
+            "Run-time Polymorphism",
+            "Compile-time Polymorphism",
+            "Encapsulation",
+            "Abstraction"
+          ],
+          "answer": "Run-time Polymorphism",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_19",
+          "question": "A constructor has the same name as the:",
+          "options": [
+            "Method",
+            "Variable",
+            "Class",
+            "Object"
+          ],
+          "answer": "Class",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_20",
+          "question": "A constructor does not have a:",
+          "options": [
+            "Name",
+            "Parameter list",
+            "Return type",
+            "Access modifier"
+          ],
+          "answer": "Return type",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_21",
+          "question": "Destructors are used to:",
+          "options": [
+            "Initialize objects",
+            "Deallocate memory",
+            "Copy objects",
+            "Create objects"
+          ],
+          "answer": "Deallocate memory",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_22",
+          "question": "Can a class have multiple constructors?",
+          "options": [
+            "Yes (Constructor Overloading)",
+            "No",
+            "Only in C++",
+            "Only in Java"
+          ],
+          "answer": "Yes (Constructor Overloading)",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_23",
+          "question": "What represents the 'HAS-A' relationship?",
+          "options": [
+            "Inheritance",
+            "Aggregation/Composition",
+            "Polymorphism",
+            "Encapsulation"
+          ],
+          "answer": "Aggregation/Composition",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_24",
+          "question": "What represents the 'IS-A' relationship?",
+          "options": [
+            "Inheritance",
+            "Composition",
+            "Encapsulation",
+            "Abstraction"
+          ],
+          "answer": "Inheritance",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_25",
+          "question": "Which keyword is used to access the current object?",
+          "options": [
+            "super",
+            "this",
+            "self",
+            "curr"
+          ],
+          "answer": "this",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_26",
+          "question": "Static variables are shared among:",
+          "options": [
+            "All objects of the class",
+            "Only one object",
+            "Only child classes",
+            "None of the above"
+          ],
+          "answer": "All objects of the class",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_27",
+          "question": "Which method is the entry point of a Java/C++ program?",
+          "options": [
+            "start()",
+            "init()",
+            "main()",
+            "run()"
+          ],
+          "answer": "main()",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_28",
+          "question": "An abstract class cannot be:",
+          "options": [
+            "Inherited",
+            "Instantiated",
+            "Compiled",
+            "Public"
+          ],
+          "answer": "Instantiated",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_29",
+          "question": "Multiple inheritance (inheriting from multiple classes) is supported in:",
+          "options": [
+            "Java",
+            "C++",
+            "Both",
+            "Neither"
+          ],
+          "answer": "C++",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L1_30",
+          "question": "Getters and Setters are used for:",
+          "options": [
+            "Polymorphism",
+            "Inheritance",
+            "Encapsulation",
+            "Abstraction"
+          ],
+          "answer": "Encapsulation",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "level_id": 2,
+      "difficulty": "Medium",
+      "description": "Constructors, Static, and Access Modifiers",
+      "questions": [
+        {
+          "id": "OOP_L2_01",
+          "question": "What is a Parameterized Constructor?",
+          "options": [
+            "A constructor with no arguments",
+            "A constructor that takes arguments to initialize objects",
+            "A constructor that copies another object",
+            "A constructor that returns a value"
+          ],
+          "answer": "A constructor that takes arguments to initialize objects",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_02",
+          "question": "If you do not define any constructor in a class, what happens?",
+          "options": [
+            "Compiler error",
+            "The compiler automatically provides a default (no-arg) constructor",
+            "The class cannot be instantiated",
+            "Runtime error"
+          ],
+          "answer": "The compiler automatically provides a default (no-arg) constructor",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_03",
+          "question": "What is the purpose of a Copy Constructor?",
+          "options": [
+            "To delete an object",
+            "To initialize an object using another object of the same class",
+            "To copy a file",
+            "To create a static object"
+          ],
+          "answer": "To initialize an object using another object of the same class",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_04",
+          "question": "Can a constructor be declared 'private'?",
+          "options": [
+            "Yes, to prevent instantiation from outside the class (Singleton Pattern)",
+            "No, never",
+            "Yes, but it will cause a compile error",
+            "Only in C++"
+          ],
+          "answer": "Yes, to prevent instantiation from outside the class (Singleton Pattern)",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_05",
+          "question": "What is 'Constructor Chaining'?",
+          "options": [
+            "Calling one constructor from another constructor",
+            "Linking multiple classes",
+            "Creating an array of objects",
+            "Destructing objects in sequence"
+          ],
+          "answer": "Calling one constructor from another constructor",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_06",
+          "question": "Which keyword is used to call the parent class constructor?",
+          "options": [
+            "this()",
+            "super()",
+            "parent()",
+            "base()"
+          ],
+          "answer": "super()",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_07",
+          "question": "Can a static method access non-static (instance) variables directly?",
+          "options": [
+            "Yes",
+            "No",
+            "Only if variables are public",
+            "Only in the main method"
+          ],
+          "answer": "No",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_08",
+          "question": "A static method can call only:",
+          "options": [
+            "Other static methods",
+            "Instance methods",
+            "Both static and instance methods",
+            "Constructors only"
+          ],
+          "answer": "Other static methods",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_09",
+          "question": "When is a 'static block' executed in Java?",
+          "options": [
+            "When an object is created",
+            "When the class is loaded into memory (before main)",
+            "When the main method ends",
+            "Every time a method is called"
+          ],
+          "answer": "When the class is loaded into memory (before main)",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_10",
+          "question": "Can we override a static method?",
+          "options": [
+            "Yes",
+            "No (It is Method Hiding)",
+            "Only if it is public",
+            "Yes, but not recommended"
+          ],
+          "answer": "No (It is Method Hiding)",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_11",
+          "question": "Which access modifier is the most restrictive?",
+          "options": [
+            "Public",
+            "Protected",
+            "Default (Package-private)",
+            "Private"
+          ],
+          "answer": "Private",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_12",
+          "question": "Members declared as 'protected' are accessible:",
+          "options": [
+            "Anywhere",
+            "Within the same package and subclasses in other packages",
+            "Only within the same class",
+            "Only within the same package"
+          ],
+          "answer": "Within the same package and subclasses in other packages",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_13",
+          "question": "If no access modifier is specified (Default), the scope is:",
+          "options": [
+            "The same class only",
+            "The same package only",
+            "The entire project",
+            "Subclasses only"
+          ],
+          "answer": "The same package only",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_14",
+          "question": "What does the 'final' keyword mean when applied to a variable?",
+          "options": [
+            "The variable cannot be accessed",
+            "The variable's value cannot be changed (Constant)",
+            "The variable is static",
+            "The variable is private"
+          ],
+          "answer": "The variable's value cannot be changed (Constant)",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_15",
+          "question": "Can a class be declared 'static' (as a top-level class)?",
+          "options": [
+            "Yes",
+            "No",
+            "Only in Java",
+            "Only in C++"
+          ],
+          "answer": "No",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_16",
+          "question": "What is the return type of a Constructor?",
+          "options": [
+            "int",
+            "void",
+            "Class Name",
+            "It has no return type"
+          ],
+          "answer": "It has no return type",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_17",
+          "question": "Which keyword refers to the current class instance?",
+          "options": [
+            "super",
+            "this",
+            "static",
+            "void"
+          ],
+          "answer": "this",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_18",
+          "question": "Can 'this' be used in a static context?",
+          "options": [
+            "Yes",
+            "No",
+            "Sometimes",
+            "Only in constructors"
+          ],
+          "answer": "No",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_19",
+          "question": "What happens if you define a constructor with a return type (e.g., void MyClass())?",
+          "options": [
+            "It becomes a regular method, not a constructor",
+            "It works as a constructor",
+            "Compiler error",
+            "Runtime error"
+          ],
+          "answer": "It becomes a regular method, not a constructor",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_20",
+          "question": "Which OOP principle is achieved using Access Modifiers?",
+          "options": [
+            "Inheritance",
+            "Encapsulation",
+            "Polymorphism",
+            "Abstraction"
+          ],
+          "answer": "Encapsulation",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_21",
+          "question": "Can a constructor be 'final'?",
+          "options": [
+            "Yes",
+            "No",
+            "Only if private",
+            "Only if public"
+          ],
+          "answer": "No",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_22",
+          "question": "What is the output of `System.out.println(obj)` if `toString()` is not overridden?",
+          "options": [
+            "The object's data",
+            "The class name + @ + hashcode",
+            "Null",
+            "Error"
+          ],
+          "answer": "The class name + @ + hashcode",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_23",
+          "question": "Can we overload the `main` method?",
+          "options": [
+            "Yes",
+            "No",
+            "Only in C++",
+            "Only if it is not static"
+          ],
+          "answer": "Yes",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_24",
+          "question": "What is a 'Shallow Copy'?",
+          "options": [
+            "Copying references only (changes affect original)",
+            "Creating a new object with new memory",
+            "Copying only static variables",
+            "Deleting the object"
+          ],
+          "answer": "Copying references only (changes affect original)",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_25",
+          "question": "What is a 'Deep Copy'?",
+          "options": [
+            "Copying references only",
+            "Creating a new object and recursively copying all data",
+            "Copying only methods",
+            "None of the above"
+          ],
+          "answer": "Creating a new object and recursively copying all data",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_26",
+          "question": "Which variable is initialized first?",
+          "options": [
+            "Static variable",
+            "Instance variable",
+            "Local variable",
+            "Constructor variable"
+          ],
+          "answer": "Static variable",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_27",
+          "question": "Can an abstract class have a constructor?",
+          "options": [
+            "Yes",
+            "No",
+            "Only if it is static",
+            "Only if it is private"
+          ],
+          "answer": "Yes",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_28",
+          "question": "In Java, all classes automatically inherit from which class?",
+          "options": [
+            "Main",
+            "Object",
+            "System",
+            "Class"
+          ],
+          "answer": "Object",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_29",
+          "question": "What is the purpose of the 'instanceof' operator?",
+          "options": [
+            "To create an instance",
+            "To check if an object is an instance of a specific class",
+            "To call a constructor",
+            "To delete an object"
+          ],
+          "answer": "To check if an object is an instance of a specific class",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L2_30",
+          "question": "Can a final variable be uninitialized (blank final)?",
+          "options": [
+            "No, it must be initialized at declaration",
+            "Yes, but it must be initialized in the constructor",
+            "Yes, it takes a default value",
+            "No, it causes an error"
+          ],
+          "answer": "Yes, but it must be initialized in the constructor",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "level_id": 3,
+      "difficulty": "Intermediate",
+      "description": "Overloading vs Overriding, Abstract Classes, and Interfaces",
+      "questions": [
+        {
+          "id": "OOP_L3_01",
+          "question": "Which of the following conditions is NOT required for Method Overloading?",
+          "options": [
+            "Same method name",
+            "Different parameter list",
+            "Same return type",
+            "Within the same class"
+          ],
+          "answer": "Same return type",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_02",
+          "question": "In Method Overriding, the access modifier of the overriding method (in child class) cannot be:",
+          "options": [
+            "More restrictive than the overridden method",
+            "Less restrictive than the overridden method",
+            "Same as the overridden method",
+            "Public"
+          ],
+          "answer": "More restrictive than the overridden method",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_03",
+          "question": "Variables declared in an Interface are implicitly:",
+          "options": [
+            "public, static, final",
+            "private, static, final",
+            "protected, final",
+            "default, non-static"
+          ],
+          "answer": "public, static, final",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_04",
+          "question": "Can an Abstract class have a constructor?",
+          "options": [
+            "Yes",
+            "No",
+            "Only if it has no abstract methods",
+            "Only in C++"
+          ],
+          "answer": "Yes",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_05",
+          "question": "Which type of inheritance is NOT supported by classes in Java (to avoid the Diamond Problem)?",
+          "options": [
+            "Single Inheritance",
+            "Multilevel Inheritance",
+            "Multiple Inheritance",
+            "Hierarchical Inheritance"
+          ],
+          "answer": "Multiple Inheritance",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_06",
+          "question": "What is 'Upcasting'?",
+          "options": [
+            "Assigning a Child object to a Parent reference",
+            "Assigning a Parent object to a Child reference",
+            "Casting a primitive to an object",
+            "Increasing the memory size"
+          ],
+          "answer": "Assigning a Child object to a Parent reference",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_07",
+          "question": "Dynamic Method Dispatch (Runtime Polymorphism) is decided based on:",
+          "options": [
+            "Type of the reference variable",
+            "Type of the actual object",
+            "The compiler",
+            "The operating system"
+          ],
+          "answer": "Type of the actual object",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_08",
+          "question": "Which keyword is used to prevent a method from being overridden?",
+          "options": [
+            "static",
+            "const",
+            "final",
+            "abstract"
+          ],
+          "answer": "final",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_09",
+          "question": "Can an Interface extend another Interface?",
+          "options": [
+            "Yes, using 'extends'",
+            "No, it must use 'implements'",
+            "No, interfaces cannot inherit",
+            "Yes, using 'implements'"
+          ],
+          "answer": "Yes, using 'extends'",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_10",
+          "question": "What happens if a class extends an Abstract class but does not implement all its abstract methods?",
+          "options": [
+            "The class must also be declared abstract",
+            "Compiler error",
+            "It runs fine",
+            "The methods become null"
+          ],
+          "answer": "The class must also be declared abstract",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_11",
+          "question": "Which of these is a marker interface (an interface with no methods)?",
+          "options": [
+            "Serializable",
+            "Runnable",
+            "Comparable",
+            "ActionListener"
+          ],
+          "answer": "Serializable",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_12",
+          "question": "The 'super' keyword can be used to access:",
+          "options": [
+            "Parent class constructor",
+            "Parent class variable",
+            "Parent class method",
+            "All of the above"
+          ],
+          "answer": "All of the above",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_13",
+          "question": "In Java 8, interfaces were modified to allow:",
+          "options": [
+            "Default and Static methods",
+            "Constructors",
+            "Instance variables",
+            "Private methods"
+          ],
+          "answer": "Default and Static methods",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_14",
+          "question": "What is 'Downcasting'?",
+          "options": [
+            "Casting a Parent reference back to a Child reference",
+            "Casting a Child reference to Parent",
+            "Converting int to double",
+            "Decreasing visibility"
+          ],
+          "answer": "Casting a Parent reference back to a Child reference",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_15",
+          "question": "Does Downcasting happen implicitly?",
+          "options": [
+            "No, explicit cast is required",
+            "Yes, always",
+            "Only for abstract classes",
+            "Only for interfaces"
+          ],
+          "answer": "No, explicit cast is required",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_16",
+          "question": "If Class B extends Class A, and both have a static block, which executes first?",
+          "options": [
+            "Class A's static block",
+            "Class B's static block",
+            "Depends on object creation",
+            "Both execute simultaneously"
+          ],
+          "answer": "Class A's static block",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_17",
+          "question": "Can you declare an abstract method as 'private'?",
+          "options": [
+            "No, because it cannot be overridden",
+            "Yes",
+            "Only in interfaces",
+            "Only in C++"
+          ],
+          "answer": "No, because it cannot be overridden",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_18",
+          "question": "Which problem occurs when two parent classes have a method with the same name, and a child inherits from both (in Multiple Inheritance)?",
+          "options": [
+            "Diamond Problem",
+            "Circular Dependency",
+            "Deadlock",
+            "Memory Leak"
+          ],
+          "answer": "Diamond Problem",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_19",
+          "question": "What is the output of 'Parent p = new Child(); p.staticMethod();' if both classes have the same static method?",
+          "options": [
+            "Parent's static method (Method Hiding)",
+            "Child's static method",
+            "Compiler Error",
+            "Runtime Error"
+          ],
+          "answer": "Parent's static method (Method Hiding)",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_20",
+          "question": "An inner class has access to:",
+          "options": [
+            "All members of the outer class (including private)",
+            "Only public members",
+            "Only static members",
+            "No members"
+          ],
+          "answer": "All members of the outer class (including private)",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_21",
+          "question": "What is an Anonymous Inner Class?",
+          "options": [
+            "A class without a name defined inside a method/block",
+            "A class with no methods",
+            "A class that cannot be instantiated",
+            "A private class"
+          ],
+          "answer": "A class without a name defined inside a method/block",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_22",
+          "question": "What is 'Covariant Return Type'?",
+          "options": [
+            "An overriding method can return a subclass of the return type declared in the parent method",
+            "Methods must have void return type",
+            "Return type must be exactly same",
+            "Return type depends on parameters"
+          ],
+          "answer": "An overriding method can return a subclass of the return type declared in the parent method",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_23",
+          "question": "Which binding is used for private, final, and static methods?",
+          "options": [
+            "Static Binding (Early Binding)",
+            "Dynamic Binding (Late Binding)",
+            "Lazy Binding",
+            "None of these"
+          ],
+          "answer": "Static Binding (Early Binding)",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_24",
+          "question": "Can an Interface have a static block?",
+          "options": [
+            "No",
+            "Yes (from Java 8)",
+            "Yes (from Java 9)",
+            "Only if abstract"
+          ],
+          "answer": "No",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_25",
+          "question": "If a method throws a checked exception, the overriding method:",
+          "options": [
+            "Can throw the same exception or a subclass, or no exception",
+            "Can throw any exception",
+            "Must throw the exact same exception",
+            "Cannot throw any exception"
+          ],
+          "answer": "Can throw the same exception or a subclass, or no exception",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_26",
+          "question": "The relationship between a Car and an Engine is best described as:",
+          "options": [
+            "Composition (HAS-A)",
+            "Inheritance (IS-A)",
+            "Polymorphism",
+            "Abstraction"
+          ],
+          "answer": "Composition (HAS-A)",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_27",
+          "question": "What is the difference between Aggregation and Composition?",
+          "options": [
+            "Composition is a strong association (part cannot exist without whole); Aggregation is weak",
+            "Aggregation is strong; Composition is weak",
+            "They are identical",
+            "Composition uses inheritance"
+          ],
+          "answer": "Composition is a strong association (part cannot exist without whole); Aggregation is weak",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_28",
+          "question": "Which design principle suggests 'Program to an interface, not an implementation'?",
+          "options": [
+            "Loose Coupling",
+            "High Cohesion",
+            "Encapsulation",
+            "Inheritance"
+          ],
+          "answer": "Loose Coupling",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_29",
+          "question": "Can constructors be recursive?",
+          "options": [
+            "No, it causes a compile-time error (Recursive constructor invocation)",
+            "Yes",
+            "Only in Java",
+            "Only static constructors"
+          ],
+          "answer": "No, it causes a compile-time error (Recursive constructor invocation)",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L3_30",
+          "question": "In C++, which symbol is used for a Destructor?",
+          "options": [
+            "~ (Tilde)",
+            "# (Hash)",
+            "! (Exclamation)",
+            "- (Minus)"
+          ],
+          "answer": "~ (Tilde)",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "level_id": 4,
+      "difficulty": "Difficult",
+      "description": "Exception Handling, Generics, and Memory Management",
+      "questions": [
+        {
+          "id": "OOP_L4_01",
+          "question": "What distinguishes a Checked Exception from an Unchecked Exception?",
+          "options": [
+            "Checked exceptions are checked at compile-time; Unchecked at runtime",
+            "Checked exceptions occur in hardware; Unchecked in software",
+            "Checked exceptions cannot be caught",
+            "There is no difference"
+          ],
+          "answer": "Checked exceptions are checked at compile-time; Unchecked at runtime",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_02",
+          "question": "Which of the following classes is the superclass of all errors and exceptions?",
+          "options": [
+            "Exception",
+            "RunTimeException",
+            "Throwable",
+            "Object"
+          ],
+          "answer": "Throwable",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_03",
+          "question": "If a `return` statement is present inside a `try` block, will the `finally` block execute?",
+          "options": [
+            "Yes, always (unless System.exit is called)",
+            "No",
+            "Only if an exception occurs",
+            "Only if the return value is null"
+          ],
+          "answer": "Yes, always (unless System.exit is called)",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_04",
+          "question": "What is 'Type Erasure' in Generics?",
+          "options": [
+            "The compiler removes generic type information after compilation to ensure backward compatibility",
+            "Deleting a variable type at runtime",
+            "Converting int to float",
+            "Erasing data from memory"
+          ],
+          "answer": "The compiler removes generic type information after compilation to ensure backward compatibility",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_05",
+          "question": "Which keyword is used to declare that a method *might* throw an exception?",
+          "options": [
+            "throw",
+            "throws",
+            "try",
+            "catch"
+          ],
+          "answer": "throws",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_06",
+          "question": "In Java Memory Management, where are Objects stored?",
+          "options": [
+            "Stack Memory",
+            "Heap Memory",
+            "Register",
+            "Hard Disk"
+          ],
+          "answer": "Heap Memory",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_07",
+          "question": "In Java Memory Management, where are local variables and method calls stored?",
+          "options": [
+            "Stack Memory",
+            "Heap Memory",
+            "String Pool",
+            "MetaSpace"
+          ],
+          "answer": "Stack Memory",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_08",
+          "question": "What is the purpose of the `try-with-resources` statement?",
+          "options": [
+            "To automatically close resources (like streams/files) after the block ends",
+            "To handle multiple exceptions",
+            "To improve performance",
+            "To use multithreading"
+          ],
+          "answer": "To automatically close resources (like streams/files) after the block ends",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_09",
+          "question": "Which wildcard allows a Generic list to accept any type that is a subclass of Number?",
+          "options": [
+            "List<Number>",
+            "List<? extends Number>",
+            "List<? super Number>",
+            "List<Object>"
+          ],
+          "answer": "List<? extends Number>",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_10",
+          "question": "Can static fields be Generic?",
+          "options": [
+            "Yes",
+            "No",
+            "Only if final",
+            "Only in interfaces"
+          ],
+          "answer": "No",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_11",
+          "question": "What is a 'Memory Leak' in Java?",
+          "options": [
+            "When objects are no longer used but are still referenced, preventing GC from reclaiming memory",
+            "When RAM is damaged",
+            "When stack overflows",
+            "When null pointer exception occurs"
+          ],
+          "answer": "When objects are no longer used but are still referenced, preventing GC from reclaiming memory",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_12",
+          "question": "Which reference type is most likely to be garbage collected aggressively (used for caches)?",
+          "options": [
+            "Strong Reference",
+            "Weak Reference",
+            "Soft Reference",
+            "Phantom Reference"
+          ],
+          "answer": "Weak Reference",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_13",
+          "question": "What is the difference between `throw` and `throws`?",
+          "options": [
+            "`throw` is used to explicitly throw an exception; `throws` declares exceptions in method signature",
+            "`throw` is for checked exceptions; `throws` is for unchecked",
+            "`throw` declares; `throws` executes",
+            "They are synonyms"
+          ],
+          "answer": "`throw` is used to explicitly throw an exception; `throws` declares exceptions in method signature",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_14",
+          "question": "When does `StackOverflowError` occur?",
+          "options": [
+            "When the Heap is full",
+            "When recursion is too deep or infinite",
+            "When Hard disk is full",
+            "When a thread deadlocks"
+          ],
+          "answer": "When recursion is too deep or infinite",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_15",
+          "question": "Can we catch `Error` (like OutOfMemoryError) in a catch block?",
+          "options": [
+            "Yes, but it is generally not recommended",
+            "No, it causes compilation error",
+            "Yes, it fixes the memory issue",
+            "Only in C++"
+          ],
+          "answer": "Yes, but it is generally not recommended",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_16",
+          "question": "What happens if an exception is thrown inside a `finally` block?",
+          "options": [
+            "It is ignored",
+            "It overrules/suppresses any previous exception thrown in the try block",
+            "Compiler Error",
+            "The program restarts"
+          ],
+          "answer": "It overrules/suppresses any previous exception thrown in the try block",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_17",
+          "question": "Which interface must a resource implement to be used in `try-with-resources`?",
+          "options": [
+            "Runnable",
+            "AutoCloseable",
+            "Serializable",
+            "Cloneable"
+          ],
+          "answer": "AutoCloseable",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_18",
+          "question": "What is 'Heap Pollution'?",
+          "options": [
+            "Corruption of memory",
+            "When a variable of a parameterized type refers to an object that is not of that parameterized type",
+            "Garbage collection failure",
+            "Stack overflow"
+          ],
+          "answer": "When a variable of a parameterized type refers to an object that is not of that parameterized type",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_19",
+          "question": "What is the purpose of `System.gc()`?",
+          "options": [
+            "It forces Garbage Collection immediately",
+            "It suggests the JVM to perform Garbage Collection",
+            "It deletes all objects",
+            "It allocates memory"
+          ],
+          "answer": "It suggests the JVM to perform Garbage Collection",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_20",
+          "question": "Which keyword is used to make a variable not part of serialization?",
+          "options": [
+            "static",
+            "volatile",
+            "transient",
+            "final"
+          ],
+          "answer": "transient",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_21",
+          "question": "What does `List<?>` mean?",
+          "options": [
+            "A list of unknown type (Wildcard)",
+            "A list of Objects",
+            "A list of Nulls",
+            "Invalid Syntax"
+          ],
+          "answer": "A list of unknown type (Wildcard)",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_22",
+          "question": "What is the 'String Pool'?",
+          "options": [
+            "A special area in Heap memory to store unique String literals",
+            "A list of string variables",
+            "A stack memory area",
+            "A cache on the hard drive"
+          ],
+          "answer": "A special area in Heap memory to store unique String literals",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_23",
+          "question": "Why are Strings immutable in Java?",
+          "options": [
+            "Security, Synchronization, and Caching (String Pool)",
+            "To save memory only",
+            "To make them faster",
+            "Because they are primitives"
+          ],
+          "answer": "Security, Synchronization, and Caching (String Pool)",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_24",
+          "question": "Which exception is thrown when you try to cast an object to a subclass of which it is not an instance?",
+          "options": [
+            "NullPointerException",
+            "ClassCastException",
+            "IllegalArgumentException",
+            "SecurityException"
+          ],
+          "answer": "ClassCastException",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_25",
+          "question": "Can we have a try block without a catch block?",
+          "options": [
+            "No",
+            "Yes, but it must have a finally block",
+            "Yes, always",
+            "Only in C++"
+          ],
+          "answer": "Yes, but it must have a finally block",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_26",
+          "question": "What is the 'finalize()' method used for (before deprecation)?",
+          "options": [
+            "To construct an object",
+            "To perform cleanup before an object is garbage collected",
+            "To delete a file",
+            "To stop a thread"
+          ],
+          "answer": "To perform cleanup before an object is garbage collected",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_27",
+          "question": "What is the Diamond Operator `<>` introduced in Java 7?",
+          "options": [
+            "It allows type inference for Generic Instance Creation",
+            "It creates a diamond shape pattern",
+            "It solves the diamond problem",
+            "It is a bitwise operator"
+          ],
+          "answer": "It allows type inference for Generic Instance Creation",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_28",
+          "question": "Which GC algorithm divides the heap into Young and Old generations?",
+          "options": [
+            "Generational Garbage Collection",
+            "Mark and Sweep",
+            "Reference Counting",
+            "Copying Collection"
+          ],
+          "answer": "Generational Garbage Collection",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_29",
+          "question": "The `volatile` keyword guarantees:",
+          "options": [
+            "Atomicity",
+            "Visibility of changes to variables across threads",
+            "Mutual Exclusion",
+            "Serialization"
+          ],
+          "answer": "Visibility of changes to variables across threads",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L4_30",
+          "question": "Custom Exceptions are created by:",
+          "options": [
+            "Extending the Exception class",
+            "Implementing the Exception interface",
+            "Using the 'throw' keyword",
+            "Extending the Object class"
+          ],
+          "answer": "Extending the Exception class",
+          "image_url": null
+        }
+      ]
+    },
+    {
+      "level_id": 5,
+      "difficulty": "Very Difficult",
+      "description": "Design Patterns and SOLID Principles",
+      "questions": [
+        {
+          "id": "OOP_L5_01",
+          "question": "Which Design Pattern ensures a class has only one instance and provides a global point of access to it?",
+          "options": [
+            "Factory Pattern",
+            "Singleton Pattern",
+            "Observer Pattern",
+            "Prototype Pattern"
+          ],
+          "answer": "Singleton Pattern",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_02",
+          "question": "The 'Open/Closed Principle' in SOLID states that:",
+          "options": [
+            "Classes should be open for modification but closed for extension",
+            "Classes should be open for extension but closed for modification",
+            "Code should be open source",
+            "Database connections should be closed"
+          ],
+          "answer": "Classes should be open for extension but closed for modification",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_03",
+          "question": "Which Design Pattern defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified?",
+          "options": [
+            "Observer Pattern",
+            "Strategy Pattern",
+            "Decorator Pattern",
+            "Command Pattern"
+          ],
+          "answer": "Observer Pattern",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_04",
+          "question": "The 'L' in SOLID stands for:",
+          "options": [
+            "Loop Substitution Principle",
+            "Liskov Substitution Principle",
+            "Least Privilege Principle",
+            "Locking Principle"
+          ],
+          "answer": "Liskov Substitution Principle",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_05",
+          "question": "Which pattern is used to create objects without specifying the exact class of object that will be created?",
+          "options": [
+            "Singleton",
+            "Factory Method",
+            "Facade",
+            "Adapter"
+          ],
+          "answer": "Factory Method",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_06",
+          "question": "High Cohesion and Low Coupling is a sign of:",
+          "options": [
+            "Good Software Design",
+            "Bad Software Design",
+            "Procedural Programming",
+            "Spaghetti Code"
+          ],
+          "answer": "Good Software Design",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_07",
+          "question": "What does the 'Dependency Inversion Principle' state?",
+          "options": [
+            "High-level modules should not depend on low-level modules; both should depend on abstractions",
+            "Dependencies should be inverted using static methods",
+            "Classes should depend on concrete implementations",
+            "None of the above"
+          ],
+          "answer": "High-level modules should not depend on low-level modules; both should depend on abstractions",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_08",
+          "question": "Which Design Pattern allows behavior to be added to an individual object, dynamically, without affecting the behavior of other objects from the same class?",
+          "options": [
+            "Decorator Pattern",
+            "Proxy Pattern",
+            "Flyweight Pattern",
+            "Composite Pattern"
+          ],
+          "answer": "Decorator Pattern",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_09",
+          "question": "The 'Interface Segregation Principle' suggests:",
+          "options": [
+            "One large interface is better than many small ones",
+            "Clients should not be forced to depend on interfaces they do not use",
+            "Interfaces should be segregated by access modifiers",
+            "Interfaces should be private"
+          ],
+          "answer": "Clients should not be forced to depend on interfaces they do not use",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_10",
+          "question": "Which pattern provides a unified interface to a set of interfaces in a subsystem (simplifying the usage)?",
+          "options": [
+            "Adapter",
+            "Bridge",
+            "Facade",
+            "Proxy"
+          ],
+          "answer": "Facade",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_11",
+          "question": "Double-Checked Locking is an optimization used in:",
+          "options": [
+            "Thread-safe Singleton implementation",
+            "Factory Pattern",
+            "Garbage Collection",
+            "Cloning"
+          ],
+          "answer": "Thread-safe Singleton implementation",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_12",
+          "question": "Which pattern is used to convert the interface of a class into another interface clients expect?",
+          "options": [
+            "Adapter Pattern",
+            "Bridge Pattern",
+            "Prototype Pattern",
+            "Builder Pattern"
+          ],
+          "answer": "Adapter Pattern",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_13",
+          "question": "The 'Single Responsibility Principle' states:",
+          "options": [
+            "A class should have only one reason to change",
+            "A class should have only one method",
+            "A class should have only one instance",
+            "A program should have one main class"
+          ],
+          "answer": "A class should have only one reason to change",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_14",
+          "question": "Which pattern separates the construction of a complex object from its representation?",
+          "options": [
+            "Builder Pattern",
+            "Factory Pattern",
+            "Abstract Factory",
+            "Prototype"
+          ],
+          "answer": "Builder Pattern",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_15",
+          "question": "What is the main drawback of the Singleton pattern?",
+          "options": [
+            "It introduces global state which makes testing difficult",
+            "It uses too much memory",
+            "It is slow",
+            "It requires an interface"
+          ],
+          "answer": "It introduces global state which makes testing difficult",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_16",
+          "question": "The Strategy Pattern is a behavioral design pattern that enables:",
+          "options": [
+            "Selecting an algorithm at runtime",
+            "Creating objects",
+            "Connecting incompatible interfaces",
+            "Restricting object creation"
+          ],
+          "answer": "Selecting an algorithm at runtime",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_17",
+          "question": "Which pattern involves a 'Subject' and 'Observers'?",
+          "options": [
+            "Observer Pattern",
+            "Command Pattern",
+            "Iterator Pattern",
+            "State Pattern"
+          ],
+          "answer": "Observer Pattern",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_18",
+          "question": "Which antipattern describes a class that knows too much or does too much?",
+          "options": [
+            "God Object",
+            "Spaghetti Code",
+            "Poltergeist",
+            "Boat Anchor"
+          ],
+          "answer": "God Object",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_19",
+          "question": "Composition over Inheritance principle suggests:",
+          "options": [
+            "It is better to compose objects to achieve functionality than to inherit from a base class",
+            "Inheritance is always better",
+            "Never use interfaces",
+            "Always use abstract classes"
+          ],
+          "answer": "It is better to compose objects to achieve functionality than to inherit from a base class",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_20",
+          "question": "Which pattern is useful when the cost of creating an object is expensive and you want to clone existing objects?",
+          "options": [
+            "Prototype Pattern",
+            "Factory Pattern",
+            "Builder Pattern",
+            "Singleton Pattern"
+          ],
+          "answer": "Prototype Pattern",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_21",
+          "question": "What is 'Dependency Injection'?",
+          "options": [
+            "A technique where an object receives other objects that it depends on",
+            "Injecting code into a running process",
+            "A virus attack",
+            "Installing a library"
+          ],
+          "answer": "A technique where an object receives other objects that it depends on",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_22",
+          "question": "MVC Architecture stands for:",
+          "options": [
+            "Model View Controller",
+            "Main Virtual Class",
+            "Model Vector Class",
+            "Managed View Code"
+          ],
+          "answer": "Model View Controller",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_23",
+          "question": "Which pattern restricts the execution of a method to a specific sequence of steps but allows subclasses to override some steps?",
+          "options": [
+            "Template Method Pattern",
+            "Strategy Pattern",
+            "State Pattern",
+            "Chain of Responsibility"
+          ],
+          "answer": "Template Method Pattern",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_24",
+          "question": "The 'Proxy Pattern' is used to:",
+          "options": [
+            "Provide a surrogate or placeholder for another object to control access to it",
+            "Create objects",
+            "Iterate over collections",
+            "Decorate objects"
+          ],
+          "answer": "Provide a surrogate or placeholder for another object to control access to it",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_25",
+          "question": "Which pattern allows an object to alter its behavior when its internal state changes?",
+          "options": [
+            "State Pattern",
+            "Strategy Pattern",
+            "Observer Pattern",
+            "Memento Pattern"
+          ],
+          "answer": "State Pattern",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_26",
+          "question": "What is the 'Flyweight Pattern' used for?",
+          "options": [
+            "To minimize memory usage by sharing as much data as possible with similar objects",
+            "To fly objects across network",
+            "To create heavy objects",
+            "To sort objects"
+          ],
+          "answer": "To minimize memory usage by sharing as much data as possible with similar objects",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_27",
+          "question": "An 'Immutable Object' is one whose state:",
+          "options": [
+            "Cannot be changed after construction",
+            "Can be changed freely",
+            "Is static",
+            "Is deleted immediately"
+          ],
+          "answer": "Cannot be changed after construction",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_28",
+          "question": "The 'Chain of Responsibility' pattern involves:",
+          "options": [
+            "Passing a request along a chain of handlers",
+            "Chaining constructors",
+            "Linking lists",
+            "Database replication"
+          ],
+          "answer": "Passing a request along a chain of handlers",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_29",
+          "question": "Which principle implies that 'Classes should depend on abstractions, not on concrete details'?",
+          "options": [
+            "Dependency Inversion Principle",
+            "Single Responsibility Principle",
+            "Interface Segregation Principle",
+            "Liskov Substitution Principle"
+          ],
+          "answer": "Dependency Inversion Principle",
+          "image_url": null
+        },
+        {
+          "id": "OOP_L5_30",
+          "question": "Which pattern provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation?",
+          "options": [
+            "Iterator Pattern",
+            "Composite Pattern",
+            "Visitor Pattern",
+            "Interpreter Pattern"
+          ],
+          "answer": "Iterator Pattern",
+          "image_url": null
+        }
+      ]
+    }
+  ]
+}
